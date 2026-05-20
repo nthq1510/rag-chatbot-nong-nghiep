@@ -1,0 +1,601 @@
+[
+  {
+    "id": "qa001",
+    "type": "goi_y_san_pham",
+    "question": "Cây ăn trái có biểu hiện Hoa khô, rụng hàng loạt, trái non dễ rụng. Nên dùng sản phẩm nào và vì sao?",
+    "expected_answer": "Sản phẩm đúng: KẼM BORON 50.000ppm. Công dụng: Tăng khả năng thụ phấn, đậu trái, hạn chế rụng hoa và trái non. Cách dùng: Pha 500g cho phuy 200-250 lít nước, phun đều hai mặt lá. Lưu ý: Không pha chung với thuốc có tính kiềm mạnh, bảo quản nơi khô ráo. Giá tham khảo: 75.000 - 90.000 VND.",
+    "expected_product_ids": [
+      "sp1"
+    ],
+    "expected_keywords": [
+      "KẼM BORON 50.000ppm",
+      "Tăng khả năng thụ phấn",
+      "đậu trái",
+      "hạn chế rụng hoa và trái non",
+      "Pha 500g cho phuy 200-250 lít nước, phun đều hai mặt lá",
+      "500g",
+      "200-250 lít"
+    ],
+    "source_product": {
+      "product_id": "sp1",
+      "ten_san_pham": "KẼM BORON 50.000ppm",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa002",
+    "type": "cach_dung",
+    "question": "NPK 20-20-15 TE dùng như thế nào?",
+    "expected_answer": "NPK 20-20-15 TE dùng theo hướng dẫn: Bón gốc 200-500kg/ha tùy cây trồng và độ phì đất. Liều lượng: 500kg. Lượng nước: không nêu rõ.",
+    "expected_product_ids": [
+      "sp2"
+    ],
+    "expected_keywords": [
+      "NPK 20-20-15 TE",
+      "Bón gốc 200-500kg/ha tùy cây trồng và độ phì đất",
+      "500kg"
+    ],
+    "source_product": {
+      "product_id": "sp2",
+      "ten_san_pham": "NPK 20-20-15 TE",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa003",
+    "type": "gia",
+    "question": "Giá tham khảo của DAP 18-46-0 là bao nhiêu?",
+    "expected_answer": "Giá tham khảo của DAP 18-46-0 là 1.100.000 - 1.350.000 VND/bao.",
+    "expected_product_ids": [
+      "sp3"
+    ],
+    "expected_keywords": [
+      "DAP 18-46-0",
+      "1.100.000 - 1.350.000 VND/bao"
+    ],
+    "source_product": {
+      "product_id": "sp3",
+      "ten_san_pham": "DAP 18-46-0",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa004",
+    "type": "thanh_phan",
+    "question": "Thành phần chính của KALI CLORUA KCl 60% là gì?",
+    "expected_answer": "Thành phần chính: kali_huu_hieu_k2o: 60%; dang_kcl: dạng KCl.",
+    "expected_product_ids": [
+      "sp4"
+    ],
+    "expected_keywords": [
+      "KALI CLORUA KCl 60%",
+      "60%",
+      "dạng KCl"
+    ],
+    "source_product": {
+      "product_id": "sp4",
+      "ten_san_pham": "KALI CLORUA KCl 60%",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa005",
+    "type": "an_toan",
+    "question": "Khi dùng CANXI BO MAX cần lưu ý an toàn gì?",
+    "expected_answer": "Lưu ý an toàn: Không pha với phân chứa phosphate đậm đặc, lắc đều trước khi dùng.",
+    "expected_product_ids": [
+      "sp5"
+    ],
+    "expected_keywords": [
+      "CANXI BO MAX",
+      "Không pha với phân chứa phosphate đậm đặc",
+      "lắc đều trước khi dùng"
+    ],
+    "source_product": {
+      "product_id": "sp5",
+      "ten_san_pham": "CANXI BO MAX",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa006",
+    "type": "goi_y_san_pham",
+    "question": "Rau màu có biểu hiện Rễ ít, đất chai cứng, cây vàng lá sau mưa hoặc sau bón phân mạnh. Nên dùng sản phẩm nào và vì sao?",
+    "expected_answer": "Sản phẩm đúng: HUMIC ACID 70%. Công dụng: Cải tạo đất, kích rễ, tăng hấp thu phân bón. Cách dùng: Tưới gốc 1kg/400-600 lít nước hoặc rải 2-5kg/ha. Lưu ý: Có thể phối với NPK nhưng nên thử trước, tránh để nơi ẩm. Giá tham khảo: 120.000 - 180.000 VND.",
+    "expected_product_ids": [
+      "sp6"
+    ],
+    "expected_keywords": [
+      "HUMIC ACID 70%",
+      "Cải tạo đất",
+      "kích rễ",
+      "tăng hấp thu phân bón",
+      "giảm ngộ độc hữu cơ",
+      "Tưới gốc 1kg/400-600 lít nước hoặc rải 2-5kg/ha",
+      "1kg",
+      "400-600 lít"
+    ],
+    "source_product": {
+      "product_id": "sp6",
+      "ten_san_pham": "HUMIC ACID 70%",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa007",
+    "type": "cach_dung",
+    "question": "SEAWEED AMINO 30 dùng như thế nào?",
+    "expected_answer": "SEAWEED AMINO 30 dùng theo hướng dẫn: Pha 15-25ml/bình 16 lít, phun sáng sớm hoặc chiều mát. Liều lượng: 25ml. Lượng nước: 16 lít.",
+    "expected_product_ids": [
+      "sp7"
+    ],
+    "expected_keywords": [
+      "SEAWEED AMINO 30",
+      "Pha 15-25ml/bình 16 lít, phun sáng sớm hoặc chiều mát",
+      "25ml",
+      "16 lít"
+    ],
+    "source_product": {
+      "product_id": "sp7",
+      "ten_san_pham": "SEAWEED AMINO 30",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa008",
+    "type": "gia",
+    "question": "Giá tham khảo của NPK 16-16-8 + TE là bao nhiêu?",
+    "expected_answer": "Giá tham khảo của NPK 16-16-8 + TE là 650.000 - 850.000 VND/bao.",
+    "expected_product_ids": [
+      "sp8"
+    ],
+    "expected_keywords": [
+      "NPK 16-16-8 + TE",
+      "650.000 - 850.000 VND/bao"
+    ],
+    "source_product": {
+      "product_id": "sp8",
+      "ten_san_pham": "NPK 16-16-8 + TE",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa009",
+    "type": "thanh_phan",
+    "question": "Thành phần chính của MAGIE KẼM LƯU HUỲNH là gì?",
+    "expected_answer": "Thành phần chính: mgo: 16%; zn: 5%; s: 12%; phu_gia_trung_vi_luong: phụ gia trung vi lượng.",
+    "expected_product_ids": [
+      "sp9"
+    ],
+    "expected_keywords": [
+      "MAGIE KẼM LƯU HUỲNH",
+      "16%",
+      "5%",
+      "12%",
+      "phụ gia trung vi lượng"
+    ],
+    "source_product": {
+      "product_id": "sp9",
+      "ten_san_pham": "MAGIE KẼM LƯU HUỲNH",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa010",
+    "type": "an_toan",
+    "question": "Khi dùng PHÂN BÓN LÁ 10-55-10 cần lưu ý an toàn gì?",
+    "expected_answer": "Lưu ý an toàn: Không lạm dụng khi cây đang suy kiệt, tránh phun lúc nắng mạnh.",
+    "expected_product_ids": [
+      "sp10"
+    ],
+    "expected_keywords": [
+      "PHÂN BÓN LÁ 10-55-10",
+      "Không lạm dụng khi cây đang suy kiệt",
+      "tránh phun lúc nắng mạnh"
+    ],
+    "source_product": {
+      "product_id": "sp10",
+      "ten_san_pham": "PHÂN BÓN LÁ 10-55-10",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa011",
+    "type": "goi_y_san_pham",
+    "question": "Cây ăn trái có biểu hiện Hoa ít, trái non rụng, trái lớn chậm. Nên dùng sản phẩm nào và vì sao?",
+    "expected_answer": "Sản phẩm đúng: PHÂN BÓN LÁ 6-30-30. Công dụng: Hỗ trợ ra hoa, tăng đậu trái, nuôi trái chắc và lên màu. Cách dùng: Pha 20-40g/bình 16 lít; phun 7-10 ngày/lần. Lưu ý: Không pha với dầu khoáng liều cao, bảo quản kín sau mở gói. Giá tham khảo: 60.000 - 85.000 VND.",
+    "expected_product_ids": [
+      "sp11"
+    ],
+    "expected_keywords": [
+      "PHÂN BÓN LÁ 6-30-30",
+      "Hỗ trợ ra hoa",
+      "tăng đậu trái",
+      "nuôi trái chắc và lên màu",
+      "Pha 20-40g/bình 16 lít; phun 7-10 ngày/lần",
+      "40g",
+      "16 lít"
+    ],
+    "source_product": {
+      "product_id": "sp11",
+      "ten_san_pham": "PHÂN BÓN LÁ 6-30-30",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa012",
+    "type": "cach_dung",
+    "question": "NPK 30-10-10 dùng như thế nào?",
+    "expected_answer": "NPK 30-10-10 dùng theo hướng dẫn: Pha 20-30g/bình 16 lít; phun 2-3 lần cách 7 ngày. Liều lượng: 30g. Lượng nước: 16 lít.",
+    "expected_product_ids": [
+      "sp12"
+    ],
+    "expected_keywords": [
+      "NPK 30-10-10",
+      "Pha 20-30g/bình 16 lít; phun 2-3 lần cách 7 ngày",
+      "30g",
+      "16 lít"
+    ],
+    "source_product": {
+      "product_id": "sp12",
+      "ten_san_pham": "NPK 30-10-10",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa013",
+    "type": "gia",
+    "question": "Giá tham khảo của UREA PHÚ MỸ là bao nhiêu?",
+    "expected_answer": "Giá tham khảo của UREA PHÚ MỸ là 580.000 - 750.000 VND/bao.",
+    "expected_product_ids": [
+      "sp13"
+    ],
+    "expected_keywords": [
+      "UREA PHÚ MỸ",
+      "580.000 - 750.000 VND/bao"
+    ],
+    "source_product": {
+      "product_id": "sp13",
+      "ten_san_pham": "UREA PHÚ MỸ",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa014",
+    "type": "thanh_phan",
+    "question": "Thành phần chính của PHÂN HỮU CƠ VI SINH là gì?",
+    "expected_answer": "Thành phần chính: huu_co: 22%; acid_humic: Acid humic; vi_sinh_bacillus_spp: vi sinh Bacillus spp.; trichoderma_spp: Trichoderma spp..",
+    "expected_product_ids": [
+      "sp14"
+    ],
+    "expected_keywords": [
+      "PHÂN HỮU CƠ VI SINH",
+      "22%",
+      "Acid humic",
+      "vi sinh Bacillus spp.",
+      "Trichoderma spp."
+    ],
+    "source_product": {
+      "product_id": "sp14",
+      "ten_san_pham": "PHÂN HỮU CƠ VI SINH",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa015",
+    "type": "an_toan",
+    "question": "Khi dùng TRICHODERMA NANO cần lưu ý an toàn gì?",
+    "expected_answer": "Lưu ý an toàn: Không dùng chung lúc với thuốc nấm hóa học mạnh, giữ ẩm sau bón.",
+    "expected_product_ids": [
+      "sp15"
+    ],
+    "expected_keywords": [
+      "TRICHODERMA NANO",
+      "Không dùng chung lúc với thuốc nấm hóa học mạnh",
+      "giữ ẩm sau bón"
+    ],
+    "source_product": {
+      "product_id": "sp15",
+      "ten_san_pham": "TRICHODERMA NANO",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa016",
+    "type": "goi_y_san_pham",
+    "question": "Cây con có biểu hiện Cây héo nhẹ, chậm bén rễ, rễ ít lông hút. Nên dùng sản phẩm nào và vì sao?",
+    "expected_answer": "Sản phẩm đúng: ROOTMAX KÍCH RỄ. Công dụng: Kích thích ra rễ trắng, phục hồi cây sau trồng hoặc sau úng. Cách dùng: Pha 30-50ml/bình 16 lít tưới gốc; 7 ngày/lần. Lưu ý: Không tưới lúc đất quá khô nóng, cần kết hợp cải tạo thoát nước. Giá tham khảo: 95.000 - 140.000 VND.",
+    "expected_product_ids": [
+      "sp48"
+    ],
+    "expected_keywords": [
+      "ROOTMAX KÍCH RỄ",
+      "Kích thích ra rễ trắng",
+      "phục hồi cây sau trồng hoặc sau úng",
+      "Pha 30-50ml/bình 16 lít tưới gốc; 7 ngày/lần",
+      "50ml",
+      "16 lít"
+    ],
+    "source_product": {
+      "product_id": "sp48",
+      "ten_san_pham": "ROOTMAX KÍCH RỄ",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa017",
+    "type": "cach_dung",
+    "question": "SIÊU KALI BO dùng như thế nào?",
+    "expected_answer": "SIÊU KALI BO dùng theo hướng dẫn: Pha 25-40g/bình 16 lít; phun 2-3 lần cách 7-10 ngày. Liều lượng: 40g. Lượng nước: 16 lít.",
+    "expected_product_ids": [
+      "sp49"
+    ],
+    "expected_keywords": [
+      "SIÊU KALI BO",
+      "Pha 25-40g/bình 16 lít; phun 2-3 lần cách 7-10 ngày",
+      "40g",
+      "16 lít"
+    ],
+    "source_product": {
+      "product_id": "sp49",
+      "ten_san_pham": "SIÊU KALI BO",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa018",
+    "type": "gia",
+    "question": "Giá tham khảo của PHÂN BÓN LÁ VI LƯỢNG CHELATE là bao nhiêu?",
+    "expected_answer": "Giá tham khảo của PHÂN BÓN LÁ VI LƯỢNG CHELATE là 45.000 - 70.000 VND.",
+    "expected_product_ids": [
+      "sp50"
+    ],
+    "expected_keywords": [
+      "PHÂN BÓN LÁ VI LƯỢNG CHELATE",
+      "45.000 - 70.000 VND"
+    ],
+    "source_product": {
+      "product_id": "sp50",
+      "ten_san_pham": "PHÂN BÓN LÁ VI LƯỢNG CHELATE",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa019",
+    "type": "thanh_phan",
+    "question": "Thành phần chính của NPK 15-15-15 TE là gì?",
+    "expected_answer": "Thành phần chính: n: 15%; p2o5: 15%; k2o: 15%; s: 5%; te: Zn, B, Mn.",
+    "expected_product_ids": [
+      "sp51"
+    ],
+    "expected_keywords": [
+      "NPK 15-15-15 TE",
+      "15%",
+      "15%",
+      "15%",
+      "5%",
+      "Zn, B, Mn"
+    ],
+    "source_product": {
+      "product_id": "sp51",
+      "ten_san_pham": "NPK 15-15-15 TE",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa020",
+    "type": "an_toan",
+    "question": "Khi dùng NPK 12-12-17+2MgO cần lưu ý an toàn gì?",
+    "expected_answer": "Lưu ý an toàn: Không bón quá liều gây mặn rễ, kết hợp tưới đủ ẩm.",
+    "expected_product_ids": [
+      "sp52"
+    ],
+    "expected_keywords": [
+      "NPK 12-12-17+2MgO",
+      "Không bón quá liều gây mặn rễ",
+      "kết hợp tưới đủ ẩm"
+    ],
+    "source_product": {
+      "product_id": "sp52",
+      "ten_san_pham": "NPK 12-12-17+2MgO",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa021",
+    "type": "goi_y_san_pham",
+    "question": "Rau màu có biểu hiện Sinh trưởng chậm, bộ rễ kém, lá xanh không đều. Nên dùng sản phẩm nào và vì sao?",
+    "expected_answer": "Sản phẩm đúng: NPK 13-13-13+TE. Công dụng: Bón nền đa dụng, cân bằng dinh dưỡng cho cây con và cây kinh doanh. Cách dùng: Bón 150-400kg/ha; cây chậu dùng 5-20g/chậu tùy kích thước. Lưu ý: Đọc kỹ hướng dẫn từng cây, không để phân tiếp xúc trực tiếp rễ non. Giá tham khảo: 360.000 - 480.000 VND/bao.",
+    "expected_product_ids": [
+      "sp53"
+    ],
+    "expected_keywords": [
+      "NPK 13-13-13+TE",
+      "Bón nền đa dụng",
+      "cân bằng dinh dưỡng cho cây con và cây kinh doanh",
+      "Bón 150-400kg/ha; cây chậu dùng 5-20g/chậu tùy kích thước",
+      "400kg"
+    ],
+    "source_product": {
+      "product_id": "sp53",
+      "ten_san_pham": "NPK 13-13-13+TE",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa022",
+    "type": "cach_dung",
+    "question": "NPK 20-10-10+TE dùng như thế nào?",
+    "expected_answer": "NPK 20-10-10+TE dùng theo hướng dẫn: Bón 0,3-1,5kg/gốc tùy tuổi cây hoặc 200-400kg/ha. Liều lượng: 1,5kg. Lượng nước: không nêu rõ.",
+    "expected_product_ids": [
+      "sp54"
+    ],
+    "expected_keywords": [
+      "NPK 20-10-10+TE",
+      "Bón 0,3-1,5kg/gốc tùy tuổi cây hoặc 200-400kg/ha",
+      "1,5kg"
+    ],
+    "source_product": {
+      "product_id": "sp54",
+      "ten_san_pham": "NPK 20-10-10+TE",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa023",
+    "type": "gia",
+    "question": "Giá tham khảo của NPK 7-5-44 là bao nhiêu?",
+    "expected_answer": "Giá tham khảo của NPK 7-5-44 là 65.000 - 95.000 VND.",
+    "expected_product_ids": [
+      "sp55"
+    ],
+    "expected_keywords": [
+      "NPK 7-5-44",
+      "65.000 - 95.000 VND"
+    ],
+    "source_product": {
+      "product_id": "sp55",
+      "ten_san_pham": "NPK 7-5-44",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa024",
+    "type": "thanh_phan",
+    "question": "Thành phần chính của MKP 0-52-34 là gì?",
+    "expected_answer": "Thành phần chính: mono_potassium_phosphate: Mono potassium phosphate; p2o5: 52%; k2o: 34%.",
+    "expected_product_ids": [
+      "sp56"
+    ],
+    "expected_keywords": [
+      "MKP 0-52-34",
+      "Mono potassium phosphate",
+      "52%",
+      "34%"
+    ],
+    "source_product": {
+      "product_id": "sp56",
+      "ten_san_pham": "MKP 0-52-34",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa025",
+    "type": "an_toan",
+    "question": "Khi dùng CANXI NITRAT 15.5-0-0+26CaO cần lưu ý an toàn gì?",
+    "expected_answer": "Lưu ý an toàn: Không trộn chung với phân lân, sulfate đậm đặc, bảo quản tránh ẩm.",
+    "expected_product_ids": [
+      "sp57"
+    ],
+    "expected_keywords": [
+      "CANXI NITRAT 15.5-0-0+26CaO",
+      "Không trộn chung với phân lân, sulfate đậm đặc",
+      "bảo quản tránh ẩm"
+    ],
+    "source_product": {
+      "product_id": "sp57",
+      "ten_san_pham": "CANXI NITRAT 15.5-0-0+26CaO",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa026",
+    "type": "goi_y_san_pham",
+    "question": "Cà phê có biểu hiện Lá già vàng giữa gân, gân còn xanh, cây kém xanh. Nên dùng sản phẩm nào và vì sao?",
+    "expected_answer": "Sản phẩm đúng: MAGIE SULPHATE MgSO4. Công dụng: Bổ sung Magie và Lưu huỳnh, tăng diệp lục và quang hợp. Cách dùng: Bón 100-300kg/ha hoặc phun 20-30g/bình 16 lít dạng hòa tan. Lưu ý: Không pha chung Canxi nitrat đậm đặc, tránh bón quá liều gây mất cân đối. Giá tham khảo: 260.000 - 380.000 VND/bao.",
+    "expected_product_ids": [
+      "sp58"
+    ],
+    "expected_keywords": [
+      "MAGIE SULPHATE MgSO4",
+      "Bổ sung Magie và Lưu huỳnh",
+      "tăng diệp lục và quang hợp",
+      "Bón 100-300kg/ha hoặc phun 20-30g/bình 16 lít dạng hòa tan",
+      "300kg",
+      "16 lít"
+    ],
+    "source_product": {
+      "product_id": "sp58",
+      "ten_san_pham": "MAGIE SULPHATE MgSO4",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa027",
+    "type": "cach_dung",
+    "question": "SILIC KALI dùng như thế nào?",
+    "expected_answer": "SILIC KALI dùng theo hướng dẫn: Pha 25-40ml/bình 16 lít; phun 2-3 lần cách 7-10 ngày. Liều lượng: 40ml. Lượng nước: 16 lít.",
+    "expected_product_ids": [
+      "sp59"
+    ],
+    "expected_keywords": [
+      "SILIC KALI",
+      "Pha 25-40ml/bình 16 lít; phun 2-3 lần cách 7-10 ngày",
+      "40ml",
+      "16 lít"
+    ],
+    "source_product": {
+      "product_id": "sp59",
+      "ten_san_pham": "SILIC KALI",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa028",
+    "type": "gia",
+    "question": "Giá tham khảo của AMINO ACID 80% là bao nhiêu?",
+    "expected_answer": "Giá tham khảo của AMINO ACID 80% là 95.000 - 150.000 VND.",
+    "expected_product_ids": [
+      "sp60"
+    ],
+    "expected_keywords": [
+      "AMINO ACID 80%",
+      "95.000 - 150.000 VND"
+    ],
+    "source_product": {
+      "product_id": "sp60",
+      "ten_san_pham": "AMINO ACID 80%",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa029",
+    "type": "thanh_phan",
+    "question": "Thành phần chính của PHÂN CÁ THỦY PHÂN là gì?",
+    "expected_answer": "Thành phần chính: dam_huu_co: 5%; amino_acid: amino acid; acid_huu_co: acid hữu cơ; khoang_vi_luong_tu_ca: khoáng vi lượng từ cá.",
+    "expected_product_ids": [
+      "sp61"
+    ],
+    "expected_keywords": [
+      "PHÂN CÁ THỦY PHÂN",
+      "5%",
+      "amino acid",
+      "acid hữu cơ",
+      "khoáng vi lượng từ cá"
+    ],
+    "source_product": {
+      "product_id": "sp61",
+      "ten_san_pham": "PHÂN CÁ THỦY PHÂN",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  },
+  {
+    "id": "qa030",
+    "type": "an_toan",
+    "question": "Khi dùng PHÂN DƠI HỮU CƠ cần lưu ý an toàn gì?",
+    "expected_answer": "Lưu ý an toàn: Cần ủ hoai kỹ nếu dùng dạng thô, bảo quản khô tránh nấm mốc.",
+    "expected_product_ids": [
+      "sp62"
+    ],
+    "expected_keywords": [
+      "PHÂN DƠI HỮU CƠ",
+      "Cần ủ hoai kỹ nếu dùng dạng thô",
+      "bảo quản khô tránh nấm mốc"
+    ],
+    "source_product": {
+      "product_id": "sp62",
+      "ten_san_pham": "PHÂN DƠI HỮU CƠ",
+      "source_file": "data/Thuoc_Metadata/phan_bon.json"
+    }
+  }
+]

@@ -1,0 +1,974 @@
+[
+  {
+    "question_id": "q001",
+    "question": "Lúa bị rầy nâu, lá vàng từng chòm thì dùng thuốc gì?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7882032615971819,
+        "chunk_id": "sp21::chunk_2",
+        "product_id": "sp21",
+        "ten_san_pham": "PYMETROZINE 50WG",
+        "text": "số vừa phải; trước khi cháy rầy Đất/môi trường phù hợp: Đất canh tác lâu năm, dễ thiếu Canxi-Bo Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: PYMETROZINE 50WG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rầy rệp hút nhựa, mật số cao trong thời tiết nóng ẩm. Nhờ đó, cây được hỗ trợ trừ rầy nâu, rầy lưng trắng, rệp mềm bằng cơ chế ức chế chích hút, đặc biệt nên dùng ở thời điểm khi rầy tuổi nhỏ, mật số vừa phải, trước khi cháy rầy."
+      },
+      {
+        "rank": 2,
+        "score": 0.7721783319321288,
+        "chunk_id": "sp138::chunk_2",
+        "product_id": "sp138",
+        "ten_san_pham": "BUPROFEZIN 25SC",
+        "text": "Giai đoạn phù hợp: Khi rầy chủ yếu tuổi nhỏ; trước khi cháy rầy Đất/môi trường phù hợp: Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: BUPROFEZIN 25SC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rầy non phát sinh mạnh, ruộng rậm và bón thừa đạm. Nhờ đó, cây được hỗ trợ ức chế lột xác rầy non, trừ rầy nâu, rầy lưng trắng, rệp sáp non, đặc biệt nên dùng ở thời điểm khi rầy chủ yếu tuổi nhỏ, trước khi cháy rầy."
+      },
+      {
+        "rank": 3,
+        "score": 0.7708152630076477,
+        "chunk_id": "sp138::chunk_1",
+        "product_id": "sp138",
+        "ten_san_pham": "BUPROFEZIN 25SC",
+        "text": "Sản phẩm: BUPROFEZIN 25SC Loại: thuoc_tru_sau Rule key: thuoc_tru_sau | Rầy non bám gốc lúa, cây vàng từng chòm, mật ngọt trên lá Thành phần: buprofezin: 250g/lít Quy cách: Chai 500ml Công dụng: Ức chế lột xác rầy non; trừ rầy nâu; rầy lưng trắng; rệp sáp non Triệu chứng: Rầy non bám gốc lúa, cây vàng từng chòm, mật ngọt trên lá Nguyên nhân: Rầy non phát sinh mạnh; ruộng rậm và bón thừa đạm Cây trồng phù hợp: Lúa; xoài; cam quýt; cây ăn trái Thời điểm xử lý: Khi rầy chủ yếu tuổi nhỏ; trước khi cháy rầy Hướng dẫn sử dụng: cach_dung: Pha 25-35ml/bình 16 lít; phun kỹ gốc lúa hoặc nơi rầy trú; lieu_luong: 35ml; luong_nuoc: 16 lít An toàn sử dụng: Không hiệu quả nhanh với rầy trưởng thành; cần thăm đồng sau phun Giá tham khảo: tu: 90000; den: 130000; don_vi: VND Đặc tính bệnh/hoạt chất: Có khả năng phòng ngừa và ức chế phát triển; Phù hợp xử lý nhóm côn trùng gây hại; Bổ sung dinh dưỡng thiếu hụt cho cây Giai đoạn phù hợp: Khi rầy chủ yếu tuổi nhỏ; trước khi cháy rầy Đất/môi trường phù hợp: Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia:"
+      },
+      {
+        "rank": 4,
+        "score": 0.7680028510627198,
+        "chunk_id": "sp426::chunk_1",
+        "product_id": "sp426",
+        "ten_san_pham": "PYMETROZINE + DINOTEFURAN",
+        "text": "Sản phẩm: PYMETROZINE + DINOTEFURAN Loại: thuoc_tru_sau Rule key: thuoc_tru_sau | Lúa vàng từng chòm, rầy bám gốc, lá xoăn do rệp Thành phần: pymetrozine: 40%; dinotefuran: 10%; dang_wg: dạng WG Quy cách: Gói 100g Công dụng: Trừ rầy nâu; rệp; bọ phấn bằng tác động ngừng chích hút và lưu dẫn Triệu chứng: Lúa vàng từng chòm, rầy bám gốc, lá xoăn do rệp Nguyên nhân: Côn trùng chích hút mật số cao trong ruộng/vườn rậm Cây trồng phù hợp: Lúa; rau màu; cây ăn trái Thời điểm xử lý: Khi rầy/rệp tuổi nhỏ đến trung bình Hướng dẫn sử dụng: cach_dung: Pha 5-8g/bình 16 lít; phun kỹ gốc lúa hoặc mặt dưới lá; lieu_luong: 8g; luong_nuoc: 16 lít An toàn sử dụng: Không phun trễ khi cháy rầy nặng; luân phiên nhóm thuốc Giá tham khảo: tu: 90000; den: 140000; don_vi: VND Đặc tính bệnh/hoạt chất: Tác động nội hấp, lưu dẫn trong cây; Phù hợp xử lý nhóm côn trùng gây hại Giai đoạn phù hợp: Khi rầy/rệp tuổi nhỏ đến trung bình Đất/môi trường phù hợp: Đất thiếu vi lượng; Đất canh tác lâu năm, dễ thiếu Canxi-Bo Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: PYMETROZINE + DINOTEFURAN phù hợp vì sản phẩm tập trung"
+      },
+      {
+        "rank": 5,
+        "score": 0.765139329208994,
+        "chunk_id": "sp133::chunk_2",
+        "product_id": "sp133",
+        "ten_san_pham": "CHLORFENAPYR 240SC",
+        "text": "sâu nhện mới tăng mật số; ưu tiên phun chiều mát Đất/môi trường phù hợp: Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: CHLORFENAPYR 240SC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Sâu và nhện kháng thuốc cũ hoặc mật số tăng trong điều kiện khô nóng. Nhờ đó, cây được hỗ trợ trừ sâu tơ, sâu khoang, nhện đỏ, bọ trĩ bằng cơ chế vị độc-tiếp xúc, đặc biệt nên dùng ở thời điểm khi sâu nhện mới tăng mật số, ưu tiên phun chiều mát."
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nLúa bị rầy nâu, lá vàng từng chòm → phù hợp với triệu chứng rầy non tuổi nhỏ, bám gốc, cây vàng từng chòm, mật số cao trong điều kiện nóng ẩm.\n\n2. Sản phẩm gợi ý  \nPYMETROZINE 50WG; BUPROFEZIN 25SC; PYMETROZINE + DINOTEFURAN\n\n3. Lý do phù hợp  \n- PYMETROZINE 50WG: Ức chế chích hút của rầy rệp, phù hợp khi rầy tuổi nhỏ, mật số vừa phải, trước khi cháy rầy.  \n- BUPROFEZIN 25SC: Ức chế lột xác rầy non, hiệu quả với rầy nâu, rầy lưng trắng, rệp sáp non khi rầy tuổi nhỏ, trước khi cháy rầy.  \n- PYMETROZINE + DINOTEFURAN: Kết hợp ức chế chích hút và lưu dẫn, trừ rầy nâu, rệp, bọ phấn khi rầy/rệp tuổi nhỏ đến trung bình.\n\n4. Cách dùng tóm tắt  \n- PYMETROZINE 50WG: Pha 25-35ml/bình 16 lít (tùy theo sản phẩm cụ thể), phun kỹ gốc hoặc mặt dưới lá.  \n- BUPROFEZIN 25SC: Pha 25-35ml/bình 16 lít, phun kỹ gốc lúa hoặc nơi rầy trú.  \n- PYMETROZINE + DINOTEFURAN: Pha 5-8g/bình 16 lít, phun kỹ gốc lúa hoặc mặt dưới lá.\n\n5. Lưu ý an toàn  \n- Không hiệu quả nhanh với rầy trưởng thành; cần thăm đồng sau khi phun.  \n- Không phun trễ khi cháy rầy nặng.  \n- Cần luân phiên nhóm thuốc.  \n- Phối hợp với chất bám dính và phân bón lá để giúp cây phục hồi.",
+    "latency": {
+      "retrieval_seconds": 0.1754,
+      "generation_seconds": 26.6679,
+      "total_seconds": 26.8434
+    }
+  },
+  {
+    "question_id": "q002",
+    "question": "Ruộng lúa bị đạo ôn, trên lá có vết cháy hình thoi nên xử lý bằng thuốc nào?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7764020462563339,
+        "chunk_id": "sp21::chunk_2",
+        "product_id": "sp21",
+        "ten_san_pham": "PYMETROZINE 50WG",
+        "text": "số vừa phải; trước khi cháy rầy Đất/môi trường phù hợp: Đất canh tác lâu năm, dễ thiếu Canxi-Bo Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: PYMETROZINE 50WG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rầy rệp hút nhựa, mật số cao trong thời tiết nóng ẩm. Nhờ đó, cây được hỗ trợ trừ rầy nâu, rầy lưng trắng, rệp mềm bằng cơ chế ức chế chích hút, đặc biệt nên dùng ở thời điểm khi rầy tuổi nhỏ, mật số vừa phải, trước khi cháy rầy."
+      },
+      {
+        "rank": 2,
+        "score": 0.7624217429098834,
+        "chunk_id": "sp293::chunk_2",
+        "product_id": "sp293",
+        "ten_san_pham": "CHLORFENAPYR + ABAMECTIN",
+        "text": "gây cháy lá nặng Đất/môi trường phù hợp: Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: CHLORFENAPYR + ABAMECTIN phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Sâu nhện phát sinh mạnh trong điều kiện khô nóng và kháng thuốc cũ. Nhờ đó, cây được hỗ trợ trừ sâu tơ, bọ trĩ, nhện đỏ và sâu ăn lá khó trị, đặc biệt nên dùng ở thời điểm khi mật số sâu/nhện tăng nhưng chưa gây cháy lá nặng."
+      },
+      {
+        "rank": 3,
+        "score": 0.7534416996181684,
+        "chunk_id": "sp138::chunk_2",
+        "product_id": "sp138",
+        "ten_san_pham": "BUPROFEZIN 25SC",
+        "text": "Giai đoạn phù hợp: Khi rầy chủ yếu tuổi nhỏ; trước khi cháy rầy Đất/môi trường phù hợp: Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: BUPROFEZIN 25SC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rầy non phát sinh mạnh, ruộng rậm và bón thừa đạm. Nhờ đó, cây được hỗ trợ ức chế lột xác rầy non, trừ rầy nâu, rầy lưng trắng, rệp sáp non, đặc biệt nên dùng ở thời điểm khi rầy chủ yếu tuổi nhỏ, trước khi cháy rầy."
+      },
+      {
+        "rank": 4,
+        "score": 0.7479621656582681,
+        "chunk_id": "sp127::chunk_2",
+        "product_id": "sp127",
+        "ten_san_pham": "BEAUVERIA BASSIANA WP",
+        "text": "gió hoặc nước mưa; Tác động lên bệnh do nấm; Phù hợp xử lý nhóm côn trùng gây hại Giai đoạn phù hợp: Khi sâu rầy mới xuất hiện; ẩm độ cao; trời mát Đất/môi trường phù hợp: Điều kiện canh tác thông thường Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: BEAUVERIA BASSIANA WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Côn trùng chích hút hoặc sâu non phát sinh trong điều kiện ẩm. Nhờ đó, cây được hỗ trợ nấm xanh sinh học trừ rầy, rệp, bọ phấn, sâu non an toàn hơn cho hệ sinh thái, đặc biệt nên dùng ở thời điểm khi sâu rầy mới xuất hiện, ẩm độ cao, trời mát."
+      },
+      {
+        "rank": 5,
+        "score": 0.7436146990898032,
+        "chunk_id": "sp138::chunk_1",
+        "product_id": "sp138",
+        "ten_san_pham": "BUPROFEZIN 25SC",
+        "text": "Sản phẩm: BUPROFEZIN 25SC Loại: thuoc_tru_sau Rule key: thuoc_tru_sau | Rầy non bám gốc lúa, cây vàng từng chòm, mật ngọt trên lá Thành phần: buprofezin: 250g/lít Quy cách: Chai 500ml Công dụng: Ức chế lột xác rầy non; trừ rầy nâu; rầy lưng trắng; rệp sáp non Triệu chứng: Rầy non bám gốc lúa, cây vàng từng chòm, mật ngọt trên lá Nguyên nhân: Rầy non phát sinh mạnh; ruộng rậm và bón thừa đạm Cây trồng phù hợp: Lúa; xoài; cam quýt; cây ăn trái Thời điểm xử lý: Khi rầy chủ yếu tuổi nhỏ; trước khi cháy rầy Hướng dẫn sử dụng: cach_dung: Pha 25-35ml/bình 16 lít; phun kỹ gốc lúa hoặc nơi rầy trú; lieu_luong: 35ml; luong_nuoc: 16 lít An toàn sử dụng: Không hiệu quả nhanh với rầy trưởng thành; cần thăm đồng sau phun Giá tham khảo: tu: 90000; den: 130000; don_vi: VND Đặc tính bệnh/hoạt chất: Có khả năng phòng ngừa và ức chế phát triển; Phù hợp xử lý nhóm côn trùng gây hại; Bổ sung dinh dưỡng thiếu hụt cho cây Giai đoạn phù hợp: Khi rầy chủ yếu tuổi nhỏ; trước khi cháy rầy Đất/môi trường phù hợp: Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia:"
+      }
+    ],
+    "answer": "CONTEXT không cung cấp thông tin về triệu chứng \"vết cháy hình thoi trên lá\" do đạo ôn (nhiễm bệnh do nấm, thường là bệnh đạo ôn, bệnh nấm gây cháy lá). Các sản phẩm trong CONTEXT đều tập trung vào xử lý côn trùng như rầy, sâu, nhện, chứ không đề cập đến bệnh do nấm gây cháy lá hình thoi.\n\nDo đó, không có sản phẩm nào trong CONTEXT phù hợp với chẩn đoán bệnh đạo ôn trên lúa.\n\n1. Chẩn đoán khả năng  \nKhông có thông tin trong CONTEXT để xác định bệnh đạo ôn trên lúa.\n\n2. Sản phẩm gợi ý  \nKhông có sản phẩm phù hợp trong CONTEXT.\n\n3. Lý do phù hợp  \nKhông có dữ liệu trong CONTEXT liên quan đến bệnh đạo ôn hoặc các triệu chứng cháy lá hình thoi.\n\n4. Cách dùng tóm tắt  \nKhông có thông tin để cung cấp cách dùng.\n\n5. Lưu ý an toàn  \nKhông có dữ liệu liên quan để đưa ra lưu ý an toàn.  \n\n→ **Chưa đủ dữ liệu trong CONTEXT để trả lời câu hỏi.**",
+    "latency": {
+      "retrieval_seconds": 0.0139,
+      "generation_seconds": 13.6918,
+      "total_seconds": 13.7057
+    }
+  },
+  {
+    "question_id": "q003",
+    "question": "Lúa bị sâu cuốn lá làm lá bị cuộn lại và khô đầu lá thì nên phun thuốc gì?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.718252419096153,
+        "chunk_id": "sp238::chunk_2",
+        "product_id": "sp238",
+        "ten_san_pham": "NOVALURON 10EC",
+        "text": "gây hại Giai đoạn phù hợp: Phun khi sâu tuổi nhỏ hoặc mới thấy trứng nở Đất/môi trường phù hợp: Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: NOVALURON 10EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Sâu non phát triển liên tục trong điều kiện thời tiết thuận lợi. Nhờ đó, cây được hỗ trợ ức chế tổng hợp chitin, trừ sâu non và trứng mới nở, đặc biệt nên dùng ở thời điểm phun khi sâu tuổi nhỏ hoặc mới thấy trứng nở."
+      },
+      {
+        "rank": 2,
+        "score": 0.7172697346053508,
+        "chunk_id": "sp40::chunk_2",
+        "product_id": "sp40",
+        "ten_san_pham": "2,4-D 720SL",
+        "text": "Sau sạ 15-25 ngày; khi lúa đã cứng cây Đất/môi trường phù hợp: Ruộng hoặc vườn có áp lực cỏ dại Gợi ý phối hợp: Chất bám dính; Phân hữu cơ phục hồi đất sau xử lý cỏ Lý do chuyên gia: 2,4-D 720SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại phát triển sau sạ, đặc biệt nơi ruộng thưa. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng, cỏ chác lác trong ruộng lúa, đặc biệt nên dùng ở thời điểm sau sạ 15-25 ngày, khi lúa đã cứng cây."
+      },
+      {
+        "rank": 3,
+        "score": 0.7158817229027647,
+        "chunk_id": "sp21::chunk_2",
+        "product_id": "sp21",
+        "ten_san_pham": "PYMETROZINE 50WG",
+        "text": "số vừa phải; trước khi cháy rầy Đất/môi trường phù hợp: Đất canh tác lâu năm, dễ thiếu Canxi-Bo Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: PYMETROZINE 50WG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rầy rệp hút nhựa, mật số cao trong thời tiết nóng ẩm. Nhờ đó, cây được hỗ trợ trừ rầy nâu, rầy lưng trắng, rệp mềm bằng cơ chế ức chế chích hút, đặc biệt nên dùng ở thời điểm khi rầy tuổi nhỏ, mật số vừa phải, trước khi cháy rầy."
+      },
+      {
+        "rank": 4,
+        "score": 0.7133099953388328,
+        "chunk_id": "sp222::chunk_2",
+        "product_id": "sp222",
+        "ten_san_pham": "ABAMECTIN + EMAMECTIN 5WG",
+        "text": "khi sâu đục sâu vào trái Đất/môi trường phù hợp: Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: ABAMECTIN + EMAMECTIN 5WG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Sâu non bộ cánh vảy và côn trùng nhỏ phát sinh nhanh trong thời tiết nóng ẩm. Nhờ đó, cây được hỗ trợ trừ sâu tơ, sâu xanh, sâu khoang, nhện và bọ trĩ ở mật số vừa, đặc biệt nên dùng ở thời điểm phun khi sâu tuổi nhỏ, trước khi sâu đục sâu vào trái."
+      },
+      {
+        "rank": 5,
+        "score": 0.7126446816382486,
+        "chunk_id": "sp489::chunk_1",
+        "product_id": "sp489",
+        "ten_san_pham": "CARPROPAMID 30SC",
+        "text": "Sản phẩm: CARPROPAMID 30SC Loại: thuoc_tru_benh Rule key: thuoc_tru_benh | Lá có vết bệnh hình thoi, bông lép trắng do cổ bông Thành phần: carpropamid: 300g/lít Quy cách: Chai 100ml Công dụng: Phòng trị đạo ôn lúa; nhất là giai đoạn cổ bông Triệu chứng: Lá có vết bệnh hình thoi, bông lép trắng do cổ bông Nguyên nhân: Nấm đạo ôn phát triển khi ẩm lạnh và ruộng bón thừa đạm Cây trồng phù hợp: Lúa Thời điểm xử lý: Trước trổ 5-7 ngày và khi bệnh đạo ôn chớm Hướng dẫn sử dụng: cach_dung: Pha theo nhãn; phun đủ lượng nước phủ đều ruộng An toàn sử dụng: Không phun trễ khi bệnh đã nặng; kết hợp giống kháng Giá tham khảo: tu: 95000; den: 150000; don_vi: VND Đặc tính bệnh/hoạt chất: Có khả năng phòng ngừa và ức chế phát triển; Tác động lên bệnh do nấm; Bổ sung dinh dưỡng thiếu hụt cho cây Giai đoạn phù hợp: Trước trổ 5-7 ngày và khi bệnh đạo ôn chớm Đất/môi trường phù hợp: Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: CARPROPAMID 30SC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm đạo ôn phát"
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nKhông có thông tin trong CONTEXT về hiện tượng \"lúa bị sâu cuốn lá làm lá bị cuộn lại và khô đầu lá\" được mô tả cụ thể hoặc liên kết với loại sâu nào.\n\n2. Sản phẩm gợi ý  \nChưa có sản phẩm nào trong CONTEXT được chỉ định phù hợp với triệu chứng sâu cuốn lá làm lá cuộn và khô đầu lá.\n\n3. Lý do phù hợp  \nKhông có dữ liệu trong CONTEXT liên quan đến sâu cuốn lá hoặc triệu chứng lá cuộn, khô đầu lá để xác định sản phẩm phù hợp.\n\n4. Cách dùng tóm tắt  \nKhông có thông tin về cách dùng phù hợp với triệu chứng này.\n\n5. Lưu ý an toàn  \nKhông có thông tin liên quan để đưa ra lưu ý an toàn.  \n\n→ **Chưa đủ dữ liệu trong CONTEXT để trả lời câu hỏi này.**",
+    "latency": {
+      "retrieval_seconds": 0.0135,
+      "generation_seconds": 10.5704,
+      "total_seconds": 10.584
+    }
+  },
+  {
+    "question_id": "q004",
+    "question": "Cây ăn trái bị vàng lá, rễ yếu sau mưa nhiều thì nên dùng sản phẩm nào để phục hồi?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7502231425870992,
+        "chunk_id": "sp250::chunk_2",
+        "product_id": "sp250",
+        "ten_san_pham": "CYPRODINIL + FLUDIOXONIL",
+        "text": "hợp: Sau thu hoạch, phục hồi cây; Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất thiếu vi lượng; Đất canh tác lâu năm, dễ thiếu Canxi-Bo; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh; Đồng sinh học; Amino Acid phục hồi cây Lý do chuyên gia: CYPRODINIL + FLUDIOXONIL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm Botrytis và nấm thối trái phát triển trong điều kiện ẩm. Nhờ đó, cây được hỗ trợ trị thối hoa, mốc xám, thối trái và bệnh sau thu hoạch, đặc biệt nên dùng ở thời điểm giai đoạn hoa, trái non, trước/sau mưa hoặc ẩm kéo dài."
+      },
+      {
+        "rank": 2,
+        "score": 0.7316969353594994,
+        "chunk_id": "sp431::chunk_2",
+        "product_id": "sp431",
+        "ten_san_pham": "METALAXYL-M + COPPER",
+        "text": "Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh; Đồng sinh học; Amino Acid phục hồi cây Lý do chuyên gia: METALAXYL-M + COPPER phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm Phytophthora/Pythium phát triển trong đất ẩm. Nhờ đó, cây được hỗ trợ phòng trị thối rễ, xì mủ, sương mai và bệnh bề mặt sau mưa, đặc biệt nên dùng ở thời điểm đầu mùa mưa, sau mưa kéo dài, khi bệnh chớm."
+      },
+      {
+        "rank": 3,
+        "score": 0.7303335020323152,
+        "chunk_id": "sp353::chunk_2",
+        "product_id": "sp353",
+        "ten_san_pham": "TRICHODERMA XỬ LÝ RỄ TIÊU",
+        "text": "hồi sau stress sinh lý Giai đoạn phù hợp: Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất nghèo hữu cơ; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh; Đồng sinh học; Amino Acid phục hồi cây Lý do chuyên gia: TRICHODERMA XỬ LÝ RỄ TIÊU phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm đất và thoát nước kém làm rễ tổn thương. Nhờ đó, cây được hỗ trợ đối kháng nấm hại rễ, hỗ trợ giảm chết nhanh/chết chậm trên tiêu, đặc biệt nên dùng ở thời điểm đầu mùa mưa, sau thu hoạch, khi rễ bắt đầu yếu."
+      },
+      {
+        "rank": 4,
+        "score": 0.7225797230629548,
+        "chunk_id": "sp446::chunk_2",
+        "product_id": "sp446",
+        "ten_san_pham": "PHOSPHITE ĐỒNG KẼM",
+        "text": "cho cây Giai đoạn phù hợp: Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất thiếu vi lượng; Đất cần bổ sung Kali cho giai đoạn nuôi trái; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh; Đồng sinh học; Amino Acid phục hồi cây Lý do chuyên gia: PHOSPHITE ĐỒNG KẼM phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Phytophthora và nấm khuẩn phát triển khi đất ẩm. Nhờ đó, cây được hỗ trợ tăng đề kháng, hỗ trợ phòng xì mủ, thối rễ và nấm khuẩn nhẹ, đặc biệt nên dùng ở thời điểm trước mùa mưa, sau mưa kéo dài, khi bệnh chớm."
+      },
+      {
+        "rank": 5,
+        "score": 0.7213942702048771,
+        "chunk_id": "sp72::chunk_2",
+        "product_id": "sp72",
+        "ten_san_pham": "FOSETYL-AL 80WP",
+        "text": "bệnh do nấm Giai đoạn phù hợp: Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh; Đồng sinh học; Amino Acid phục hồi cây Lý do chuyên gia: FOSETYL-AL 80WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm Phytophthora và Pythium gây hại trong đất ẩm, thoát nước kém. Nhờ đó, cây được hỗ trợ phòng trị thối rễ, xì mủ, sương mai; tăng sức đề kháng cây, đặc biệt nên dùng ở thời điểm đầu mùa mưa, sau mưa kéo dài, khi vườn có biểu hiện thối rễ."
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nCây ăn trái bị vàng lá, rễ yếu sau mưa nhiều có thể do môi trường ẩm cao, dẫn đến phát sinh nấm bệnh (như nấm Phytophthora, Pythium), gây thối rễ, xì mủ và suy yếu rễ, từ đó ảnh hưởng đến sức khỏe cây và biểu hiện vàng lá.\n\n2. Sản phẩm gợi ý  \nTRICHODERMA XỬ LÝ RỄ TIÊU\n\n3. Lý do phù hợp  \nTRICHODERMA XỬ LÝ RỄ TIÊU phù hợp vì sản phẩm tập trung xử lý nguyên nhân: nấm đất và thoát nước kém làm rễ tổn thương. Nhờ đó, cây được hỗ trợ đối kháng nấm hại rễ, giảm chết nhanh/chết chậm trên tiêu, đặc biệt nên dùng ở thời điểm đầu mùa mưa, sau thu hoạch, khi rễ bắt đầu yếu – phù hợp với tình trạng rễ yếu sau mưa nhiều.\n\n4. Cách dùng tóm tắt  \nDùng ở thời điểm đầu mùa mưa, sau thu hoạch, khi rễ bắt đầu yếu.\n\n5. Lưu ý an toàn  \nKhông có thông tin cụ thể về lưu ý an toàn trong CONTEXT.",
+    "latency": {
+      "retrieval_seconds": 0.0138,
+      "generation_seconds": 14.7189,
+      "total_seconds": 14.7328
+    }
+  },
+  {
+    "question_id": "q005",
+    "question": "Lúa bị lem lép hạt, hạt bị đen và chất lượng gạo kém thì dùng thuốc trừ bệnh nào?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7653319820399624,
+        "chunk_id": "sp242::chunk_1",
+        "product_id": "sp242",
+        "ten_san_pham": "TEBUCONAZOLE + TRICYCLAZOLE",
+        "text": "Sản phẩm: TEBUCONAZOLE + TRICYCLAZOLE Loại: thuoc_tru_benh Rule key: thuoc_tru_benh | Lá lúa có vết hình thoi, cổ bông thâm, hạt lem đen Thành phần: tebuconazole: 20%; tricyclazole: 40%; dang_wp_wg: dạng WP/WG Quy cách: Gói 100g Công dụng: Đặc trị đạo ôn; lem lép hạt và một số bệnh nấm trên lúa Triệu chứng: Lá lúa có vết hình thoi, cổ bông thâm, hạt lem đen Nguyên nhân: Nấm đạo ôn và nấm hại hạt phát sinh khi ẩm; sương mù; bón thừa đạm Cây trồng phù hợp: Lúa Thời điểm xử lý: Giai đoạn đẻ nhánh; làm đòng; trước trổ và sau trổ Hướng dẫn sử dụng: cach_dung: Pha 10-15g/bình 16 lít; phun đủ lượng nước cho ruộng lúa; lieu_luong: 15g; luong_nuoc: 16 lít An toàn sử dụng: Không bón thừa đạm; luân phiên hoạt chất để giảm kháng Giá tham khảo: tu: 60000; den: 95000; don_vi: VND Đặc tính bệnh/hoạt chất: Tác động lên bệnh do nấm; Bổ sung dinh dưỡng thiếu hụt cho cây Giai đoạn phù hợp: Giai đoạn sinh trưởng mạnh; Nuôi trái, củ hoặc hạt Đất/môi trường phù hợp: Đất thiếu vi lượng; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: TEBUCONAZOLE + TRICYCLAZOLE phù"
+      },
+      {
+        "rank": 2,
+        "score": 0.764839069142831,
+        "chunk_id": "sp244::chunk_2",
+        "product_id": "sp244",
+        "ten_san_pham": "ISOPROTHIOLANE 40EC",
+        "text": "Đất canh tác lâu năm, dễ thiếu Canxi-Bo; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: ISOPROTHIOLANE 40EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm đạo ôn phát sinh khi ruộng rậm, đạm cao, ẩm độ lớn. Nhờ đó, cây được hỗ trợ phòng trị đạo ôn, hỗ trợ lúa khỏe trong giai đoạn mẫn cảm, đặc biệt nên dùng ở thời điểm giai đoạn đẻ nhánh, làm đòng và trước trổ."
+      },
+      {
+        "rank": 3,
+        "score": 0.7602983651754274,
+        "chunk_id": "sp398::chunk_1",
+        "product_id": "sp398",
+        "ten_san_pham": "THIFLUZAMIDE 24SC",
+        "text": "Sản phẩm: THIFLUZAMIDE 24SC Loại: thuoc_tru_benh Rule key: thuoc_tru_benh | Bẹ lúa có vết mắt cua, ruộng cháy từng đám Thành phần: thifluzamide: 240g/lít Quy cách: Chai 100ml Công dụng: Đặc trị khô vằn lúa và nấm Rhizoctonia Triệu chứng: Bẹ lúa có vết mắt cua, ruộng cháy từng đám Nguyên nhân: Nấm Rhizoctonia phát triển khi ruộng rậm; ẩm và thừa đạm Cây trồng phù hợp: Lúa; một số cây trồng theo nhãn Thời điểm xử lý: Giai đoạn đẻ nhánh rộ đến làm đòng; bệnh mới chớm Hướng dẫn sử dụng: cach_dung: Pha 8-12ml/bình 16 lít; phun sát bẹ/gốc lúa; lieu_luong: 12ml; luong_nuoc: 16 lít An toàn sử dụng: Không bón thừa đạm; luân phiên hoạt chất Giá tham khảo: tu: 95000; den: 150000; don_vi: VND Đặc tính bệnh/hoạt chất: Tác động lên bệnh do nấm; Bổ sung dinh dưỡng thiếu hụt cho cây Giai đoạn phù hợp: Giai đoạn sinh trưởng mạnh; Nuôi trái, củ hoặc hạt Đất/môi trường phù hợp: Đất thiếu vi lượng; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: THIFLUZAMIDE 24SC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm Rhizoctonia phát triển khi ruộng rậm, ẩm và thừa đạm. Nhờ"
+      },
+      {
+        "rank": 4,
+        "score": 0.747178752272663,
+        "chunk_id": "sp242::chunk_2",
+        "product_id": "sp242",
+        "ten_san_pham": "TEBUCONAZOLE + TRICYCLAZOLE",
+        "text": "hạt Đất/môi trường phù hợp: Đất thiếu vi lượng; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: TEBUCONAZOLE + TRICYCLAZOLE phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm đạo ôn và nấm hại hạt phát sinh khi ẩm, sương mù, bón thừa đạm. Nhờ đó, cây được hỗ trợ đặc trị đạo ôn, lem lép hạt và một số bệnh nấm trên lúa, đặc biệt nên dùng ở thời điểm giai đoạn đẻ nhánh, làm đòng, trước trổ và sau trổ."
+      },
+      {
+        "rank": 5,
+        "score": 0.7453593018318408,
+        "chunk_id": "sp436::chunk_2",
+        "product_id": "sp436",
+        "ten_san_pham": "AZOXYSTROBIN + BOSCALID",
+        "text": "hợp: Đất thiếu vi lượng; Đất canh tác lâu năm, dễ thiếu Canxi-Bo; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: AZOXYSTROBIN + BOSCALID phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm bệnh tấn công giai đoạn hoa-trái trong điều kiện ẩm. Nhờ đó, cây được hỗ trợ trị thán thư, đốm lá, mốc xám và bệnh hoa trái, đặc biệt nên dùng ở thời điểm trước/sau mưa, giai đoạn ra hoa đậu trái."
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nLúa bị lem lép hạt, hạt bị đen và chất lượng gạo kém do nấm hại hạt phát sinh khi ẩm, sương mù và bón thừa đạm.\n\n2. Sản phẩm gợi ý  \nTEBUCONAZOLE + TRICYCLAZOLE\n\n3. Lý do phù hợp  \nSản phẩm tập trung xử lý nguyên nhân: Nấm đạo ôn và nấm hại hạt phát sinh khi ẩm, sương mù, bón thừa đạm. Nhờ đó, cây được hỗ trợ đặc trị đạo ôn, lem lép hạt và một số bệnh nấm trên lúa, đặc biệt nên dùng ở thời điểm giai đoạn đẻ nhánh, làm đòng, trước trổ và sau trổ.\n\n4. Cách dùng tóm tắt  \nPha 10-15g/bình 16 lít, phun đủ lượng nước cho ruộng lúa.\n\n5. Lưu ý an toàn  \nKhông bón thừa đạm; luân phiên hoạt chất để giảm kháng.",
+    "latency": {
+      "retrieval_seconds": 0.0137,
+      "generation_seconds": 13.555,
+      "total_seconds": 13.5688
+    }
+  },
+  {
+    "question_id": "q006",
+    "question": "Vườn có nhiều cỏ dại cạnh tranh dinh dưỡng với cây trồng thì nên dùng thuốc trừ cỏ gì?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7959227205157327,
+        "chunk_id": "sp37::chunk_2",
+        "product_id": "sp37",
+        "ten_san_pham": "PARAQUAT 276SL",
+        "text": "hợp: Khi cỏ còn non; phun tránh cây trồng Đất/môi trường phù hợp: Ruộng hoặc vườn có áp lực cỏ dại Gợi ý phối hợp: Chất bám dính; Phân hữu cơ phục hồi đất sau xử lý cỏ Lý do chuyên gia: PARAQUAT 276SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh dinh dưỡng và là nơi trú sâu bệnh. Nhờ đó, cây được hỗ trợ trừ cỏ tiếp xúc, làm cháy nhanh phần xanh của cỏ, đặc biệt nên dùng ở thời điểm khi cỏ còn non, phun tránh cây trồng."
+      },
+      {
+        "rank": 2,
+        "score": 0.7953861641702731,
+        "chunk_id": "sp91::chunk_2",
+        "product_id": "sp91",
+        "ten_san_pham": "GLUFOSINATE-AMMONIUM 200SL",
+        "text": "nhóm côn trùng gây hại; Phù hợp quản lý cỏ dại Giai đoạn phù hợp: Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất thiếu vi lượng; Ruộng hoặc vườn có áp lực cỏ dại Gợi ý phối hợp: Chất bám dính; Phân hữu cơ phục hồi đất sau xử lý cỏ Lý do chuyên gia: GLUFOSINATE-AMMONIUM 200SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh nước, phân bón và là nơi trú sâu bệnh. Nhờ đó, cây được hỗ trợ trừ cỏ không chọn lọc, tác động tiếp xúc-lưu dẫn hạn chế, đặc biệt nên dùng ở thời điểm khi cỏ xanh tốt, cao 10-25cm, tránh để thuốc dính cây trồng."
+      },
+      {
+        "rank": 3,
+        "score": 0.7926015275342613,
+        "chunk_id": "sp168::chunk_1",
+        "product_id": "sp168",
+        "ten_san_pham": "GLUFOSINATE-AMMONIUM 200SL",
+        "text": "Sản phẩm: GLUFOSINATE-AMMONIUM 200SL Loại: thuoc_tru_co Rule key: thuoc_tru_co | Cỏ hỗn hợp trong vườn cây, cỏ lá rộng và cỏ hòa bản xanh tốt Thành phần: glufosinate_ammonium: 200g/lít Quy cách: Chai 1 lít Công dụng: Trừ cỏ không chọn lọc; tác động tiếp xúc-lưu dẫn hạn chế Triệu chứng: Cỏ hỗn hợp trong vườn cây, cỏ lá rộng và cỏ hòa bản xanh tốt Nguyên nhân: Cỏ cạnh tranh dinh dưỡng và là nơi trú ẩn sâu bệnh Cây trồng phù hợp: Vườn cây ăn trái; cao su; cà phê; đất không canh tác Thời điểm xử lý: Khi cỏ đang sinh trưởng mạnh; cao 10-25cm Hướng dẫn sử dụng: cach_dung: Pha 80-120ml/bình 16 lít; phun ướt đều lá cỏ, tránh cây trồng; lieu_luong: 120ml; luong_nuoc: 16 lít An toàn sử dụng: Không để thuốc dính lá xanh/cành non cây trồng; phun khi ít gió Giá tham khảo: tu: 130000; den: 190000; don_vi: VND Đặc tính bệnh/hoạt chất: Tác động nội hấp, lưu dẫn trong cây; Tác động tiếp xúc; Có nguy cơ lây lan nhanh qua gió hoặc nước mưa; Phù hợp xử lý nhóm côn trùng gây hại; Phù hợp quản lý cỏ dại; Bổ sung dinh dưỡng thiếu hụt cho cây Giai đoạn phù hợp: Cây con; Giai đoạn sinh trưởng mạnh; Sau điều kiện thời"
+      },
+      {
+        "rank": 4,
+        "score": 0.786048978589313,
+        "chunk_id": "sp91::chunk_1",
+        "product_id": "sp91",
+        "ten_san_pham": "GLUFOSINATE-AMMONIUM 200SL",
+        "text": "Sản phẩm: GLUFOSINATE-AMMONIUM 200SL Loại: thuoc_tru_co Rule key: thuoc_tru_co | Cỏ lá rộng, cỏ hòa bản, cỏ non mọc dày trong vườn Thành phần: glufosinate_ammonium: 200g/lít Quy cách: Chai 1 lít Công dụng: Trừ cỏ không chọn lọc; tác động tiếp xúc-lưu dẫn hạn chế Triệu chứng: Cỏ lá rộng, cỏ hòa bản, cỏ non mọc dày trong vườn Nguyên nhân: Cỏ cạnh tranh nước; phân bón và là nơi trú sâu bệnh Cây trồng phù hợp: Vườn cây ăn trái; cao su; cà phê; đất trước trồng Thời điểm xử lý: Khi cỏ xanh tốt; cao 10-25cm; tránh để thuốc dính cây trồng Hướng dẫn sử dụng: cach_dung: Pha 80-120ml/bình 16 lít; phun ướt đều lá cỏ; lieu_luong: 120ml; luong_nuoc: 16 lít An toàn sử dụng: Che chắn cây trồng non; không phun lúc gió mạnh hoặc sắp mưa Giá tham khảo: tu: 130000; den: 190000; don_vi: VND Đặc tính bệnh/hoạt chất: Tác động nội hấp, lưu dẫn trong cây; Tác động tiếp xúc; Có nguy cơ lây lan nhanh qua gió hoặc nước mưa; Phù hợp xử lý nhóm côn trùng gây hại; Phù hợp quản lý cỏ dại Giai đoạn phù hợp: Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất thiếu vi lượng; Ruộng hoặc vườn có áp lực cỏ dại Gợi ý"
+      },
+      {
+        "rank": 5,
+        "score": 0.7800938816937808,
+        "chunk_id": "sp262::chunk_2",
+        "product_id": "sp262",
+        "ten_san_pham": "OXYFLUORFEN 240EC",
+        "text": "Đất/môi trường phù hợp: Đất thiếu vi lượng; Ruộng hoặc vườn có áp lực cỏ dại Gợi ý phối hợp: Chất bám dính; Phân hữu cơ phục hồi đất sau xử lý cỏ Lý do chuyên gia: OXYFLUORFEN 240EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh dinh dưỡng ở giai đoạn cây trồng còn nhỏ. Nhờ đó, cây được hỗ trợ trừ cỏ tiền và hậu nảy mầm sớm trong hành, tỏi, cây lâu năm, đặc biệt nên dùng ở thời điểm sau trồng khi cây đã ổn định hoặc phun đất trước cỏ mọc."
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nVườn có nhiều cỏ dại cạnh tranh dinh dưỡng với cây trồng, đặc biệt là cỏ lá rộng, cỏ hòa bản, cỏ non mọc dày hoặc cỏ xanh tốt, đang sinh trưởng mạnh.\n\n2. Sản phẩm gợi ý  \nPARAQUAT 276SL và GLUFOSINATE-AMMONIUM 200SL.\n\n3. Lý do phù hợp  \n- PARAQUAT 276SL phù hợp vì tập trung xử lý cỏ cạnh tranh dinh dưỡng và là nơi trú sâu bệnh, hiệu quả khi cỏ còn non, làm cháy nhanh phần xanh của cỏ.  \n- GLUFOSINATE-AMMONIUM 200SL phù hợp vì xử lý cỏ không chọn lọc, tác động tiếp xúc-lưu dẫn hạn chế, xử lý cỏ cạnh tranh nước, phân bón và là nơi trú sâu bệnh, hiệu quả khi cỏ xanh tốt, cao 10–25cm.\n\n4. Cách dùng tóm tắt  \n- PARAQUAT 276SL: Phun khi cỏ còn non, tránh cây trồng.  \n- GLUFOSINATE-AMMONIUM 200SL: Pha 80–120ml/bình 16 lít, phun ướt đều lá cỏ, tránh để thuốc dính cây trồng, dùng khi cỏ cao 10–25cm.\n\n5. Lưu ý an toàn  \n- Không để thuốc dính lá xanh hoặc cành non cây trồng.  \n- Phun khi ít gió, tránh phun lúc gió mạnh hoặc sắp mưa để giảm nguy cơ lây lan nhanh qua gió hoặc nước mưa.",
+    "latency": {
+      "retrieval_seconds": 0.014,
+      "generation_seconds": 22.987,
+      "total_seconds": 23.001
+    }
+  },
+  {
+    "question_id": "q007",
+    "question": "Cây con bị thối rễ, chết rạp và đất có mùi yếm khí thì xử lý bằng sản phẩm nào?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7108263439760185,
+        "chunk_id": "sp316::chunk_2",
+        "product_id": "sp316",
+        "ten_san_pham": "VI SINH PHÂN GIẢI CELLULOSE",
+        "text": "mưa; Tác động lên bệnh do nấm; Bổ sung dinh dưỡng thiếu hụt cho cây Giai đoạn phù hợp: Cây con; Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất nghèo hữu cơ; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất Lý do chuyên gia: VI SINH PHÂN GIẢI CELLULOSE phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hữu cơ tươi phân hủy yếm khí sinh độc chất và nấm hại. Nhờ đó, cây được hỗ trợ ủ rơm rạ, phân chuồng, xác bã hữu cơ thành phân hoai mục, đặc biệt nên dùng ở thời điểm ủ phân, xử lý rơm rạ sau thu hoạch, bón lót."
+      },
+      {
+        "rank": 2,
+        "score": 0.7105597710575264,
+        "chunk_id": "sp414::chunk_1",
+        "product_id": "sp414",
+        "ten_san_pham": "VI SINH TRICHODERMA 5 CHỦNG",
+        "text": "Sản phẩm: VI SINH TRICHODERMA 5 CHỦNG Loại: phan_bon Rule key: phan_bon | Cây con chết rạp, rễ thối, đất có mùi yếm khí Thành phần: trichoderma_harzianum_viride_koningii_asperellum_longibrachiatum_109_cfu_g: Trichoderma harzianum, viride, koningii, asperellum, longibrachiatum ≥ 10^9 CFU/g Quy cách: Gói 1kg Công dụng: Ủ phân hữu cơ; đối kháng nấm đất và hỗ trợ rễ khỏe Triệu chứng: Cây con chết rạp, rễ thối, đất có mùi yếm khí Nguyên nhân: Nấm đất và hữu cơ chưa hoai gây hại rễ Cây trồng phù hợp: Rau màu; cây ăn trái; tiêu; cà phê; vườn ươm Thời điểm xử lý: Ủ phân; xử lý đất trước trồng; sau thu hoạch Hướng dẫn sử dụng: cach_dung: Trộn 1kg với 500-1000kg phân hữu cơ hoặc tưới 1kg/400 lít nước; lieu_luong: 1kg; luong_nuoc: 400 lít An toàn sử dụng: Không dùng cùng thuốc nấm hóa học mạnh; giữ ẩm sau bón Giá tham khảo: tu: 100000; den: 160000; don_vi: VND Đặc tính bệnh/hoạt chất: Tác động lên bệnh do nấm; Bổ sung dinh dưỡng thiếu hụt cho cây Giai đoạn phù hợp: Cây con; Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất nghèo hữu cơ; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma"
+      },
+      {
+        "rank": 3,
+        "score": 0.7058478606815954,
+        "chunk_id": "sp316::chunk_1",
+        "product_id": "sp316",
+        "ten_san_pham": "VI SINH PHÂN GIẢI CELLULOSE",
+        "text": "Sản phẩm: VI SINH PHÂN GIẢI CELLULOSE Loại: phan_bon Rule key: phan_bon | Đất có nhiều rơm rạ chưa hoai, cây con dễ ngộ độc hữu cơ Thành phần: bacillus_spp: Bacillus spp.; trichoderma_spp: Trichoderma spp.; xa_khuan_phan_giai_cellulose_108_cfu_g: xạ khuẩn phân giải cellulose ≥ 10^8 CFU/g Quy cách: Gói 1kg Công dụng: Ủ rơm rạ; phân chuồng; xác bã hữu cơ thành phân hoai mục Triệu chứng: Đất có nhiều rơm rạ chưa hoai, cây con dễ ngộ độc hữu cơ Nguyên nhân: Hữu cơ tươi phân hủy yếm khí sinh độc chất và nấm hại Cây trồng phù hợp: Lúa; rau màu; cây ăn trái; vườn ươm Thời điểm xử lý: Ủ phân; xử lý rơm rạ sau thu hoạch; bón lót Hướng dẫn sử dụng: cach_dung: Trộn 1kg cho 1-2 tấn hữu cơ; giữ ẩm đống ủ 50-60%; lieu_luong: 1kg An toàn sử dụng: Không trộn với vôi/thuốc nấm liều cao cùng lúc; che mưa khi ủ Giá tham khảo: tu: 80000; den: 130000; don_vi: VND Đặc tính bệnh/hoạt chất: Có nguy cơ lây lan nhanh qua gió hoặc nước mưa; Tác động lên bệnh do nấm; Bổ sung dinh dưỡng thiếu hụt cho cây Giai đoạn phù hợp: Cây con; Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất nghèo hữu cơ; Môi trường ẩm cao, dễ"
+      },
+      {
+        "rank": 4,
+        "score": 0.7055140941010085,
+        "chunk_id": "sp250::chunk_2",
+        "product_id": "sp250",
+        "ten_san_pham": "CYPRODINIL + FLUDIOXONIL",
+        "text": "hợp: Sau thu hoạch, phục hồi cây; Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất thiếu vi lượng; Đất canh tác lâu năm, dễ thiếu Canxi-Bo; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh; Đồng sinh học; Amino Acid phục hồi cây Lý do chuyên gia: CYPRODINIL + FLUDIOXONIL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm Botrytis và nấm thối trái phát triển trong điều kiện ẩm. Nhờ đó, cây được hỗ trợ trị thối hoa, mốc xám, thối trái và bệnh sau thu hoạch, đặc biệt nên dùng ở thời điểm giai đoạn hoa, trái non, trước/sau mưa hoặc ẩm kéo dài."
+      },
+      {
+        "rank": 5,
+        "score": 0.7049461630815432,
+        "chunk_id": "sp353::chunk_2",
+        "product_id": "sp353",
+        "ten_san_pham": "TRICHODERMA XỬ LÝ RỄ TIÊU",
+        "text": "hồi sau stress sinh lý Giai đoạn phù hợp: Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất nghèo hữu cơ; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh; Đồng sinh học; Amino Acid phục hồi cây Lý do chuyên gia: TRICHODERMA XỬ LÝ RỄ TIÊU phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm đất và thoát nước kém làm rễ tổn thương. Nhờ đó, cây được hỗ trợ đối kháng nấm hại rễ, hỗ trợ giảm chết nhanh/chết chậm trên tiêu, đặc biệt nên dùng ở thời điểm đầu mùa mưa, sau thu hoạch, khi rễ bắt đầu yếu."
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nCây con bị thối rễ, chết rạp và đất có mùi yếm khí là triệu chứng điển hình của sự phát triển của nấm đất và hữu cơ chưa hoai mục, gây hại cho rễ cây.\n\n2. Sản phẩm gợi ý  \nVI SINH TRICHODERMA 5 CHỦNG\n\n3. Lý do phù hợp  \nSản phẩm này có tác động lên bệnh do nấm, đặc biệt là nấm đất gây thối rễ và chết rạp. Nó phù hợp với môi trường ẩm cao, đất nghèo hữu cơ và có mùi yếm khí – những điều kiện thuận lợi cho sự phát triển của nấm gây hại. Sản phẩm giúp đối kháng nấm đất và hỗ trợ rễ khỏe, phù hợp với các loại cây như rau màu, cây ăn trái, tiêu, cà phê và vườn ươm.\n\n4. Cách dùng tóm tắt  \nTrộn 1kg sản phẩm với 500–1000kg phân hữu cơ hoặc tưới 1kg/400 lít nước. Sử dụng vào thời điểm ủ phân, xử lý đất trước trồng hoặc sau thu hoạch.\n\n5. Lưu ý an toàn  \nKhông dùng cùng thuốc nấm hóa học mạnh; cần giữ ẩm sau khi bón.",
+    "latency": {
+      "retrieval_seconds": 0.0146,
+      "generation_seconds": 17.3416,
+      "total_seconds": 17.3563
+    }
+  },
+  {
+    "question_id": "q008",
+    "question": "Cây mới trồng cần kích rễ, phục hồi bộ rễ và bật chồi nhanh thì dùng phân bón nào?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.8306740717987849,
+        "chunk_id": "sp106::chunk_2",
+        "product_id": "sp106",
+        "ten_san_pham": "MAP 12-61-0",
+        "text": "sinh lý Giai đoạn phù hợp: Cây con; Trước ra hoa; Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất phèn hoặc đất chua; Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất Lý do chuyên gia: MAP 12-61-0 phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu lân dễ tiêu hoặc cây chưa chuyển pha sinh trưởng sang sinh sản. Nhờ đó, cây được hỗ trợ kích rễ, thúc phân hóa mầm hoa, tăng năng lượng cho cây, đặc biệt nên dùng ở thời điểm sau trồng, trước xử lý ra hoa, giai đoạn phục hồi rễ."
+      },
+      {
+        "rank": 2,
+        "score": 0.8283875326170265,
+        "chunk_id": "sp54::chunk_2",
+        "product_id": "sp54",
+        "ten_san_pham": "NPK 20-10-10+TE",
+        "text": "đoạn sinh trưởng mạnh; Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất thiếu vi lượng; Đất cần bổ sung Kali cho giai đoạn nuôi trái Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; Canxi Bo; Phân bón lá vi lượng Lý do chuyên gia: NPK 20-10-10+TE phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu đạm và dinh dưỡng sau giai đoạn nuôi trái hoặc cắt tỉa. Nhờ đó, cây được hỗ trợ kích thích ra đọt, phát triển thân lá, phục hồi cây sau thu hoạch, đặc biệt nên dùng ở thời điểm sau thu hoạch, sau cắt cành, giai đoạn cây cần phát triển tán lá."
+      },
+      {
+        "rank": 3,
+        "score": 0.8246929235891466,
+        "chunk_id": "sp285::chunk_2",
+        "product_id": "sp285",
+        "ten_san_pham": "PHÂN BÓN LÁ LÂN ĐỎ 10-60-10",
+        "text": "lý Giai đoạn phù hợp: Cây con; Trước ra hoa; Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất phèn hoặc đất chua; Đất thiếu vi lượng; Đất cần bổ sung Kali cho giai đoạn nuôi trái Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất Lý do chuyên gia: PHÂN BÓN LÁ LÂN ĐỎ 10-60-10 phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu Lân dễ tiêu hoặc điều kiện đất làm lân khó hấp thu. Nhờ đó, cây được hỗ trợ kích rễ mạnh, hỗ trợ phân hóa mầm hoa và phục hồi cây con, đặc biệt nên dùng ở thời điểm sau trồng, trước ra hoa, khi cây cần kích rễ."
+      },
+      {
+        "rank": 4,
+        "score": 0.8242498756731387,
+        "chunk_id": "sp104::chunk_2",
+        "product_id": "sp104",
+        "ten_san_pham": "NPK 20-10-10 + HUMIC",
+        "text": "cây; Giúp cây phục hồi sau stress sinh lý Giai đoạn phù hợp: Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất nghèo hữu cơ; Đất thiếu vi lượng; Đất cần bổ sung Kali cho giai đoạn nuôi trái Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất Lý do chuyên gia: NPK 20-10-10 + HUMIC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây thiếu đạm, đất chai cứng hoặc bộ rễ hoạt động yếu. Nhờ đó, cây được hỗ trợ thúc đọt, dưỡng lá, kích rễ nhẹ nhờ bổ sung humic, đặc biệt nên dùng ở thời điểm sau thu hoạch, sau cắt tỉa, giai đoạn cây cần phục hồi tán."
+      },
+      {
+        "rank": 5,
+        "score": 0.8219009631257264,
+        "chunk_id": "sp9::chunk_2",
+        "product_id": "sp9",
+        "ten_san_pham": "MAGIE KẼM LƯU HUỲNH",
+        "text": "Sau thu hoạch, phục hồi cây; Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất phèn hoặc đất chua; Đất thiếu vi lượng; Đất bạc màu, thiếu Magie hoặc lưu huỳnh Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất Lý do chuyên gia: MAGIE KẼM LƯU HUỲNH phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu Magie, Kẽm, Lưu huỳnh hoặc đất pH thấp làm rễ hấp thu kém. Nhờ đó, cây được hỗ trợ giúp lá xanh dày, tăng quang hợp, hạn chế vàng lá gân xanh, đặc biệt nên dùng ở thời điểm giai đoạn phát triển lá, trước ra hoa, sau thu hoạch."
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nCây mới trồng cần kích rễ, phục hồi bộ rễ và bật chồi nhanh – điều này liên quan đến nhu cầu bổ sung dinh dưỡng, đặc biệt là lân dễ tiêu, hỗ trợ phát triển rễ và thúc đẩy quá trình phân hóa mầm hoa.\n\n2. Sản phẩm gợi ý  \nMAP 12-61-0\n\n3. Lý do phù hợp  \nMAP 12-61-0 phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu lân dễ tiêu hoặc cây chưa chuyển pha sinh trưởng sang sinh sản. Nhờ đó, cây được hỗ trợ kích rễ, thúc phân hóa mầm hoa, tăng năng lượng cho cây, đặc biệt nên dùng ở thời điểm sau trồng, trước xử lý ra hoa, giai đoạn phục hồi rễ.\n\n4. Cách dùng tóm tắt  \nDùng ở thời điểm sau trồng, trước ra hoa, giai đoạn phục hồi rễ.\n\n5. Lưu ý an toàn  \nChưa có thông tin cụ thể về lưu ý an toàn trong CONTEXT.",
+    "latency": {
+      "retrieval_seconds": 0.0139,
+      "generation_seconds": 13.7539,
+      "total_seconds": 13.7678
+    }
+  },
+  {
+    "question_id": "q009",
+    "question": "Cây ra hoa kém, rụng hoa và rụng trái non thì nên bổ sung phân bón gì?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7831265485403283,
+        "chunk_id": "sp54::chunk_2",
+        "product_id": "sp54",
+        "ten_san_pham": "NPK 20-10-10+TE",
+        "text": "đoạn sinh trưởng mạnh; Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất thiếu vi lượng; Đất cần bổ sung Kali cho giai đoạn nuôi trái Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; Canxi Bo; Phân bón lá vi lượng Lý do chuyên gia: NPK 20-10-10+TE phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu đạm và dinh dưỡng sau giai đoạn nuôi trái hoặc cắt tỉa. Nhờ đó, cây được hỗ trợ kích thích ra đọt, phát triển thân lá, phục hồi cây sau thu hoạch, đặc biệt nên dùng ở thời điểm sau thu hoạch, sau cắt cành, giai đoạn cây cần phát triển tán lá."
+      },
+      {
+        "rank": 2,
+        "score": 0.774033289766898,
+        "chunk_id": "sp213::chunk_2",
+        "product_id": "sp213",
+        "ten_san_pham": "ĐẠM CÁ + RONG BIỂN",
+        "text": "đoạn phù hợp: Cây con; Sau thu hoạch, phục hồi cây; Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất nghèo hữu cơ; Đất cần bổ sung Kali cho giai đoạn nuôi trái Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất; Canxi Bo; Phân bón lá vi lượng Lý do chuyên gia: ĐẠM CÁ + RONG BIỂN phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây thiếu hữu cơ dễ hấp thu hoặc mất sức sau nuôi trái. Nhờ đó, cây được hỗ trợ dưỡng cây hữu cơ, phục hồi rễ, kích chồi và tăng sức chống chịu, đặc biệt nên dùng ở thời điểm sau thu hoạch, sau trồng, sau cắt tỉa hoặc sau thời tiết xấu."
+      },
+      {
+        "rank": 3,
+        "score": 0.7653668098205435,
+        "chunk_id": "sp104::chunk_2",
+        "product_id": "sp104",
+        "ten_san_pham": "NPK 20-10-10 + HUMIC",
+        "text": "cây; Giúp cây phục hồi sau stress sinh lý Giai đoạn phù hợp: Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất nghèo hữu cơ; Đất thiếu vi lượng; Đất cần bổ sung Kali cho giai đoạn nuôi trái Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất Lý do chuyên gia: NPK 20-10-10 + HUMIC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây thiếu đạm, đất chai cứng hoặc bộ rễ hoạt động yếu. Nhờ đó, cây được hỗ trợ thúc đọt, dưỡng lá, kích rễ nhẹ nhờ bổ sung humic, đặc biệt nên dùng ở thời điểm sau thu hoạch, sau cắt tỉa, giai đoạn cây cần phục hồi tán."
+      },
+      {
+        "rank": 4,
+        "score": 0.7644527868650929,
+        "chunk_id": "sp303::chunk_2",
+        "product_id": "sp303",
+        "ten_san_pham": "NPK 21-7-14 + HUMIC",
+        "text": "cần bổ sung Kali cho giai đoạn nuôi trái Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất Lý do chuyên gia: NPK 21-7-14 + HUMIC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây mất sức sau thu hoạch hoặc thiếu đạm hữu hiệu. Nhờ đó, cây được hỗ trợ kích chồi, dưỡng lá và hỗ trợ phục hồi rễ nhẹ, đặc biệt nên dùng ở thời điểm sau thu hoạch, sau cắt tỉa, giai đoạn cây cần ra đọt."
+      },
+      {
+        "rank": 5,
+        "score": 0.7634632886625211,
+        "chunk_id": "sp45::chunk_2",
+        "product_id": "sp45",
+        "ten_san_pham": "PACLOBUTRAZOL 15WP",
+        "text": "sinh trưởng mạnh; Trước ra hoa Đất/môi trường phù hợp: Đất cần bổ sung Kali cho giai đoạn nuôi trái Gợi ý phối hợp: Phân bón lá vi lượng; Amino Acid hoặc rong biển Lý do chuyên gia: PACLOBUTRAZOL 15WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Dư đạm, cây sinh trưởng sinh dưỡng mạnh, chưa chuyển sang sinh sản. Nhờ đó, cây được hỗ trợ ức chế sinh trưởng thân lá, hỗ trợ phân hóa mầm hoa, đặc biệt nên dùng ở thời điểm trước giai đoạn xử lý ra hoa, khi cây đã đủ sức."
+      }
+    ],
+    "answer": "CONTEXT không cung cấp thông tin về tình trạng cây ra hoa kém, rụng hoa hoặc rụng trái non, cũng như không có sản phẩm nào được chỉ định cụ thể cho các triệu chứng này. Các sản phẩm trong CONTEXT đều liên quan đến việc kích thích sinh trưởng, phục hồi sau thu hoạch, bổ sung đạm, kali hoặc hỗ trợ rễ, nhưng không đề cập đến việc xử lý rụng hoa hoặc rụng trái non.\n\nDo đó, không thể xác định sản phẩm phù hợp dựa trên dữ liệu hiện có.\n\n1. Chẩn đoán khả năng  \nKhông đủ dữ liệu để chẩn đoán nguyên nhân cây ra hoa kém, rụng hoa và rụng trái non.\n\n2. Sản phẩm gợi ý  \nKhông có sản phẩm nào trong CONTEXT phù hợp với tình trạng cây ra hoa kém, rụng hoa và rụng trái non.\n\n3. Lý do phù hợp  \nKhông có thông tin trong CONTEXT liên quan đến việc xử lý rụng hoa hoặc rụng trái non.\n\n4. Cách dùng tóm tắt  \nKhông thể đưa ra cách dùng vì không có sản phẩm phù hợp trong dữ liệu.\n\n5. Lưu ý an toàn  \nKhông có dữ liệu để cung cấp lưu ý an toàn.",
+    "latency": {
+      "retrieval_seconds": 0.014,
+      "generation_seconds": 15.4822,
+      "total_seconds": 15.4963
+    }
+  },
+  {
+    "question_id": "q010",
+    "question": "Cà chua bị thối đáy trái, ớt rụng hoa và trái dễ nứt thì dùng sản phẩm gì?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.6775089938150056,
+        "chunk_id": "sp5::chunk_1",
+        "product_id": "sp5",
+        "ten_san_pham": "CANXI BO MAX",
+        "text": "Sản phẩm: CANXI BO MAX Loại: phan_bon Rule key: phan_bon | Trái cà chua thối đáy; sầu riêng nứt gai; ớt rụng hoa Thành phần: cao: 15%; bo_b: 2%; mgo: 2%; phu_gia_bam_dinh: phụ gia bám dính Quy cách: Chai 1 lít Công dụng: Chống nứt trái; thối đít trái; tăng cứng vỏ và cuống trái Triệu chứng: Trái cà chua thối đáy; sầu riêng nứt gai; ớt rụng hoa Nguyên nhân: Thiếu Canxi và Bo; rối loạn vận chuyển dinh dưỡng khi cây thiếu nước Cây trồng phù hợp: Cà chua; ớt; dưa leo; sầu riêng; xoài; cam quýt Thời điểm xử lý: Trước ra hoa; sau đậu trái; giai đoạn trái lớn nhanh Hướng dẫn sử dụng: cach_dung: Pha 25-40ml/bình 16 lít; phun 7-10 ngày/lần; lieu_luong: 40ml; luong_nuoc: 16 lít An toàn sử dụng: Không pha với phân chứa phosphate đậm đặc; lắc đều trước khi dùng Giá tham khảo: tu: 95000; den: 140000; don_vi: VND Đặc tính bệnh/hoạt chất: Bổ sung dinh dưỡng thiếu hụt cho cây Giai đoạn phù hợp: Trước ra hoa; Sau đậu trái; Nuôi trái, củ hoặc hạt Đất/môi trường phù hợp: Đất thiếu vi lượng; Đất canh tác lâu năm, dễ thiếu Canxi-Bo; Đất bạc màu, thiếu Magie hoặc lưu huỳnh Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá"
+      },
+      {
+        "rank": 2,
+        "score": 0.6731798672881081,
+        "chunk_id": "sp61::chunk_1",
+        "product_id": "sp61",
+        "ten_san_pham": "PHÂN CÁ THỦY PHÂN",
+        "text": "Sản phẩm: PHÂN CÁ THỦY PHÂN Loại: phan_bon Rule key: phan_bon | Đất chai, cây kém hấp thu, lá thiếu sức sống Thành phần: dam_huu_co: 5%; amino_acid: amino acid; acid_huu_co: acid hữu cơ; khoang_vi_luong_tu_ca: khoáng vi lượng từ cá Quy cách: Can 5 lít Công dụng: Tăng hữu cơ; kích rễ; cải tạo đất và giúp cây xanh bền Triệu chứng: Đất chai, cây kém hấp thu, lá thiếu sức sống Nguyên nhân: Đất thiếu hữu cơ; hệ vi sinh yếu; rễ hoạt động kém Cây trồng phù hợp: Rau hữu cơ; cây ăn trái; hoa; cây công nghiệp Thời điểm xử lý: Tưới định kỳ trong mùa sinh trưởng; sau thu hoạch; sau trồng Hướng dẫn sử dụng: cach_dung: Pha 100-200ml/20 lít nước tưới gốc; 7-15 ngày/lần; lieu_luong: 200ml/20 lít; luong_nuoc: 20 lít An toàn sử dụng: Có mùi hữu cơ đặc trưng; đậy kín, tránh nắng trực tiếp Giá tham khảo: tu: 180000; den: 280000; don_vi: VND Đặc tính bệnh/hoạt chất: Bổ sung dinh dưỡng thiếu hụt cho cây; Giúp cây phục hồi sau stress sinh lý Giai đoạn phù hợp: Cây con; Giai đoạn sinh trưởng mạnh; Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất nghèo hữu cơ; Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá"
+      },
+      {
+        "rank": 3,
+        "score": 0.6633333970746815,
+        "chunk_id": "sp108::chunk_1",
+        "product_id": "sp108",
+        "ten_san_pham": "CANXI NITRAT 15.5-0-0 + 26CaO",
+        "text": "Sản phẩm: CANXI NITRAT 15.5-0-0 + 26CaO Loại: phan_bon Rule key: phan_bon | Trái cà chua thối đáy, rau cháy mép lá non, trái nứt và mềm vỏ Thành phần: n: 15,5%; cao: 26%; dang_tan_trong_nuoc: dạng tan trong nước Quy cách: Bao 25kg Công dụng: Bổ sung Canxi và đạm Nitrat; giúp cứng cây; dày vỏ; hạn chế thối đít trái Triệu chứng: Trái cà chua thối đáy, rau cháy mép lá non, trái nứt và mềm vỏ Nguyên nhân: Thiếu Canxi do rễ yếu; đất khô ẩm thất thường hoặc cạnh tranh với Kali/Magie Cây trồng phù hợp: Cà chua; ớt; dưa leo; rau ăn lá; cây ăn trái Thời điểm xử lý: Giai đoạn cây con; trước ra hoa; sau đậu trái và nuôi trái Hướng dẫn sử dụng: cach_dung: Tưới nhỏ giọt 3-8kg/1000m2; phun lá 10-15g/bình 16 lít khi cần; lieu_luong: 8kg; luong_nuoc: 16 lít An toàn sử dụng: Không pha chung với phân lân hoặc sulfate đậm đặc để tránh kết tủa Giá tham khảo: tu: 520000; den: 680000; don_vi: VND/bao Đặc tính bệnh/hoạt chất: Bổ sung dinh dưỡng thiếu hụt cho cây Giai đoạn phù hợp: Cây con; Trước ra hoa; Sau đậu trái; Nuôi trái, củ hoặc hạt; Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất canh tác lâu năm,"
+      },
+      {
+        "rank": 4,
+        "score": 0.6504531397258873,
+        "chunk_id": "sp384::chunk_2",
+        "product_id": "sp384",
+        "ten_san_pham": "DƯỠNG THANH LONG LÊN MÀU",
+        "text": "củ hoặc hạt Đất/môi trường phù hợp: Đất thiếu vi lượng; Đất canh tác lâu năm, dễ thiếu Canxi-Bo; Đất cần bổ sung Kali cho giai đoạn nuôi trái; Đất bạc màu, thiếu Magie hoặc lưu huỳnh; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; Canxi Bo; Phân bón lá vi lượng Lý do chuyên gia: DƯỠNG THANH LONG LÊN MÀU phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu Kali-Magie và cây gặp mưa nhiều giai đoạn gần chín. Nhờ đó, cây được hỗ trợ hỗ trợ lên màu vỏ, tăng độ ngọt và độ chắc trái thanh long, đặc biệt nên dùng ở thời điểm sau đậu trái, giai đoạn trái lớn đến lên màu."
+      },
+      {
+        "rank": 5,
+        "score": 0.6478214099310713,
+        "chunk_id": "sp412::chunk_1",
+        "product_id": "sp412",
+        "ten_san_pham": "FULVIC KALI AMINO",
+        "text": "Sản phẩm: FULVIC KALI AMINO Loại: phan_bon Rule key: phan_bon | Cây kém hấp thu, trái lớn chậm, lá nhạt Thành phần: fulvic_acid: 25%; k2o: 12%; amino_acid: 8%; te: TE Quy cách: Chai 1 lít Công dụng: Tăng hấp thu phân bón; phục hồi cây và hỗ trợ nuôi trái Triệu chứng: Cây kém hấp thu, trái lớn chậm, lá nhạt Nguyên nhân: Rễ yếu hoặc dinh dưỡng bị rửa trôi sau mưa Cây trồng phù hợp: Cây ăn trái; rau màu; hoa; lúa Thời điểm xử lý: Sau mưa; sau thu hoạch; giai đoạn nuôi trái Hướng dẫn sử dụng: cach_dung: Pha 20-40ml/bình 16 lít; tưới gốc 100ml/phuy 200 lít; lieu_luong: 40ml; luong_nuoc: 16 lít An toàn sử dụng: Có thể phối nhiều phân bón nhưng nên thử trước Giá tham khảo: tu: 130000; den: 190000; don_vi: VND Đặc tính bệnh/hoạt chất: Có nguy cơ lây lan nhanh qua gió hoặc nước mưa; Bổ sung dinh dưỡng thiếu hụt cho cây; Giúp cây phục hồi sau stress sinh lý Giai đoạn phù hợp: Nuôi trái, củ hoặc hạt; Sau thu hoạch, phục hồi cây; Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất nghèo hữu cơ; Đất thiếu vi lượng; Đất cần bổ sung Kali cho giai đoạn nuôi trái Gợi ý phối hợp: Chất bám"
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nCà chua bị thối đáy trái, ớt rụng hoa và trái dễ nứt là do thiếu Canxi và Bo, kèm theo rối loạn vận chuyển dinh dưỡng khi cây thiếu nước.\n\n2. Sản phẩm gợi ý  \nCANXI BO MAX\n\n3. Lý do phù hợp  \nSản phẩm CANXI BO MAX có chức năng chống nứt trái, thối đít trái, tăng cứng vỏ và cuống trái, phù hợp với các triệu chứng như trái cà chua thối đáy, sầu riêng nứt gai, ớt rụng hoa do thiếu Canxi và Bo.\n\n4. Cách dùng tóm tắt  \nPha 25–40ml/bình 16 lít nước, phun 7–10 ngày/lần, dùng trước ra hoa, sau đậu trái và giai đoạn trái lớn nhanh.\n\n5. Lưu ý an toàn  \nKhông pha với phân chứa phosphate đậm đặc; phải lắc đều trước khi dùng.",
+    "latency": {
+      "retrieval_seconds": 0.0138,
+      "generation_seconds": 15.185,
+      "total_seconds": 15.1988
+    }
+  },
+  {
+    "question_id": "q011",
+    "question": "Rau màu bị bọ trĩ làm lá xoăn, bạc màu và đọt non biến dạng thì dùng thuốc nào?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7915815405537361,
+        "chunk_id": "sp334::chunk_1",
+        "product_id": "sp334",
+        "ten_san_pham": "NẤM XANH ISARIA FUMOSOROSEA",
+        "text": "Sản phẩm: NẤM XANH ISARIA FUMOSOROSEA Loại: thuoc_tru_sau Rule key: thuoc_tru_sau | Bọ phấn bay khi rung cây, rệp/bọ trĩ bám đọt non Thành phần: isaria_fumosorosea_109_cfu_g: Isaria fumosorosea ≥ 10^9 CFU/g; chat_mang_sinh_hoc: chất mang sinh học Quy cách: Gói 500g Công dụng: Sinh học trừ bọ phấn; rệp mềm; bọ trĩ trong điều kiện ẩm Triệu chứng: Bọ phấn bay khi rung cây, rệp/bọ trĩ bám đọt non Nguyên nhân: Côn trùng chích hút sinh sản nhanh ở mặt dưới lá Cây trồng phù hợp: Rau nhà màng; dưa; ớt; hoa; cây cảnh Thời điểm xử lý: Khi mật số thấp đến trung bình; ẩm độ phù hợp Hướng dẫn sử dụng: cach_dung: Pha 100-200g/bình 16 lít; phun chiều mát, lặp lại 5-7 ngày; lieu_luong: 200g; luong_nuoc: 16 lít An toàn sử dụng: Không pha thuốc nấm hóa học; bảo quản nơi mát Giá tham khảo: tu: 95000; den: 150000; don_vi: VND Đặc tính bệnh/hoạt chất: Tác động lên bệnh do nấm; Phù hợp xử lý nhóm côn trùng gây hại Giai đoạn phù hợp: Khi mật số thấp đến trung bình; ẩm độ phù hợp Đất/môi trường phù hợp: Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: NẤM XANH ISARIA FUMOSOROSEA phù hợp vì sản"
+      },
+      {
+        "rank": 2,
+        "score": 0.7902676498821513,
+        "chunk_id": "sp20::chunk_1",
+        "product_id": "sp20",
+        "ten_san_pham": "IMIDACLOPRID 100SL",
+        "text": "Sản phẩm: IMIDACLOPRID 100SL Loại: thuoc_tru_sau Rule key: thuoc_tru_sau | Đọt xoăn, lá vàng, cây lùn, có rầy rệp dưới lá Thành phần: imidacloprid: 100g/lít Quy cách: Chai 100ml Công dụng: Trừ rầy; rệp; bọ trĩ; bọ phấn; tác động lưu dẫn Triệu chứng: Đọt xoăn, lá vàng, cây lùn, có rầy rệp dưới lá Nguyên nhân: Côn trùng chích hút gây hại trực tiếp và truyền bệnh Cây trồng phù hợp: Lúa; rau màu; hoa; cây ăn trái Thời điểm xử lý: Giai đoạn cây con; ra đọt non; khi rầy rệp mới xuất hiện Hướng dẫn sử dụng: cach_dung: Pha 10-15ml/bình 16 lít; phun đều thân lá; lieu_luong: 15ml; luong_nuoc: 16 lít An toàn sử dụng: Độc với ong; không dùng sát ngày thu hoạch; đọc kỹ nhãn Giá tham khảo: tu: 35000; den: 55000; don_vi: VND Đặc tính bệnh/hoạt chất: Tác động nội hấp, lưu dẫn trong cây; Phù hợp xử lý nhóm côn trùng gây hại Giai đoạn phù hợp: Cây con Đất/môi trường phù hợp: Đất cần bổ sung Kali cho giai đoạn nuôi trái Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: IMIDACLOPRID 100SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Côn trùng chích hút gây hại trực tiếp và"
+      },
+      {
+        "rank": 3,
+        "score": 0.7832771551709005,
+        "chunk_id": "sp23::chunk_1",
+        "product_id": "sp23",
+        "ten_san_pham": "LAMBDA-CYHALOTHRIN 2.5EC",
+        "text": "Sản phẩm: LAMBDA-CYHALOTHRIN 2.5EC Loại: thuoc_tru_sau Rule key: thuoc_tru_sau | Lá bị thủng lỗ, sâu non bò trên lá, bọ nhảy cắn rau Thành phần: lambda_cyhalothrin: 25g/lít Quy cách: Chai 100ml Công dụng: Trừ sâu cuốn lá; sâu xanh; bọ nhảy; bọ xít Triệu chứng: Lá bị thủng lỗ, sâu non bò trên lá, bọ nhảy cắn rau Nguyên nhân: Côn trùng miệng nhai phát sinh mạnh khi thời tiết khô nóng Cây trồng phù hợp: Rau cải; lúa; đậu; bắp; cây ăn trái Thời điểm xử lý: Phun khi sâu tuổi nhỏ hoặc bọ nhảy mới xuất hiện Hướng dẫn sử dụng: cach_dung: Pha 10-15ml/bình 16 lít; lieu_luong: 15ml; luong_nuoc: 16 lít An toàn sử dụng: Đeo khẩu trang, kính, găng tay; tránh phun ngược chiều gió Giá tham khảo: tu: 30000; den: 50000; don_vi: VND Đặc tính bệnh/hoạt chất: Có nguy cơ lây lan nhanh qua gió hoặc nước mưa; Phù hợp xử lý nhóm côn trùng gây hại Giai đoạn phù hợp: Phun khi sâu tuổi nhỏ hoặc bọ nhảy mới xuất hiện Đất/môi trường phù hợp: Điều kiện canh tác thông thường Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: LAMBDA-CYHALOTHRIN 2.5EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Côn trùng miệng"
+      },
+      {
+        "rank": 4,
+        "score": 0.7805766452323724,
+        "chunk_id": "sp223::chunk_1",
+        "product_id": "sp223",
+        "ten_san_pham": "EMAMECTIN 2.0EC",
+        "text": "Sản phẩm: EMAMECTIN 2.0EC Loại: thuoc_tru_sau Rule key: thuoc_tru_sau | Lá thủng lỗ, búp non bị ăn, trái có lỗ đục nhỏ Thành phần: emamectin_benzoate: 20g/lít Quy cách: Chai 100ml Công dụng: Đặc trị sâu ăn lá; sâu tơ; sâu xanh da láng; sâu đục trái tuổi nhỏ Triệu chứng: Lá thủng lỗ, búp non bị ăn, trái có lỗ đục nhỏ Nguyên nhân: Sâu non gây hại mạnh ở giai đoạn cây ra lá non và trái non Cây trồng phù hợp: Rau màu; bắp; đậu; ớt; cà chua; cây ăn trái Thời điểm xử lý: Khi sâu mới nở hoặc sâu tuổi 1-2 Hướng dẫn sử dụng: cach_dung: Pha 8-12ml/bình 16 lít; phun chiều mát; lieu_luong: 12ml; luong_nuoc: 16 lít An toàn sử dụng: Không sử dụng liên tục nhiều lần; đọc kỹ nhãn cách ly Giá tham khảo: tu: 40000; den: 65000; don_vi: VND Đặc tính bệnh/hoạt chất: Phù hợp xử lý nhóm côn trùng gây hại Giai đoạn phù hợp: Khi sâu mới nở hoặc sâu tuổi 1-2 Đất/môi trường phù hợp: Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: EMAMECTIN 2.0EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Sâu non gây hại mạnh ở giai đoạn cây"
+      },
+      {
+        "rank": 5,
+        "score": 0.7804272350212809,
+        "chunk_id": "sp222::chunk_1",
+        "product_id": "sp222",
+        "ten_san_pham": "ABAMECTIN + EMAMECTIN 5WG",
+        "text": "Sản phẩm: ABAMECTIN + EMAMECTIN 5WG Loại: thuoc_tru_sau Rule key: thuoc_tru_sau | Lá bị ăn khuyết, đọt bạc, sâu non xuất hiện nhiều Thành phần: abamectin: 2%; emamectin_benzoate: 3%; dang_wg: dạng WG Quy cách: Gói 100g Công dụng: Trừ sâu tơ; sâu xanh; sâu khoang; nhện và bọ trĩ ở mật số vừa Triệu chứng: Lá bị ăn khuyết, đọt bạc, sâu non xuất hiện nhiều Nguyên nhân: Sâu non bộ cánh vảy và côn trùng nhỏ phát sinh nhanh trong thời tiết nóng ẩm Cây trồng phù hợp: Rau cải; ớt; dưa; cà chua; hoa Thời điểm xử lý: Phun khi sâu tuổi nhỏ; trước khi sâu đục sâu vào trái Hướng dẫn sử dụng: cach_dung: Pha 5-8g/bình 16 lít; phun ướt đều tán lá; lieu_luong: 8g; luong_nuoc: 16 lít An toàn sử dụng: Luân phiên hoạt chất; tránh phun khi cây đang ra hoa có ong Giá tham khảo: tu: 45000; den: 75000; don_vi: VND Đặc tính bệnh/hoạt chất: Phù hợp xử lý nhóm côn trùng gây hại Giai đoạn phù hợp: Phun khi sâu tuổi nhỏ; trước khi sâu đục sâu vào trái Đất/môi trường phù hợp: Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: ABAMECTIN + EMAMECTIN 5WG phù hợp vì sản"
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nBọ trĩ bám đọt non, gây lá xoăn, bạc màu và đọt non biến dạng – thuộc nhóm côn trùng chích hút, gây hại trực tiếp trên lá và đọt non.\n\n2. Sản phẩm gợi ý  \nIMIDACLOPRID 100SL\n\n3. Lý do phù hợp  \nIMIDACLOPRID 100SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Côn trùng chích hút gây hại trực tiếp và truyền bệnh, bao gồm bọ trĩ, rệp, bọ phấn.\n\n4. Cách dùng tóm tắt  \nPha 10-15ml/bình 16 lít, phun đều thân lá khi rầy rệp mới xuất hiện.\n\n5. Lưu ý an toàn  \nĐộc với ong; không dùng sát ngày thu hoạch; đọc kỹ nhãn.",
+    "latency": {
+      "retrieval_seconds": 0.0131,
+      "generation_seconds": 14.165,
+      "total_seconds": 14.1782
+    }
+  },
+  {
+    "question_id": "q012",
+    "question": "Cây bị nấm bệnh sau mưa, vết bệnh lan nhanh trên lá và trái thì nên chọn thuốc trừ bệnh nào?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.863345918325992,
+        "chunk_id": "sp156::chunk_2",
+        "product_id": "sp156",
+        "ten_san_pham": "DODINE 65WP",
+        "text": "lên bệnh do nấm Giai đoạn phù hợp: Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: DODINE 65WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm gây ghẻ và đốm lá phát triển sau mưa, tán cây rậm. Nhờ đó, cây được hỗ trợ phòng trị ghẻ, đốm lá, thán thư trên cây ăn trái, đặc biệt nên dùng ở thời điểm sau cắt tỉa, trước và sau mưa, khi lá non ra đợt mới."
+      },
+      {
+        "rank": 2,
+        "score": 0.8533815697085025,
+        "chunk_id": "sp343::chunk_2",
+        "product_id": "sp343",
+        "ten_san_pham": "CARBENDAZIM + MANCOZEB",
+        "text": "bệnh do nấm Giai đoạn phù hợp: Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: CARBENDAZIM + MANCOZEB phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm Colletotrichum và nấm đốm lá phát sinh khi ẩm. Nhờ đó, cây được hỗ trợ phòng trị thán thư, đốm lá, nấm hại trái kết hợp lưu dẫn-tiếp xúc, đặc biệt nên dùng ở thời điểm khi bệnh mới chớm hoặc phun phòng mùa mưa."
+      },
+      {
+        "rank": 3,
+        "score": 0.8491590626740408,
+        "chunk_id": "sp143::chunk_2",
+        "product_id": "sp143",
+        "ten_san_pham": "SULFUR 80WG",
+        "text": "gây hại Giai đoạn phù hợp: Khi bệnh mới chớm hoặc phun phòng trước mùa bệnh Đất/môi trường phù hợp: Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: SULFUR 80WG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm phấn trắng phát triển khi ẩm độ dao động và tán cây rậm. Nhờ đó, cây được hỗ trợ phòng trị phấn trắng, nhện nhẹ và một số nấm bề mặt, đặc biệt nên dùng ở thời điểm khi bệnh mới chớm hoặc phun phòng trước mùa bệnh."
+      },
+      {
+        "rank": 4,
+        "score": 0.8468305635699233,
+        "chunk_id": "sp142::chunk_2",
+        "product_id": "sp142",
+        "ten_san_pham": "DẦU KHOÁNG 99EC",
+        "text": "nhóm côn trùng gây hại Giai đoạn phù hợp: Trước ra hoa Đất/môi trường phù hợp: Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: DẦU KHOÁNG 99EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rệp sáp/rệp vảy tiết mật tạo điều kiện nấm bồ hóng phát triển. Nhờ đó, cây được hỗ trợ hỗ trợ quản lý rệp sáp, rệp vảy, nhện, trứng sâu và nấm bồ hóng, đặc biệt nên dùng ở thời điểm sau cắt tỉa, khi rệp mới xuất hiện, tránh lúc cây đang ra hoa rộ."
+      },
+      {
+        "rank": 5,
+        "score": 0.8430336084893466,
+        "chunk_id": "sp339::chunk_2",
+        "product_id": "sp339",
+        "ten_san_pham": "DIFENOCONAZOLE + PROPICONAZOLE",
+        "text": "Khi bệnh chớm hoặc phun phòng giai đoạn mẫn cảm Đất/môi trường phù hợp: Đất thiếu vi lượng; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: DIFENOCONAZOLE + PROPICONAZOLE phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm bệnh phát sinh trong mùa mưa, lây lan qua bào tử. Nhờ đó, cây được hỗ trợ trị thán thư, rỉ sắt, đốm lá và bệnh trên trái, đặc biệt nên dùng ở thời điểm khi bệnh chớm hoặc phun phòng giai đoạn mẫn cảm."
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nCây bị nấm bệnh sau mưa, vết bệnh lan nhanh trên lá và trái → bệnh do nấm phát sinh trong môi trường ẩm cao, đặc biệt là nấm gây ghẻ, đốm lá, thán thư, rỉ sắt, đốm lá và bệnh trên trái.\n\n2. Sản phẩm gợi ý  \nDODINE 65WP\n\n3. Lý do phù hợp  \nDODINE 65WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm gây ghẻ và đốm lá phát triển sau mưa, tán cây rậm. Nhờ đó, cây được hỗ trợ phòng trị ghẻ, đốm lá, thán thư trên cây ăn trái, đặc biệt nên dùng ở thời điểm sau cắt tỉa, trước và sau mưa, khi lá non ra đợt mới.\n\n4. Cách dùng tóm tắt  \nDùng sau cắt tỉa, trước và sau mưa, khi lá non ra đợt mới.\n\n5. Lưu ý an toàn  \nKhông có thông tin cụ thể về lưu ý an toàn trong CONTEXT.",
+    "latency": {
+      "retrieval_seconds": 0.0135,
+      "generation_seconds": 13.5047,
+      "total_seconds": 13.5183
+    }
+  },
+  {
+    "question_id": "q013",
+    "question": "Đất bị chai cứng, rễ ít và cây hấp thu phân kém thì nên dùng phân cải tạo đất nào?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7832524492515007,
+        "chunk_id": "sp122::chunk_2",
+        "product_id": "sp122",
+        "ten_san_pham": "PHÂN GÀ VIÊN NÉN HỮU CƠ",
+        "text": "thiếu hụt cho cây Giai đoạn phù hợp: Cây con; Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất nghèo hữu cơ; Đất bạc màu, thiếu Magie hoặc lưu huỳnh Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất Lý do chuyên gia: PHÂN GÀ VIÊN NÉN HỮU CƠ phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu hữu cơ và hệ vi sinh đất suy giảm do lạm dụng phân hóa học. Nhờ đó, cây được hỗ trợ cải tạo đất, cung cấp dinh dưỡng chậm, tăng độ mùn, đặc biệt nên dùng ở thời điểm bón lót, sau thu hoạch, đầu mùa mưa."
+      },
+      {
+        "rank": 2,
+        "score": 0.7795947697704972,
+        "chunk_id": "sp286::chunk_2",
+        "product_id": "sp286",
+        "ten_san_pham": "PHÂN BÓN LÁ NUÔI CỦ 5-15-35",
+        "text": "hợp: Đất thiếu vi lượng; Đất cần bổ sung Kali cho giai đoạn nuôi trái; Đất bạc màu, thiếu Magie hoặc lưu huỳnh Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất; Canxi Bo; Phân bón lá vi lượng Lý do chuyên gia: PHÂN BÓN LÁ NUÔI CỦ 5-15-35 phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu Kali và Lân trong giai đoạn phình củ. Nhờ đó, cây được hỗ trợ tăng tích lũy tinh bột, giúp củ to, chắc và đồng đều, đặc biệt nên dùng ở thời điểm giai đoạn bắt đầu hình thành củ đến củ lớn."
+      },
+      {
+        "rank": 3,
+        "score": 0.7788932380581478,
+        "chunk_id": "sp61::chunk_2",
+        "product_id": "sp61",
+        "ten_san_pham": "PHÂN CÁ THỦY PHÂN",
+        "text": "đoạn phù hợp: Cây con; Giai đoạn sinh trưởng mạnh; Sau thu hoạch, phục hồi cây Đất/môi trường phù hợp: Đất nghèo hữu cơ; Đất thiếu vi lượng Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất Lý do chuyên gia: PHÂN CÁ THỦY PHÂN phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Đất thiếu hữu cơ, hệ vi sinh yếu, rễ hoạt động kém. Nhờ đó, cây được hỗ trợ tăng hữu cơ, kích rễ, cải tạo đất và giúp cây xanh bền, đặc biệt nên dùng ở thời điểm tưới định kỳ trong mùa sinh trưởng, sau thu hoạch, sau trồng."
+      },
+      {
+        "rank": 4,
+        "score": 0.77669208663856,
+        "chunk_id": "sp289::chunk_2",
+        "product_id": "sp289",
+        "ten_san_pham": "CANXI MAGIE BO DẠNG BỘT",
+        "text": "Đất/môi trường phù hợp: Đất thiếu vi lượng; Đất canh tác lâu năm, dễ thiếu Canxi-Bo; Đất bạc màu, thiếu Magie hoặc lưu huỳnh; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất; Canxi Bo; Phân bón lá vi lượng Lý do chuyên gia: CANXI MAGIE BO DẠNG BỘT phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu Canxi-Magie-Bo do rễ yếu hoặc mưa nhiều. Nhờ đó, cây được hỗ trợ giảm nứt trái, vàng lá do thiếu mg, tăng độ cứng mô cây, đặc biệt nên dùng ở thời điểm giai đoạn ra lá non, sau đậu trái và nuôi trái."
+      },
+      {
+        "rank": 5,
+        "score": 0.7765586411655603,
+        "chunk_id": "sp118::chunk_2",
+        "product_id": "sp118",
+        "ten_san_pham": "PHÂN BÓN LÁ 20-20-20",
+        "text": "hoạch, phục hồi cây Đất/môi trường phù hợp: Đất thiếu vi lượng; Đất cần bổ sung Kali cho giai đoạn nuôi trái; Đất bạc màu, thiếu Magie hoặc lưu huỳnh Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất Lý do chuyên gia: PHÂN BÓN LÁ 20-20-20 phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu NPK tổng hợp hoặc rễ hấp thu kém trong thời tiết bất lợi. Nhờ đó, cây được hỗ trợ dinh dưỡng cân đối qua lá, giúp cây xanh khỏe và phát triển đồng đều, đặc biệt nên dùng ở thời điểm giai đoạn sinh trưởng thân lá, sau trồng, sau thu hoạch."
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nĐất bị chai cứng, rễ ít và cây hấp thu phân kém cho thấy đất nghèo hữu cơ, hệ vi sinh suy giảm, rễ hoạt động kém – phù hợp với các tình trạng được đề cập trong CONTEXT như đất thiếu hữu cơ, hệ vi sinh yếu, rễ hoạt động kém.\n\n2. Sản phẩm gợi ý  \nPHÂN GÀ VIÊN NÉN HỮU CƠ (product_id: sp122)\n\n3. Lý do phù hợp  \nPHÂN GÀ VIÊN NÉN HỮU CƠ phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu hữu cơ và hệ vi sinh đất suy giảm do lạm dụng phân hóa học. Nhờ đó, cây được hỗ trợ cải tạo đất, cung cấp dinh dưỡng chậm, tăng độ mùn, đặc biệt nên dùng ở thời điểm bón lót, sau thu hoạch, đầu mùa mưa.\n\n4. Cách dùng tóm tắt  \nDùng ở thời điểm bón lót, sau thu hoạch, đầu mùa mưa.\n\n5. Lưu ý an toàn  \nKhông có thông tin cụ thể về lưu ý an toàn trong CONTEXT.",
+    "latency": {
+      "retrieval_seconds": 0.0133,
+      "generation_seconds": 14.5553,
+      "total_seconds": 14.5686
+    }
+  },
+  {
+    "question_id": "q014",
+    "question": "Lúa bị cỏ lồng vực và cỏ hòa bản trong ruộng thì dùng thuốc trừ cỏ nào phù hợp?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.8163902876630321,
+        "chunk_id": "sp296::chunk_2",
+        "product_id": "sp296",
+        "ten_san_pham": "BISPYRIBAC + PENOSULAM",
+        "text": "năm, dễ thiếu Canxi-Bo; Ruộng hoặc vườn có áp lực cỏ dại Gợi ý phối hợp: Chất bám dính; Phân hữu cơ phục hồi đất sau xử lý cỏ Lý do chuyên gia: BISPYRIBAC + PENOSULAM phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ phát triển sau sạ do quản lý nước chưa tốt hoặc tồn dư hạt cỏ nhiều. Nhờ đó, cây được hỗ trợ trừ hỗn hợp cỏ lúa hậu nảy mầm: cỏ hòa bản, lá rộng và chác, đặc biệt nên dùng ở thời điểm sau sạ 8-18 ngày, khi cỏ 2-4 lá."
+      },
+      {
+        "rank": 2,
+        "score": 0.8155300287499362,
+        "chunk_id": "sp161::chunk_2",
+        "product_id": "sp161",
+        "ten_san_pham": "BENTAZONE 480SL",
+        "text": "cây Giai đoạn phù hợp: Cây con; Giai đoạn sinh trưởng mạnh Đất/môi trường phù hợp: Ruộng hoặc vườn có áp lực cỏ dại Gợi ý phối hợp: Chất bám dính; Phân hữu cơ phục hồi đất sau xử lý cỏ Lý do chuyên gia: BENTAZONE 480SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ sau sạ phát triển do ruộng thưa hoặc quản lý nước chưa tốt. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng và cỏ chác lác hậu nảy mầm trong lúa, đặc biệt nên dùng ở thời điểm sau sạ 12-25 ngày, khi cỏ đang sinh trưởng mạnh."
+      },
+      {
+        "rank": 3,
+        "score": 0.8127694189490692,
+        "chunk_id": "sp359::chunk_2",
+        "product_id": "sp359",
+        "ten_san_pham": "BENTAZONE + MCPA",
+        "text": "trường phù hợp: Ruộng hoặc vườn có áp lực cỏ dại Gợi ý phối hợp: Chất bám dính; Phân hữu cơ phục hồi đất sau xử lý cỏ Lý do chuyên gia: BENTAZONE + MCPA phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại sau sạ cạnh tranh dinh dưỡng và ánh sáng. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng và chác lác trong ruộng lúa, đặc biệt nên dùng ở thời điểm sau sạ 15-25 ngày, khi lúa đã cứng cây."
+      },
+      {
+        "rank": 4,
+        "score": 0.8085761618151431,
+        "chunk_id": "sp91::chunk_2",
+        "product_id": "sp91",
+        "ten_san_pham": "GLUFOSINATE-AMMONIUM 200SL",
+        "text": "nhóm côn trùng gây hại; Phù hợp quản lý cỏ dại Giai đoạn phù hợp: Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất thiếu vi lượng; Ruộng hoặc vườn có áp lực cỏ dại Gợi ý phối hợp: Chất bám dính; Phân hữu cơ phục hồi đất sau xử lý cỏ Lý do chuyên gia: GLUFOSINATE-AMMONIUM 200SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh nước, phân bón và là nơi trú sâu bệnh. Nhờ đó, cây được hỗ trợ trừ cỏ không chọn lọc, tác động tiếp xúc-lưu dẫn hạn chế, đặc biệt nên dùng ở thời điểm khi cỏ xanh tốt, cao 10-25cm, tránh để thuốc dính cây trồng."
+      },
+      {
+        "rank": 5,
+        "score": 0.8073125304826259,
+        "chunk_id": "sp448::chunk_2",
+        "product_id": "sp448",
+        "ten_san_pham": "PENOXSULAM + BENTAZONE",
+        "text": "chuyên gia: PENOXSULAM + BENTAZONE phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại phát triển sau sạ trong ruộng đủ ẩm. Nhờ đó, cây được hỗ trợ trừ cỏ hậu nảy mầm trên lúa, mạnh với cỏ lá rộng và chác, đặc biệt nên dùng ở thời điểm sau sạ 12-22 ngày."
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nCỏ lồng vực và cỏ hòa bản thuộc nhóm cỏ lá rộng, phát triển sau sạ, thường do quản lý nước chưa tốt hoặc tồn dư hạt cỏ. Đây là các loại cỏ cạnh tranh dinh dưỡng và ánh sáng với lúa.\n\n2. Sản phẩm gợi ý  \nBISPYRIBAC + PENOSULAM\n\n3. Lý do phù hợp  \nSản phẩm này phù hợp vì tập trung xử lý nguyên nhân: cỏ phát triển sau sạ do quản lý nước chưa tốt hoặc tồn dư hạt cỏ nhiều. Nhờ đó, cây được hỗ trợ trừ hỗn hợp cỏ lúa hậu nảy mầm, bao gồm cỏ hòa bản và lá rộng, đặc biệt nên dùng ở thời điểm sau sạ 8-18 ngày, khi cỏ 2-4 lá.\n\n4. Cách dùng tóm tắt  \nDùng ở thời điểm sau sạ 8-18 ngày, khi cỏ có 2-4 lá.\n\n5. Lưu ý an toàn  \nKhông dùng khi cỏ dính vào cây trồng. Cần phối hợp với chất bám dính và phân hữu cơ để phục hồi đất sau xử lý cỏ.",
+    "latency": {
+      "retrieval_seconds": 0.0135,
+      "generation_seconds": 14.4949,
+      "total_seconds": 14.5084
+    }
+  },
+  {
+    "question_id": "q015",
+    "question": "Cây bị stress sau hạn mặn hoặc sau khi phun thuốc quá liều thì nên dùng gì để phục hồi?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.807849740789381,
+        "chunk_id": "sp212::chunk_2",
+        "product_id": "sp212",
+        "ten_san_pham": "FULVIC AMINO VI LƯỢNG",
+        "text": "dinh dưỡng thiếu hụt cho cây; Giúp cây phục hồi sau stress sinh lý Giai đoạn phù hợp: Sau thu hoạch, phục hồi cây; Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất nghèo hữu cơ; Đất thiếu vi lượng; Điều kiện hạn, mặn hoặc sốc thời tiết Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất Lý do chuyên gia: FULVIC AMINO VI LƯỢNG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rễ hấp thu kém hoặc cây bị stress do thời tiết, sâu bệnh, ngộ độc nhẹ. Nhờ đó, cây được hỗ trợ tăng hấp thu dinh dưỡng qua lá, phục hồi cây sau stress, đặc biệt nên dùng ở thời điểm sau thời tiết bất lợi, sau phun thuốc, giai đoạn ra đọt."
+      },
+      {
+        "rank": 2,
+        "score": 0.8062116899583471,
+        "chunk_id": "sp290::chunk_2",
+        "product_id": "sp290",
+        "ten_san_pham": "AMINO ACID 80 BỘT",
+        "text": "sau stress sinh lý Giai đoạn phù hợp: Sau thu hoạch, phục hồi cây; Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất nghèo hữu cơ; Điều kiện hạn, mặn hoặc sốc thời tiết Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; NPK cân đối; Trichoderma hoặc chế phẩm cải tạo đất Lý do chuyên gia: AMINO ACID 80 BỘT phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây bị stress do thời tiết, thiếu dinh dưỡng hữu cơ dễ hấp thu. Nhờ đó, cây được hỗ trợ phục hồi cây nhanh, tăng trao đổi chất, hỗ trợ cây qua stress, đặc biệt nên dùng ở thời điểm sau phun thuốc, sau mưa dầm/nắng nóng, sau thu hoạch."
+      },
+      {
+        "rank": 3,
+        "score": 0.8042585751476972,
+        "chunk_id": "sp7::chunk_2",
+        "product_id": "sp7",
+        "ten_san_pham": "SEAWEED AMINO 30",
+        "text": "sinh lý Giai đoạn phù hợp: Cây con; Sau thu hoạch, phục hồi cây; Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất nghèo hữu cơ; Đất thiếu vi lượng; Đất cần bổ sung Kali cho giai đoạn nuôi trái; Điều kiện hạn, mặn hoặc sốc thời tiết Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid Lý do chuyên gia: SEAWEED AMINO 30 phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây bị sốc sinh lý do nắng nóng, lạnh, hạn, mặn hoặc phun thuốc quá liều. Nhờ đó, cây được hỗ trợ giải stress, phục hồi cây sau hạn, mặn, ngộ độc thuốc; kích chồi, đặc biệt nên dùng ở thời điểm sau thời tiết bất lợi, sau phun thuốc, giai đoạn cây con."
+      },
+      {
+        "rank": 4,
+        "score": 0.795745163485069,
+        "chunk_id": "sp376::chunk_2",
+        "product_id": "sp376",
+        "ten_san_pham": "PHỤC HỒI CÂY SAU NGỘ ĐỘC",
+        "text": "điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất nghèo hữu cơ; Đất thiếu vi lượng; Điều kiện hạn, mặn hoặc sốc thời tiết Gợi ý phối hợp: Phân bón lá vi lượng; Amino Acid hoặc rong biển Lý do chuyên gia: PHỤC HỒI CÂY SAU NGỘ ĐỘC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây bị sốc do thuốc, phèn/mặn nhẹ hoặc thời tiết cực đoan. Nhờ đó, cây được hỗ trợ giải stress sinh lý, hỗ trợ cây hồi phục sau ngộ độc thuốc/phèn/mặn nhẹ, đặc biệt nên dùng ở thời điểm sau khi phát hiện triệu chứng stress nhẹ và đã ngưng nguyên nhân gây hại."
+      },
+      {
+        "rank": 5,
+        "score": 0.7956798758923229,
+        "chunk_id": "sp258::chunk_2",
+        "product_id": "sp258",
+        "ten_san_pham": "CHITOSAN ĐỀ KHÁNG BỆNH",
+        "text": "sung dinh dưỡng thiếu hụt cho cây; Giúp cây phục hồi sau stress sinh lý Giai đoạn phù hợp: Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất nghèo hữu cơ; Điều kiện hạn, mặn hoặc sốc thời tiết Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: CHITOSAN ĐỀ KHÁNG BỆNH phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây giảm sức đề kháng do stress, thiếu dinh dưỡng hoặc thời tiết bất lợi. Nhờ đó, cây được hỗ trợ kích hoạt cơ chế đề kháng tự nhiên, hỗ trợ giảm áp lực nấm khuẩn, đặc biệt nên dùng ở thời điểm trước mùa bệnh, sau mưa, sau cắt tỉa."
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nCây bị stress sau hạn, mặn hoặc sau khi phun thuốc quá liều thuộc nhóm stress sinh lý do thời tiết cực đoan hoặc tác động hóa học từ thuốc.\n\n2. Sản phẩm gợi ý  \nFULVIC AMINO VI LƯỢNG, AMINO ACID 80 BỘT, SEAWEED AMINO 30, PHỤC HỒI CÂY SAU NGỘ ĐỘC.\n\n3. Lý do phù hợp  \n- FULVIC AMINO VI LƯỢNG: Hỗ trợ tăng hấp thu dinh dưỡng qua lá, phục hồi cây sau stress do thời tiết, sâu bệnh, ngộ độc nhẹ, đặc biệt phù hợp sau phun thuốc, mưa dầm, nắng nóng.  \n- AMINO ACID 80 BỘT: Hỗ trợ phục hồi nhanh, tăng trao đổi chất, giảm tác động của stress do thời tiết hoặc thiếu dinh dưỡng hữu cơ, dùng sau mưa dầm, nắng nóng, sau thu hoạch.  \n- SEAWEED AMINO 30: Giúp giải stress do nắng nóng, lạnh, hạn, mặn hoặc phun thuốc quá liều, hỗ trợ phục hồi sau hạn, mặn, ngộ độc thuốc, kích chồi.  \n- PHỤC HỒI CÂY SAU NGỘ ĐỘC: Hỗ trợ giải stress sinh lý, phục hồi sau ngộ độc thuốc, phèn/mặn nhẹ hoặc thời tiết cực đoan, dùng khi đã phát hiện triệu chứng stress nhẹ và đã ngưng nguyên nhân gây hại.\n\n4. Cách dùng tóm tắt  \nDùng sau khi phát hiện stress, đặc biệt sau thời tiết bất lợi, sau phun thuốc, sau thu hoạch. Dùng theo hướng dẫn của nhà sản xuất hoặc theo khuyến nghị chuyên gia (thường là phun lá hoặc bón vào đất nếu phù hợp).\n\n5. Lưu ý an toàn  \n- Dùng khi đã ngưng nguyên nhân gây stress (ví dụ: ngừng phun thuốc nếu do phun quá liều).  \n- Không dùng khi cây có triệu chứng nghiêm trọng chưa được kiểm tra rõ ràng.  \n- Kết hợp với chất bám dính sinh học, phân bón lá amino acid hoặc chế phẩm cải tạo đất để tăng hiệu quả.  \n- Không dùng thay thế cho biện pháp xử lý nguyên nhân gốc rễ (ví dụ: tưới nước",
+    "latency": {
+      "retrieval_seconds": 0.0134,
+      "generation_seconds": 29.6008,
+      "total_seconds": 29.6143
+    }
+  },
+  {
+    "question_id": "q016",
+    "question": "Trái cây đang nuôi trái nhưng trái nhạt, mềm và chất lượng thấp thì nên bổ sung phân gì?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7845797420265763,
+        "chunk_id": "sp466::chunk_2",
+        "product_id": "sp466",
+        "ten_san_pham": "PACLOBUTRAZOL DẠNG HẠT",
+        "text": "cần bổ sung Kali cho giai đoạn nuôi trái Gợi ý phối hợp: Phân bón lá vi lượng; Amino Acid hoặc rong biển Lý do chuyên gia: PACLOBUTRAZOL DẠNG HẠT phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Dư đạm và cây chưa chuyển sang pha sinh sản. Nhờ đó, cây được hỗ trợ ức chế sinh trưởng thân lá, hỗ trợ xử lý ra hoa cây ăn trái, đặc biệt nên dùng ở thời điểm khi lá đã già và cây đủ sức xử lý ra hoa."
+      },
+      {
+        "rank": 2,
+        "score": 0.7785596213949026,
+        "chunk_id": "sp275::chunk_2",
+        "product_id": "sp275",
+        "ten_san_pham": "FORCHLORFENURON CPPU 1SL",
+        "text": "Gợi ý phối hợp: Phân bón lá vi lượng; Amino Acid hoặc rong biển Lý do chuyên gia: FORCHLORFENURON CPPU 1SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Giai đoạn phân chia tế bào trái chưa tối ưu hoặc cây thiếu sức nuôi trái. Nhờ đó, cây được hỗ trợ hỗ trợ tăng kích thước trái ở một số cây khi dùng đúng kỹ thuật, đặc biệt nên dùng ở thời điểm ngay sau đậu trái non theo quy trình từng cây."
+      },
+      {
+        "rank": 3,
+        "score": 0.7771670531134971,
+        "chunk_id": "sp304::chunk_2",
+        "product_id": "sp304",
+        "ten_san_pham": "NPK 5-5-45 SIÊU KALI",
+        "text": "hoặc lưu huỳnh Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; Canxi Bo; Phân bón lá vi lượng Lý do chuyên gia: NPK 5-5-45 SIÊU KALI phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu Kali trong giai đoạn hoàn thiện phẩm chất trái. Nhờ đó, cây được hỗ trợ dưỡng trái cuối vụ, tăng độ ngọt, màu sắc và độ chắc, đặc biệt nên dùng ở thời điểm trái lớn đến trước thu hoạch."
+      },
+      {
+        "rank": 4,
+        "score": 0.7744059013156155,
+        "chunk_id": "sp368::chunk_2",
+        "product_id": "sp368",
+        "ten_san_pham": "CPPU + GA4/7 TĂNG SIZE TRÁI",
+        "text": "tác thông thường Gợi ý phối hợp: Phân bón lá vi lượng; Amino Acid hoặc rong biển Lý do chuyên gia: CPPU + GA4/7 TĂNG SIZE TRÁI phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Giai đoạn phân chia/giãn tế bào trái chưa tối ưu. Nhờ đó, cây được hỗ trợ hỗ trợ tăng kích thước và độ đồng đều trái khi dùng đúng quy trình, đặc biệt nên dùng ở thời điểm sau đậu trái non theo thời điểm khuyến cáo từng cây."
+      },
+      {
+        "rank": 5,
+        "score": 0.7713739466003013,
+        "chunk_id": "sp405::chunk_2",
+        "product_id": "sp405",
+        "ten_san_pham": "NPK 4-12-42 + Mg",
+        "text": "bổ sung Kali cho giai đoạn nuôi trái; Đất bạc màu, thiếu Magie hoặc lưu huỳnh Gợi ý phối hợp: Chất bám dính sinh học; Phân bón lá Amino Acid; Canxi Bo; Phân bón lá vi lượng Lý do chuyên gia: NPK 4-12-42 + Mg phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu Kali-Magie trong giai đoạn hoàn thiện trái. Nhờ đó, cây được hỗ trợ dưỡng trái cuối vụ, tăng độ ngọt, độ chắc và màu sắc, đặc biệt nên dùng ở thời điểm giai đoạn trái lớn đến trước thu hoạch."
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nTrái nhạt, mềm và chất lượng thấp có thể do thiếu Kali trong giai đoạn hoàn thiện trái, dẫn đến thiếu dưỡng chất cần thiết để phát triển độ ngọt, độ chắc và màu sắc.\n\n2. Sản phẩm gợi ý  \nNPK 5-5-45 SIÊU KALI  \nNPK 4-12-42 + Mg\n\n3. Lý do phù hợp  \n- NPK 5-5-45 SIÊU KALI phù hợp vì tập trung xử lý nguyên nhân thiếu Kali trong giai đoạn hoàn thiện phẩm chất trái, giúp tăng độ ngọt, màu sắc và độ chắc.  \n- NPK 4-12-42 + Mg phù hợp vì tập trung xử lý nguyên nhân thiếu Kali-Magie trong giai đoạn hoàn thiện trái, hỗ trợ tăng độ ngọt, độ chắc và màu sắc.\n\n4. Cách dùng tóm tắt  \nDùng ở thời điểm trái lớn đến trước thu hoạch.\n\n5. Lưu ý an toàn  \nChưa có thông tin cụ thể về lưu ý an toàn trong CONTEXT.",
+    "latency": {
+      "retrieval_seconds": 0.0143,
+      "generation_seconds": 13.0608,
+      "total_seconds": 13.0751
+    }
+  },
+  {
+    "question_id": "q017",
+    "question": "Lúa bị bệnh bạc lá, cháy bìa lá và lan nhanh sau mưa thì dùng thuốc nào?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7839751384862103,
+        "chunk_id": "sp144::chunk_2",
+        "product_id": "sp144",
+        "ten_san_pham": "MANCOZEB 80WP",
+        "text": "nước mưa; Tác động lên bệnh do nấm Giai đoạn phù hợp: Sau điều kiện thời tiết bất lợi Đất/môi trường phù hợp: Đất canh tác lâu năm, dễ thiếu Canxi-Bo; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: MANCOZEB 80WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm bệnh phát tán bào tử khi ẩm độ cao và mưa kéo dài. Nhờ đó, cây được hỗ trợ thuốc tiếp xúc phòng nhiều bệnh nấm như đốm lá, sương mai, thán thư, đặc biệt nên dùng ở thời điểm phun phòng trước mưa hoặc khi bệnh mới xuất hiện."
+      },
+      {
+        "rank": 2,
+        "score": 0.7736787484748526,
+        "chunk_id": "sp143::chunk_2",
+        "product_id": "sp143",
+        "ten_san_pham": "SULFUR 80WG",
+        "text": "gây hại Giai đoạn phù hợp: Khi bệnh mới chớm hoặc phun phòng trước mùa bệnh Đất/môi trường phù hợp: Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: SULFUR 80WG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm phấn trắng phát triển khi ẩm độ dao động và tán cây rậm. Nhờ đó, cây được hỗ trợ phòng trị phấn trắng, nhện nhẹ và một số nấm bề mặt, đặc biệt nên dùng ở thời điểm khi bệnh mới chớm hoặc phun phòng trước mùa bệnh."
+      },
+      {
+        "rank": 3,
+        "score": 0.7723091030796934,
+        "chunk_id": "sp74::chunk_2",
+        "product_id": "sp74",
+        "ten_san_pham": "TRIFLOXYSTROBIN + TEBUCONAZOLE",
+        "text": "bệnh do nấm Giai đoạn phù hợp: Khi bệnh mới xuất hiện; trước trổ lúa hoặc trước mùa mưa Đất/môi trường phù hợp: Đất thiếu vi lượng; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: TRIFLOXYSTROBIN + TEBUCONAZOLE phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Tổ hợp nấm bệnh phát sinh trong giai đoạn ẩm, cây rậm tán. Nhờ đó, cây được hỗ trợ trừ thán thư, phấn trắng, đốm lá, lem lép hạt; hiệu lực phòng và trị, đặc biệt nên dùng ở thời điểm khi bệnh mới xuất hiện, trước trổ lúa hoặc trước mùa mưa."
+      },
+      {
+        "rank": 4,
+        "score": 0.7719410867594599,
+        "chunk_id": "sp442::chunk_2",
+        "product_id": "sp442",
+        "ten_san_pham": "BICARBONATE + LƯU HUỲNH",
+        "text": "cây Giai đoạn phù hợp: Khi bệnh mới chớm hoặc phun phòng Đất/môi trường phù hợp: Đất thiếu vi lượng; Đất canh tác lâu năm, dễ thiếu Canxi-Bo; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: BICARBONATE + LƯU HUỲNH phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm phấn trắng và nhện phát sinh khi khô nóng, ẩm độ dao động. Nhờ đó, cây được hỗ trợ hỗ trợ phòng trị phấn trắng, nấm bề mặt và nhện nhẹ, đặc biệt nên dùng ở thời điểm khi bệnh mới chớm hoặc phun phòng."
+      },
+      {
+        "rank": 5,
+        "score": 0.7705311757461037,
+        "chunk_id": "sp69::chunk_2",
+        "product_id": "sp69",
+        "ten_san_pham": "MANCOZEB 80WP",
+        "text": "phù hợp: Phun phòng định kỳ mùa mưa hoặc khi bệnh mới chớm Đất/môi trường phù hợp: Đất canh tác lâu năm, dễ thiếu Canxi-Bo; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá phục hồi sau bệnh Lý do chuyên gia: MANCOZEB 80WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm bệnh phát triển khi ẩm độ cao, mưa nhiều, tán cây rậm. Nhờ đó, cây được hỗ trợ phòng trị đốm lá, thán thư, sương mai, cháy lá, đặc biệt nên dùng ở thời điểm phun phòng định kỳ mùa mưa hoặc khi bệnh mới chớm."
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nBệnh bạc lá, cháy bìa lá và lan nhanh sau mưa phù hợp với các bệnh do nấm phát triển trong điều kiện ẩm cao, mưa kéo dài, đặc biệt là đốm lá, thán thư, sương mai, cháy lá.\n\n2. Sản phẩm gợi ý  \nMANCOZEB 80WP\n\n3. Lý do phù hợp  \nMANCOZEB 80WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm bệnh phát tán bào tử khi ẩm độ cao và mưa kéo dài. Nhờ đó, cây được hỗ trợ phòng nhiều bệnh nấm như đốm lá, sương mai, thán thư, đặc biệt nên dùng ở thời điểm phun phòng trước mưa hoặc khi bệnh mới xuất hiện.\n\n4. Cách dùng tóm tắt  \nPhun phòng trước mưa hoặc khi bệnh mới xuất hiện, đặc biệt trong mùa mưa hoặc khi bệnh chớm.\n\n5. Lưu ý an toàn  \nChưa có thông tin cụ thể về lưu ý an toàn trong CONTEXT.",
+    "latency": {
+      "retrieval_seconds": 0.013,
+      "generation_seconds": 13.1148,
+      "total_seconds": 13.1278
+    }
+  },
+  {
+    "question_id": "q018",
+    "question": "Cây bị rệp sáp hoặc rệp mềm bám đọt non, lá xoăn và có mật ngọt thì nên dùng thuốc gì?",
+    "llm_model": "qwen3_4b",
+    "embedding_model": "sup-simcse-vietnamese-phobert-base",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7990413633857287,
+        "chunk_id": "sp135::chunk_2",
+        "product_id": "sp135",
+        "ten_san_pham": "ACETAMIPRID 20SP",
+        "text": "nhất là giai đoạn ra đọt Đất/môi trường phù hợp: Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: ACETAMIPRID 20SP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Côn trùng chích hút làm cây mất nhựa và có thể truyền virus. Nhờ đó, cây được hỗ trợ trừ rệp mềm, bọ phấn, rầy xanh, rầy mềm và côn trùng chích hút, đặc biệt nên dùng ở thời điểm khi mật số rệp/bọ phấn mới xuất hiện, nhất là giai đoạn ra đọt."
+      },
+      {
+        "rank": 2,
+        "score": 0.798242491477001,
+        "chunk_id": "sp142::chunk_2",
+        "product_id": "sp142",
+        "ten_san_pham": "DẦU KHOÁNG 99EC",
+        "text": "nhóm côn trùng gây hại Giai đoạn phù hợp: Trước ra hoa Đất/môi trường phù hợp: Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: DẦU KHOÁNG 99EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rệp sáp/rệp vảy tiết mật tạo điều kiện nấm bồ hóng phát triển. Nhờ đó, cây được hỗ trợ hỗ trợ quản lý rệp sáp, rệp vảy, nhện, trứng sâu và nấm bồ hóng, đặc biệt nên dùng ở thời điểm sau cắt tỉa, khi rệp mới xuất hiện, tránh lúc cây đang ra hoa rộ."
+      },
+      {
+        "rank": 3,
+        "score": 0.7968649129722777,
+        "chunk_id": "sp24::chunk_2",
+        "product_id": "sp24",
+        "ten_san_pham": "SPIROTETRAMAT 100SC",
+        "text": "rệp mới xuất hiện; sau cắt tỉa tạo tán Đất/môi trường phù hợp: Đất thiếu vi lượng; Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: SPIROTETRAMAT 100SC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rệp sáp và rệp vảy hút nhựa, tiết mật tạo nấm bồ hóng. Nhờ đó, cây được hỗ trợ trừ rệp sáp, rệp vảy, bọ phấn, côn trùng chích hút lưu dẫn hai chiều, đặc biệt nên dùng ở thời điểm khi rệp mới xuất hiện, sau cắt tỉa tạo tán."
+      },
+      {
+        "rank": 4,
+        "score": 0.7954523876070229,
+        "chunk_id": "sp193::chunk_2",
+        "product_id": "sp193",
+        "ten_san_pham": "AFIDOPYROPEN 50DC",
+        "text": "ở đọt non Đất/môi trường phù hợp: Môi trường ẩm cao, dễ phát sinh nấm bệnh Gợi ý phối hợp: Chất bám dính; Phân bón lá giúp cây phục hồi Lý do chuyên gia: AFIDOPYROPEN 50DC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Côn trùng chích hút sinh sản nhanh và có nguy cơ kháng thuốc cũ. Nhờ đó, cây được hỗ trợ quản lý rệp mềm, bọ phấn, rầy chích hút theo cơ chế mới, đặc biệt nên dùng ở thời điểm khi rệp/bọ phấn mới phát sinh, đặc biệt ở đọt non."
+      },
+      {
+        "rank": 5,
+        "score": 0.7927628289115629,
+        "chunk_id": "sp89::chunk_1",
+        "product_id": "sp89",
+        "ten_san_pham": "DẦU KHOÁNG 99EC",
+        "text": "Sản phẩm: DẦU KHOÁNG 99EC Loại: thuoc_tru_sau Rule key: thuoc_tru_sau | Lá và trái có lớp muội đen, rệp vảy bám cành, nhện đỏ li ti Thành phần: mineral_oil: 99% w/w Quy cách: Chai 1 lít Công dụng: Phòng trừ rệp sáp; rệp vảy; nhện; trứng sâu; hỗ trợ rửa nấm bồ hóng Triệu chứng: Lá và trái có lớp muội đen, rệp vảy bám cành, nhện đỏ li ti Nguyên nhân: Côn trùng chích hút tiết mật; trứng và ấu trùng bám trên bề mặt cây Cây trồng phù hợp: Cam quýt; xoài; cà phê; hoa kiểng; cây ăn trái Thời điểm xử lý: Khi rệp mới xuất hiện; sau cắt tỉa; trước mùa khô Hướng dẫn sử dụng: cach_dung: Pha 50-80ml/bình 16 lít; phun ướt đều thân cành và mặt dưới lá; lieu_luong: 80ml; luong_nuoc: 16 lít An toàn sử dụng: Không phun lúc nắng nóng hoặc cây đang thiếu nước; không pha gần thời điểm dùng lưu huỳnh Giá tham khảo: tu: 80000; den: 130000; don_vi: VND Đặc tính bệnh/hoạt chất: Có khả năng phòng ngừa và ức chế phát triển; Tác động lên bệnh do nấm; Phù hợp xử lý nhóm côn trùng gây hại; Bổ sung dinh dưỡng thiếu hụt cho cây Giai đoạn phù hợp: Khi rệp mới xuất hiện; sau cắt tỉa; trước"
+      }
+    ],
+    "answer": "1. Chẩn đoán khả năng  \nCây bị rệp sáp hoặc rệp mềm bám đọt non, lá xoăn và có mật ngọt cho thấy hiện tượng côn trùng chích hút, tiết mật tạo điều kiện phát sinh nấm bệnh, đặc biệt ở giai đoạn đọt non – thời điểm dễ bị tấn công và phát triển nhanh.\n\n2. Sản phẩm gợi ý  \nACETAMIPRID 20SP\n\n3. Lý do phù hợp  \nACETAMIPRID 20SP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: côn trùng chích hút làm cây mất nhựa và có thể truyền virus. Sản phẩm hiệu quả trong việc trừ rệp mềm, bọ phấn, rầy xanh, rầy mềm và các côn trùng chích hút, đặc biệt nên dùng khi mật số rệp/bọ phấn mới xuất hiện, nhất là giai đoạn ra đọt và đọt non.\n\n4. Cách dùng tóm tắt  \nDùng khi mật số rệp/bọ phấn mới xuất hiện, nhất là giai đoạn ra đọt và đọt non. Phối hợp với chất bám dính và phân bón lá để giúp cây phục hồi.\n\n5. Lưu ý an toàn  \nKhông có thông tin cụ thể về thời điểm phun, liều lượng hoặc điều kiện thời tiết trong CONTEXT để đưa ra lưu ý an toàn chính xác. Cần tham khảo thêm hướng dẫn sử dụng chi tiết nếu có.",
+    "latency": {
+      "retrieval_seconds": 0.0135,
+      "generation_seconds": 18.5446,
+      "total_seconds": 18.5582
+    }
+  }
+]

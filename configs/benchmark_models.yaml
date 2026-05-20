@@ -1,0 +1,24 @@
+models:
+  - alias: sup-simcse-vietnamese-phobert-base
+    model_name: VoVanPhuc/sup-SimCSE-VietNamese-phobert-base
+    collection_name: thuoc_metadata_sup_simcse
+    batch_size: 8
+    max_length: 256
+
+  - alias: vietnamese-bi-encoder
+    model_name: bkai-foundation-models/vietnamese-bi-encoder
+    collection_name: thuoc_metadata_vietnamese_bi_encoder
+    batch_size: 16
+    max_length: 256
+
+  - alias: bge-m3
+    model_name: BAAI/bge-m3
+    collection_name: thuoc_metadata_bge_m3
+    batch_size: 16
+    max_length: 8192
+
+  - alias: multilingual-e5-base
+    model_name: intfloat/multilingual-e5-base
+    collection_name: thuoc_metadata_multilingual_e5_base
+    batch_size: 16
+    max_length: 512

@@ -1,0 +1,432 @@
+{
+  "summary": {
+    "total": 30,
+    "passed": 28,
+    "pass_rate": 0.9333,
+    "retrieval_hit_rate": 0.9333,
+    "answer_keyword_hit_rate": 0.9667,
+    "answer_product_name_hit_rate": 0.9333
+  },
+  "items": [
+    {
+      "question_id": "qa001",
+      "type": "goi_y_san_pham",
+      "question": "Cây ăn trái có biểu hiện Hoa khô, rụng hàng loạt, trái non dễ rụng. Nên dùng sản phẩm nào và vì sao?",
+      "expected_product_ids": [
+        "sp1"
+      ],
+      "expected_product_name": "KẼM BORON 50.000ppm",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nCây ăn trái có biểu hiện hoa khô, rụng hàng loạt, trái non dễ rụng có thể do thiếu vi lượng Kẽm và Bo trong giai đoạn phân hóa mầm hoa.\n\n2. Sản phẩm gợi ý  \nKẼM BORON 50.000ppm\n\n3. Lý do phù hợp  \nSản phẩm KẼM BORON 50.000ppm có thành phần chứa 50.000ppm Kẽm và 50.000ppm Bo, giúp tăng khả năng thụ phấn, đậu trái và hạn chế rụng hoa, trái non – phù hợp với triệu chứng hoa khô, rụng hàng loạt và trái non dễ rụng.\n\n4. Cách dùng tóm tắt  \nPha 500g sản phẩm cho 200–250 lít nước, phun đều hai mặt lá.\n\n5. Lưu ý an toàn  \nKhông pha chung với thuốc có tính kiềm mạnh. Bảo quản nơi khô ráo.",
+      "passed": true
+    },
+    {
+      "question_id": "qa002",
+      "type": "cach_dung",
+      "question": "NPK 20-20-15 TE dùng như thế nào?",
+      "expected_product_ids": [
+        "sp2"
+      ],
+      "expected_product_name": "NPK 20-20-15 TE",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nCây sinh trưởng chậm, lá nhạt màu, đậu trái kém do đất thiếu đa lượng NPK hoặc bón phân mất cân đối.\n\n2. Sản phẩm gợi ý  \nNPK 20-20-15 TE\n\n3. Lý do phù hợp  \nNPK 20-20-15 TE phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Đất thiếu đa lượng NPK hoặc bón phân mất cân đối. Nhờ đó, cây được hỗ trợ cung cấp dinh dưỡng cân đối, giúp cây phát triển thân lá, rễ và nuôi trái, đặc biệt nên dùng ở thời điểm giai đoạn sinh trưởng mạnh, sau thu hoạch, trước ra hoa.\n\n4. Cách dùng tóm tắt  \nBón gốc 200-500kg/ha tùy cây trồng và độ phì đất; liều lượng khuyến nghị là 500kg/ha.\n\n5. Lưu ý an toàn  \nKhông bón sát gốc; tưới nước sau khi bón để tránh cháy rễ.",
+      "passed": true
+    },
+    {
+      "question_id": "qa003",
+      "type": "gia",
+      "question": "Giá tham khảo của DAP 18-46-0 là bao nhiêu?",
+      "expected_product_ids": [
+        "sp3"
+      ],
+      "expected_product_name": "DAP 18-46-0",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nGiá tham khảo của sản phẩm DAP 18-46-0 được nêu rõ trong context.\n\n2. Sản phẩm gợi ý  \nDAP 18-46-0\n\n3. Lý do phù hợp  \nThông tin giá tham khảo được cung cấp trong đoạn mô tả sản phẩm DAP 18-46-0, cụ thể là trong phần \"Giá tham khảo\".\n\n4. Cách dùng tóm tắt  \nBón 100-300kg/ha; cây ăn trái bón 0,2-1kg/gốc tùy tuổi cây; liều lượng khuyến nghị là 300kg/ha.\n\n5. Lưu ý an toàn  \nTránh trộn trực tiếp với vôi; bảo quản khô, tránh vón cục.",
+      "passed": true
+    },
+    {
+      "question_id": "qa004",
+      "type": "thanh_phan",
+      "question": "Thành phần chính của KALI CLORUA KCl 60% là gì?",
+      "expected_product_ids": [
+        "sp4"
+      ],
+      "expected_product_name": "KALI CLORUA KCl 60%",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nSản phẩm KALI CLORUA KCl 60% được xác định là phân bón chứa thành phần chính là kali hữu hiệu (K₂O) với nồng độ 60%, dưới dạng KCl.\n\n2. Sản phẩm gợi ý  \nKALI CLORUA KCl 60%\n\n3. Lý do phù hợp  \nPhù hợp vì sản phẩm tập trung xử lý nguyên nhân thiếu kali hoặc cây đang nuôi trái, nuôi củ cần nhiều kali. Cây được hỗ trợ tăng độ ngọt, chắc hạt, cứng cây, tăng khả năng chống chịu.\n\n4. Cách dùng tóm tắt  \nBón 100–250kg/ha; cây ăn trái 0,3–1,5kg/gốc tùy tuổi cây; liều lượng đề xuất là 250kg/ha.\n\n5. Lưu ý an toàn  \nKhông bón quá liều trên cây mẫn cảm clo; tránh bón lúc nắng gắt.",
+      "passed": true
+    },
+    {
+      "question_id": "qa005",
+      "type": "an_toan",
+      "question": "Khi dùng CANXI BO MAX cần lưu ý an toàn gì?",
+      "expected_product_ids": [
+        "sp5"
+      ],
+      "expected_product_name": "CANXI BO MAX",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nKhông đủ dữ liệu để chẩn đoán khả năng sử dụng CANXI BO MAX trong bối cảnh cụ thể.\n\n2. Sản phẩm gợi ý  \nCANXI BO MAX\n\n3. Lý do phù hợp  \nCANXI BO MAX phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu Canxi và Bo, rối loạn vận chuyển dinh dưỡng khi cây thiếu nước. Nhờ đó, cây được hỗ trợ chống nứt trái, thối đít trái, tăng cứng vỏ và cuống trái, đặc biệt nên dùng ở thời điểm trước ra hoa, sau đậu trái, giai đoạn trái lớn nhanh.\n\n4. Cách dùng tóm tắt  \nPha 25-40ml/bình 16 lít; phun 7-10 ngày/lần; liều lượng 40ml; lượng nước 16 lít.\n\n5. Lưu ý an toàn  \nKhông pha với phân chứa phosphate đậm đặc; lắc đều trước khi dùng.",
+      "passed": true
+    },
+    {
+      "question_id": "qa006",
+      "type": "goi_y_san_pham",
+      "question": "Rau màu có biểu hiện Rễ ít, đất chai cứng, cây vàng lá sau mưa hoặc sau bón phân mạnh. Nên dùng sản phẩm nào và vì sao?",
+      "expected_product_ids": [
+        "sp6"
+      ],
+      "expected_product_name": "HUMIC ACID 70%",
+      "retrieval_product_hit": false,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": false,
+      "answer": "1. Chẩn đoán khả năng  \nRễ ít, đất chai cứng, cây vàng lá sau mưa hoặc sau bón phân mạnh → nguyên nhân có thể do đất nghèo mùn, pH bất lợi, canh tác thâm canh lâu năm, hoặc rễ yếu dẫn đến hấp thu dinh dưỡng kém.\n\n2. Sản phẩm gợi ý  \nHUMIC RỄ KHỎE 85\n\n3. Lý do phù hợp  \nSản phẩm HUMIC RỄ KHỎE 85 phù hợp vì tập trung xử lý nguyên nhân: đất nghèo mùn, pH bất lợi, canh tác thâm canh lâu năm. Sản phẩm giúp cải tạo đất, kích thích rễ trắng, tăng khả năng giữ phân và giảm hiện tượng chai đất, từ đó cải thiện khả năng hấp thu dinh dưỡng của cây, hỗ trợ cây vàng lá do rễ yếu.\n\n4. Cách dùng tóm tắt  \nTưới 1kg/400-600 lít nước hoặc rải 2-5kg/ha.\n\n5. Lưu ý an toàn  \nKhông pha với chất oxy hóa mạnh; bảo quản nơi khô ráo.",
+      "passed": false
+    },
+    {
+      "question_id": "qa007",
+      "type": "cach_dung",
+      "question": "SEAWEED AMINO 30 dùng như thế nào?",
+      "expected_product_ids": [
+        "sp7"
+      ],
+      "expected_product_name": "SEAWEED AMINO 30",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nCây đứng lá, chậm phát triển, lá xoăn nhẹ sau thời tiết xấu do cây bị sốc sinh lý do nắng nóng, lạnh, hạn, mặn hoặc phun thuốc quá liều.\n\n2. Sản phẩm gợi ý  \nSEAWEED AMINO 30\n\n3. Lý do phù hợp  \nSản phẩm giúp giải stress, phục hồi cây sau hạn, mặn, ngộ độc thuốc; kích chồi, đặc biệt phù hợp khi cây bị sốc sinh lý do thời tiết bất lợi hoặc sau phun thuốc.\n\n4. Cách dùng tóm tắt  \nPha 15–25ml/bình 16 lít, phun sáng sớm hoặc chiều mát; liều lượng 25ml cho 16 lít nước.\n\n5. Lưu ý an toàn  \nKhông pha với thuốc có tính kiềm cao; đeo găng khi pha.",
+      "passed": true
+    },
+    {
+      "question_id": "qa008",
+      "type": "gia",
+      "question": "Giá tham khảo của NPK 16-16-8 + TE là bao nhiêu?",
+      "expected_product_ids": [
+        "sp8"
+      ],
+      "expected_product_name": "NPK 16-16-8 + TE",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nThông tin về giá tham khảo của sản phẩm NPK 16-16-8 + TE có trong context.\n\n2. Sản phẩm gợi ý  \nNPK 16-16-8 + TE\n\n3. Lý do phù hợp  \nSản phẩm này được liệt kê trong context với mã product_id: sp8 và có thông tin rõ ràng về giá tham khảo.\n\n4. Cách dùng tóm tắt  \nBón 200-500kg/ha tùy cây; cây ăn trái 0,5-2kg/gốc.\n\n5. Lưu ý an toàn  \nKhông bón sát thân; không để phân dính lá non.",
+      "passed": true
+    },
+    {
+      "question_id": "qa009",
+      "type": "thanh_phan",
+      "question": "Thành phần chính của MAGIE KẼM LƯU HUỲNH là gì?",
+      "expected_product_ids": [
+        "sp9"
+      ],
+      "expected_product_name": "MAGIE KẼM LƯU HUỲNH",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nSản phẩm MAGIE KẼM LƯU HUỲNH được xác định là một loại phân bón bổ sung dinh dưỡng thiếu hụt cho cây, đặc biệt là Magie, Kẽm và Lưu huỳnh.\n\n2. Sản phẩm gợi ý  \nMAGIE KẼM LƯU HUỲNH\n\n3. Lý do phù hợp  \nThành phần chính của sản phẩm bao gồm: Magie (MgO: 16%), Kẽm (Zn: 5%), Lưu huỳnh (S: 12%). Sản phẩm này phù hợp với các triệu chứng như lá già vàng giữa gân, gân còn xanh, cây kém quang hợp do thiếu Magie, Kẽm hoặc Lưu huỳnh, hoặc do đất pH thấp làm rễ hấp thu kém.\n\n4. Cách dùng tóm tắt  \nPha 40-60g/bình 16 lít nước hoặc tưới 1kg/400 lít nước. Liều lượng sử dụng là 60g trên 16 lít nước.\n\n5. Lưu ý an toàn  \nKhông pha chung với Canxi đậm đặc; cần thử nhỏ trước khi phối thuốc.",
+      "passed": true
+    },
+    {
+      "question_id": "qa010",
+      "type": "an_toan",
+      "question": "Khi dùng PHÂN BÓN LÁ 10-55-10 cần lưu ý an toàn gì?",
+      "expected_product_ids": [
+        "sp10"
+      ],
+      "expected_product_name": "PHÂN BÓN LÁ 10-55-10",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nKhông đủ dữ liệu để xác định rõ chẩn đoán khả năng liên quan đến việc sử dụng PHÂN BÓN LÁ 10-55-10.\n\n2. Sản phẩm gợi ý  \nPHÂN BÓN LÁ 10-55-10.\n\n3. Lý do phù hợp  \nPhân bón lá 10-55-10 phù hợp vì sản phẩm tập trung xử lý nguyên nhân: thiếu lân hoặc bón dư đạm làm cây thiên về sinh trưởng thân lá. Nhờ đó, cây được hỗ trợ kích thích ra rễ, phân hóa mầm hoa, giúp cây chuyển sang sinh sản, đặc biệt nên dùng ở thời điểm trước xử lý ra hoa, sau trồng, giai đoạn cây con.\n\n4. Cách dùng tóm tắt  \nPha 20-30g/bình 16 lít; phun 2-3 lần cách nhau 7 ngày.\n\n5. Lưu ý an toàn  \nKhông lạm dụng khi cây đang suy kiệt; tránh phun lúc nắng mạnh.",
+      "passed": true
+    },
+    {
+      "question_id": "qa011",
+      "type": "goi_y_san_pham",
+      "question": "Cây ăn trái có biểu hiện Hoa ít, trái non rụng, trái lớn chậm. Nên dùng sản phẩm nào và vì sao?",
+      "expected_product_ids": [
+        "sp11"
+      ],
+      "expected_product_name": "PHÂN BÓN LÁ 6-30-30",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nCây ăn trái có biểu hiện hoa ít, trái non rụng, trái lớn chậm là do thiếu lân và kali ở giai đoạn sinh sản.\n\n2. Sản phẩm gợi ý  \nPHÂN BÓN LÁ 6-30-30 (product_id: sp11)\n\n3. Lý do phù hợp  \nSản phẩm này có thành phần n: 6%; p2o5: 30%; k2o: 30%, phù hợp với nhu cầu bổ sung lân và kali ở giai đoạn sinh sản. Công dụng chính là hỗ trợ ra hoa, tăng đậu trái, nuôi trái chắc và lên màu, giải quyết triệt để triệu chứng hoa ít, trái non rụng, trái lớn chậm.\n\n4. Cách dùng tóm tắt  \nPha 40g/bình 16 lít, phun 7-10 ngày/lần.\n\n5. Lưu ý an toàn  \nKhông pha với dầu khoáng liều cao; bảo quản kín sau khi mở gói.",
+      "passed": true
+    },
+    {
+      "question_id": "qa012",
+      "type": "cach_dung",
+      "question": "NPK 30-10-10 dùng như thế nào?",
+      "expected_product_ids": [
+        "sp12"
+      ],
+      "expected_product_name": "NPK 30-10-10",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nCây thiếu đạm hoặc mất sức sau nuôi trái, biểu hiện như lá nhỏ, chồi ra yếu, cây suy sau thu hoạch.\n\n2. Sản phẩm gợi ý  \nNPK 30-10-10\n\n3. Lý do phù hợp  \nNPK 30-10-10 phù hợp vì sản phẩm tập trung xử lý nguyên nhân: cây thiếu đạm hoặc mất sức sau nuôi trái. Nhờ đó, cây được hỗ trợ kích chồi, dưỡng lá, phục hồi tán sau thu hoạch, đặc biệt nên dùng ở thời điểm sau thu hoạch, sau cắt tỉa, giai đoạn cây cần ra đọt.\n\n4. Cách dùng tóm tắt  \nPha 20-30g/bình 16 lít; phun 2-3 lần cách 7 ngày; liều lượng 30g; lượng nước 16 lít.\n\n5. Lưu ý an toàn  \nKhông dùng quá nhiều khi cây chuẩn bị ra hoa vì dễ làm cây ra lá.",
+      "passed": true
+    },
+    {
+      "question_id": "qa013",
+      "type": "gia",
+      "question": "Giá tham khảo của UREA PHÚ MỸ là bao nhiêu?",
+      "expected_product_ids": [
+        "sp13"
+      ],
+      "expected_product_name": "UREA PHÚ MỸ",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nGiá tham khảo của UREA PHÚ MỸ được nêu rõ trong context.\n\n2. Sản phẩm gợi ý  \nUREA PHÚ MỸ\n\n3. Lý do phù hợp  \nThông tin giá tham khảo được cung cấp trong phần mô tả sản phẩm UREA PHÚ MỸ (product_id: sp13).\n\n4. Cách dùng tóm tắt  \nBón 50-200kg/ha tùy cây, chia nhiều lần để giảm thất thoát; liều lượng khuyến nghị là 200kg/ha.\n\n5. Lưu ý an toàn  \nKhông bón lúc trời nắng gắt; vùi nhẹ hoặc tưới nước sau bón.",
+      "passed": true
+    },
+    {
+      "question_id": "qa014",
+      "type": "thanh_phan",
+      "question": "Thành phần chính của PHÂN HỮU CƠ VI SINH là gì?",
+      "expected_product_ids": [
+        "sp14"
+      ],
+      "expected_product_name": "PHÂN HỮU CƠ VI SINH",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nThành phần chính của PHÂN HỮU CƠ VI SINH được nêu rõ trong thông tin sản phẩm.\n\n2. Sản phẩm gợi ý  \nPHÂN HỮU CƠ VI SINH (product_id: sp14)\n\n3. Lý do phù hợp  \nThành phần chính bao gồm:  \n- Hữu cơ: 22%  \n- Acid humic  \n- Vi sinh Bacillus spp.  \n- Vi sinh Trichoderma spp.\n\n4. Cách dùng tóm tắt  \nBón 500–2000kg/ha; cây ăn trái 2–10kg/gốc tùy tuổi.\n\n5. Lưu ý an toàn  \nKhông trộn trực tiếp với thuốc trừ nấm mạnh khi vừa bón.",
+      "passed": true
+    },
+    {
+      "question_id": "qa015",
+      "type": "an_toan",
+      "question": "Khi dùng TRICHODERMA NANO cần lưu ý an toàn gì?",
+      "expected_product_ids": [
+        "sp15"
+      ],
+      "expected_product_name": "TRICHODERMA NANO",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nKhông đủ dữ liệu để xác định rõ chẩn đoán khả năng liên quan đến việc sử dụng TRICHODERMA NANO.\n\n2. Sản phẩm gợi ý  \nTRICHODERMA NANO\n\n3. Lý do phù hợp  \nTRICHODERMA NANO phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Nấm Fusarium, Pythium, Rhizoctonia phát triển trong đất ẩm. Nhờ đó, cây được hỗ trợ phân giải hữu cơ, đối kháng nấm bệnh trong đất, giúp rễ khỏe, đặc biệt nên dùng ở thời điểm trộn phân chuồng ủ hoai, bón lót, xử lý đất trước trồng.\n\n4. Cách dùng tóm tắt  \nTrộn 1kg với 500-1000kg phân hữu cơ hoặc tưới 1kg/400 lít nước.\n\n5. Lưu ý an toàn  \nKhông dùng chung lúc với thuốc nấm hóa học mạnh; giữ ẩm sau bón.",
+      "passed": true
+    },
+    {
+      "question_id": "qa016",
+      "type": "goi_y_san_pham",
+      "question": "Cây con có biểu hiện Cây héo nhẹ, chậm bén rễ, rễ ít lông hút. Nên dùng sản phẩm nào và vì sao?",
+      "expected_product_ids": [
+        "sp48"
+      ],
+      "expected_product_name": "ROOTMAX KÍCH RỄ",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nCây con có biểu hiện héo nhẹ, chậm bén rễ, rễ ít lông hút – đây là triệu chứng điển hình của rễ bị tổn thương do bứng trồng, úng nước hoặc đất bí, thiếu lân.\n\n2. Sản phẩm gợi ý  \nROOTMAX KÍCH RỄ\n\n3. Lý do phù hợp  \nSản phẩm này có thành phần gồm n: 5%; p2o5: 30%; humic: 5%; amino acid; vitamin B1; Zn, phù hợp với triệu chứng cây héo nhẹ, chậm bén rễ, rễ ít lông hút. Công dụng chính là kích thích ra rễ trắng, phục hồi cây sau trồng hoặc sau úng, và bổ sung dinh dưỡng thiếu hụt, đặc biệt là lân và vi lượng.\n\n4. Cách dùng tóm tắt  \nPha 30–50ml/bình 16 lít tưới gốc, thực hiện 7 ngày/lần, liều lượng 50ml mỗi lần.\n\n5. Lưu ý an toàn  \nKhông tưới lúc đất quá khô nóng; cần kết hợp cải tạo thoát nước.",
+      "passed": true
+    },
+    {
+      "question_id": "qa017",
+      "type": "cach_dung",
+      "question": "SIÊU KALI BO dùng như thế nào?",
+      "expected_product_ids": [
+        "sp49"
+      ],
+      "expected_product_name": "SIÊU KALI BO",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nThiếu Kali và Bo trong giai đoạn trái lớn nhanh dẫn đến triệu chứng: trái nhạt, vỏ mỏng, dễ nứt, rụng sinh lý.\n\n2. Sản phẩm gợi ý  \nSIÊU KALI BO\n\n3. Lý do phù hợp  \nSIÊU KALI BO phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu Kali và Bo trong giai đoạn trái lớn nhanh. Nhờ đó, cây được hỗ trợ tăng vận chuyển đường, chắc trái, hạn chế rụng và nứt trái, đặc biệt nên dùng ở thời điểm sau đậu trái, giai đoạn trái phát triển, trước thu hoạch 20-30 ngày.\n\n4. Cách dùng tóm tắt  \nPha 25-40g/bình 16 lít; phun 2-3 lần cách 7-10 ngày; liều lượng 40g cho 16 lít nước.\n\n5. Lưu ý an toàn  \nKhông phun quá gần thu hoạch nếu có phối thuốc BVTV; tránh pha với Canxi đậm đặc.",
+      "passed": true
+    },
+    {
+      "question_id": "qa018",
+      "type": "gia",
+      "question": "Giá tham khảo của PHÂN BÓN LÁ VI LƯỢNG CHELATE là bao nhiêu?",
+      "expected_product_ids": [
+        "sp50"
+      ],
+      "expected_product_name": "PHÂN BÓN LÁ VI LƯỢNG CHELATE",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nCó dữ liệu về giá tham khảo của sản phẩm \"PHÂN BÓN LÁ VI LƯỢNG CHELATE\".\n\n2. Sản phẩm gợi ý  \nPHÂN BÓN LÁ VI LƯỢNG CHELATE\n\n3. Lý do phù hợp  \nSản phẩm này được liệt kê rõ trong context với thông tin về thành phần, công dụng, triệu chứng, thời điểm sử dụng và giá tham khảo.\n\n4. Cách dùng tóm tắt  \nPha 10-20g/bình 16 lít; phun sáng sớm hoặc chiều mát; dùng 20g trên 16 lít nước.\n\n5. Lưu ý an toàn  \nKhông pha chung với vôi, thuốc kiềm mạnh; đậy kín sau khi dùng.",
+      "passed": true
+    },
+    {
+      "question_id": "qa019",
+      "type": "thanh_phan",
+      "question": "Thành phần chính của NPK 15-15-15 TE là gì?",
+      "expected_product_ids": [
+        "sp51"
+      ],
+      "expected_product_name": "NPK 15-15-15 TE",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nSản phẩm NPK 15-15-15 TE có thành phần chính là N: 15%, P2O5: 15%, K2O: 15%, kèm theo vi lượng TE (Zn, B, Mn).\n\n2. Sản phẩm gợi ý  \nNPK 15-15-15 TE\n\n3. Lý do phù hợp  \nThành phần chính của sản phẩm là NPK 15-15-15, cung cấp dinh dưỡng đa lượng cân đối giúp cây phát triển đồng đều thân, lá, rễ và trái, phù hợp với các cây trồng như lúa, rau màu, cây ăn trái, cà phê, hồ tiêu.\n\n4. Cách dùng tóm tắt  \nBón 200–500kg/ha tùy cây; cây ăn trái dùng 0,5–2kg/gốc, vùi nhẹ và tưới nước.\n\n5. Lưu ý an toàn  \nKhông bón sát gốc non; tránh bón khi đất quá khô hoặc trời nắng gắt.",
+      "passed": true
+    },
+    {
+      "question_id": "qa020",
+      "type": "an_toan",
+      "question": "Khi dùng NPK 12-12-17+2MgO cần lưu ý an toàn gì?",
+      "expected_product_ids": [
+        "sp52"
+      ],
+      "expected_product_name": "NPK 12-12-17+2MgO",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nKhông đủ dữ liệu để xác định chẩn đoán khả năng cụ thể liên quan đến việc sử dụng NPK 12-12-17+2MgO.\n\n2. Sản phẩm gợi ý  \nNPK 12-12-17 + 2MgO.\n\n3. Lý do phù hợp  \nPhù hợp vì sản phẩm tập trung xử lý nguyên nhân: Đất thiếu đa trung lượng hoặc cây bước vào giai đoạn sinh sản cần Kali và Magie. Nhờ đó, cây được hỗ trợ dưỡng cây cân đối, tăng cứng cây, hỗ trợ ra hoa và nuôi trái, đặc biệt nên dùng ở thời điểm sau thu hoạch, trước ra hoa và giai đoạn trái non.\n\n4. Cách dùng tóm tắt  \nBón 0,5–2,5kg/gốc cây ăn trái; cây công nghiệp 300–600kg/ha tùy đất.\n\n5. Lưu ý an toàn  \nBảo quản nơi khô ráo; không bón khi đất quá khô nóng.",
+      "passed": true
+    },
+    {
+      "question_id": "qa021",
+      "type": "goi_y_san_pham",
+      "question": "Rau màu có biểu hiện Sinh trưởng chậm, bộ rễ kém, lá xanh không đều. Nên dùng sản phẩm nào và vì sao?",
+      "expected_product_ids": [
+        "sp53"
+      ],
+      "expected_product_name": "NPK 13-13-13+TE",
+      "retrieval_product_hit": false,
+      "answer_keyword_hit": false,
+      "answer_product_name_hit": false,
+      "answer": "1. Chẩn đoán khả năng  \nBiểu hiện \"Sinh trưởng chậm, bộ rễ kém, lá xanh không đều\" phù hợp với triệu chứng \"lá nhạt màu, cây chậm lớn, ra chồi không đều\" và \"lá xanh nhạt, cây phát triển không đều\" – đều là dấu hiệu thiếu dinh dưỡng tổng hợp (NPK) hoặc rễ hấp thu kém.\n\n2. Sản phẩm gợi ý  \nPHÂN BÓN LÁ 20-20-20 (product_id: sp118)\n\n3. Lý do phù hợp  \nSản phẩm này có thành phần NPK cân đối (20% N, 20% P2O5, 20% K2O), giúp bổ sung dinh dưỡng thiếu hụt tổng hợp cho cây, hỗ trợ cây xanh khỏe và phát triển đồng đều. Đặc biệt, phù hợp với rau màu trong giai đoạn sinh trưởng thân lá và sau thu hoạch, khi cây có dấu hiệu chậm lớn, lá nhạt.\n\n4. Cách dùng tóm tắt  \nPha 20–40g/bình 16 lít, phun 7–10 ngày/lần.\n\n5. Lưu ý an toàn  \nKhông phun nồng độ cao trên lá non; tránh pha với thuốc kiềm mạnh.",
+      "passed": false
+    },
+    {
+      "question_id": "qa022",
+      "type": "cach_dung",
+      "question": "NPK 20-10-10+TE dùng như thế nào?",
+      "expected_product_ids": [
+        "sp54"
+      ],
+      "expected_product_name": "NPK 20-10-10+TE",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nCây ra đọt yếu, lá nhỏ, tán thưa, vàng lá nhẹ – do thiếu đạm và dinh dưỡng sau giai đoạn nuôi trái hoặc cắt tỉa.\n\n2. Sản phẩm gợi ý  \nNPK 20-10-10+TE\n\n3. Lý do phù hợp  \nSản phẩm này giúp kích thích ra đọt, phát triển thân lá và phục hồi cây sau thu hoạch, phù hợp với các triệu chứng thiếu đạm và dinh dưỡng sau giai đoạn nuôi trái hoặc cắt tỉa.\n\n4. Cách dùng tóm tắt  \nBón 0,3–1,5kg/gốc tùy tuổi cây hoặc 200–400kg/ha.\n\n5. Lưu ý an toàn  \nKhông dùng nhiều sát giai đoạn xử lý ra hoa vì dễ làm cây đi đọt.",
+      "passed": true
+    },
+    {
+      "question_id": "qa023",
+      "type": "gia",
+      "question": "Giá tham khảo của NPK 7-5-44 là bao nhiêu?",
+      "expected_product_ids": [
+        "sp55"
+      ],
+      "expected_product_name": "NPK 7-5-44",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nThông tin về giá tham khảo của sản phẩm NPK 7-5-44 có trong context.\n\n2. Sản phẩm gợi ý  \nNPK 7-5-44\n\n3. Lý do phù hợp  \nSản phẩm NPK 7-5-44 được liệt kê trong context với thông tin giá tham khảo rõ ràng.\n\n4. Cách dùng tóm tắt  \nPha 20-30g/bình 16 lít, phun 2-3 lần cách nhau 7-10 ngày; liều lượng 30g, lượng nước 16 lít.\n\n5. Lưu ý an toàn  \nKhông pha chung với Canxi đậm đặc; không phun quá gần ngày thu hoạch nếu phối thuốc BVTV.",
+      "passed": true
+    },
+    {
+      "question_id": "qa024",
+      "type": "thanh_phan",
+      "question": "Thành phần chính của MKP 0-52-34 là gì?",
+      "expected_product_ids": [
+        "sp56"
+      ],
+      "expected_product_name": "MKP 0-52-34",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nThành phần chính của MKP 0-52-34 là mono potassium phosphate (MKP) với nồng độ P2O5 52% và K2O 34%, dạng tan hoàn toàn.\n\n2. Sản phẩm gợi ý  \nMKP 0-52-34 (các sản phẩm có product_id: sp107, sp56, sp420)\n\n3. Lý do phù hợp  \nThành phần chính là mono potassium phosphate (MKP) tan hoàn toàn, cung cấp lân và kali tinh khiết, hỗ trợ ra hoa, tăng đậu trái, chắc trái và bổ sung dinh dưỡng thiếu hụt cho cây, đặc biệt trong giai đoạn trước ra hoa, sau đậu trái và nuôi trái.\n\n4. Cách dùng tóm tắt  \nPha 20–40g/bình 16 lít nước, tưới gốc hoặc phun lá (tùy loại cây), liều lượng 30–40g cho 16 lít nước, tùy theo cây trồng và điều kiện.\n\n5. Lưu ý an toàn  \nKhông trộn chung với dung dịch canxi hoặc magie đậm đặc vì dễ kết tủa; bảo quản kín tránh hút ẩm.",
+      "passed": true
+    },
+    {
+      "question_id": "qa025",
+      "type": "an_toan",
+      "question": "Khi dùng CANXI NITRAT 15.5-0-0+26CaO cần lưu ý an toàn gì?",
+      "expected_product_ids": [
+        "sp57"
+      ],
+      "expected_product_name": "CANXI NITRAT 15.5-0-0+26CaO",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nKhông đủ dữ liệu để chẩn đoán khả năng sử dụng sản phẩm.\n\n2. Sản phẩm gợi ý  \nCANXI NITRAT 15.5-0-0+26CaO (product_id: sp57 và sp108)\n\n3. Lý do phù hợp  \nPhù hợp vì sản phẩm tập trung xử lý nguyên nhân thiếu Canxi do đất khô, mặn, cạnh tranh dinh dưỡng hoặc rễ yếu; giúp cung cấp canxi dễ hấp thu, hạn chế thối đít trái, nứt trái, cháy mép lá, đặc biệt ở các giai đoạn cây con, ra hoa, sau đậu trái, trái lớn nhanh.\n\n4. Cách dùng tóm tắt  \n- Bón gốc: 50–150kg/ha hoặc pha tưới 1–2kg/200 lít nước tùy cây  \n- Tưới nhỏ giọt: 3–8kg/1000m²  \n- Phun lá: 10–15g/bình 16 lít khi cần  \n\n5. Lưu ý an toàn  \nKhông trộn chung với phân lân, sulfate đậm đặc; bảo quản tránh ẩm",
+      "passed": true
+    },
+    {
+      "question_id": "qa026",
+      "type": "goi_y_san_pham",
+      "question": "Cà phê có biểu hiện Lá già vàng giữa gân, gân còn xanh, cây kém xanh. Nên dùng sản phẩm nào và vì sao?",
+      "expected_product_ids": [
+        "sp58"
+      ],
+      "expected_product_name": "MAGIE SULPHATE MgSO4",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nBiểu hiện lá già vàng giữa gân, gân còn xanh, cây kém xanh là triệu chứng điển hình của thiếu Magie, đặc biệt trên đất chua, đất cát hoặc đất đã bón Kali, Canxi quá nhiều.\n\n2. Sản phẩm gợi ý  \nMAGIE SULPHATE MgSO4 (product_id: sp109 và sp58)\n\n3. Lý do phù hợp  \n- MAGIE SULPHATE MgSO4 cung cấp Magie và Lưu huỳnh, giúp bổ sung dinh dưỡng thiếu hụt cho cây.  \n- Triệu chứng lá già vàng giữa gân, gân còn xanh phù hợp với tình trạng thiếu Magie.  \n- Sản phẩm này được chỉ định cho cây cà phê, phù hợp với điều kiện đất chua, đất bạc màu hoặc đất canh tác lâu năm dễ thiếu Magie và Lưu huỳnh.\n\n4. Cách dùng tóm tắt  \n- Bón gốc: 50–150 kg/ha (theo sản phẩm sp109) hoặc 100–300 kg/ha (theo sản phẩm sp58).  \n- Phun: 20–30g/bình 16 lít nước.\n\n5. Lưu ý an toàn  \n- Không phun nồng độ cao trên lá non (theo sp109).  \n- Tưới đủ ẩm sau khi bón.  \n- Tránh pha chung với Canxi nitrat đậm đặc hoặc thuốc kiềm mạnh (theo sp58 và sp9).  \n- Không bón quá liều gây mất cân đối dinh dưỡng.",
+      "passed": true
+    },
+    {
+      "question_id": "qa027",
+      "type": "cach_dung",
+      "question": "SILIC KALI dùng như thế nào?",
+      "expected_product_ids": [
+        "sp59"
+      ],
+      "expected_product_name": "SILIC KALI",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nSILIC KALI được dùng để xử lý các triệu chứng như lúa dễ đổ ngã, lá mỏng, trái dễ trầy xước, cây yếu do thiếu Silic và Kali, mô cây mềm do dư đạm hoặc thời tiết bất lợi.\n\n2. Sản phẩm gợi ý  \nSILIC KALI (product_id: sp59)\n\n3. Lý do phù hợp  \nSILIC KALI phù hợp vì sản phẩm tập trung xử lý nguyên nhân: thiếu Silic và Kali, mô cây mềm do dư đạm hoặc thời tiết bất lợi. Nhờ đó, cây được hỗ trợ tăng cứng cây, dày lá, cứng vỏ trái, hạn chế đổ ngã và sâu bệnh xâm nhập.\n\n4. Cách dùng tóm tắt  \nPha 25–40ml/bình 16 lít; phun 2–3 lần cách 7–10 ngày. Liều lượng sử dụng là 40ml, lượng nước là 16 lít. Thời điểm xử lý phù hợp là giai đoạn lúa đẻ nhánh–làm đòng hoặc cây ăn trái nuôi trái.\n\n5. Lưu ý an toàn  \nKhông pha với thuốc/phân có pH quá thấp; cần thử trước khi phối trộn.",
+      "passed": true
+    },
+    {
+      "question_id": "qa028",
+      "type": "gia",
+      "question": "Giá tham khảo của AMINO ACID 80% là bao nhiêu?",
+      "expected_product_ids": [
+        "sp60"
+      ],
+      "expected_product_name": "AMINO ACID 80%",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nCó dữ liệu về giá tham khảo của sản phẩm AMINO ACID 80%.\n\n2. Sản phẩm gợi ý  \nAMINO ACID 80%\n\n3. Lý do phù hợp  \nSản phẩm này được liệt kê trong context với thông tin rõ ràng về giá tham khảo.\n\n4. Cách dùng tóm tắt  \nPha 10-20g/bình 16 lít phun lá hoặc 500g/400 lít tưới gốc.\n\n5. Lưu ý an toàn  \nKhông thay thế phân đa lượng; bảo quản kín để tránh hút ẩm.",
+      "passed": true
+    },
+    {
+      "question_id": "qa029",
+      "type": "thanh_phan",
+      "question": "Thành phần chính của PHÂN CÁ THỦY PHÂN là gì?",
+      "expected_product_ids": [
+        "sp61"
+      ],
+      "expected_product_name": "PHÂN CÁ THỦY PHÂN",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nThông tin trong CONTEXT không cung cấp cụ thể thành phần chính (hoạt chất chủ đạo) của PHÂN CÁ THỦY PHÂN, chỉ nêu các thành phần như: dam_huu_co: 5%; amino_acid; acid_huu_co; khoang_vi_luong_tu_ca. Do đó, không thể xác định thành phần chính một cách rõ ràng.\n\n2. Sản phẩm gợi ý  \nPHÂN CÁ THỦY PHÂN (product_id: sp61)\n\n3. Lý do phù hợp  \nPHÂN CÁ THỦY PHÂN phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Đất thiếu hữu cơ, hệ vi sinh yếu, rễ hoạt động kém. Nhờ đó, cây được hỗ trợ tăng hữu cơ, kích rễ, cải tạo đất và giúp cây xanh bền, đặc biệt nên dùng ở thời điểm tưới định kỳ trong mùa sinh trưởng, sau thu hoạch, sau trồng.\n\n4. Cách dùng tóm tắt  \nPha 100-200ml/20 lít nước tưới gốc; 7-15 ngày/lần; dùng 200ml/20 lít nước.\n\n5. Lưu ý an toàn  \nCó mùi hữu cơ đặc trưng; đậy kín, tránh nắng trực tiếp.",
+      "passed": true
+    },
+    {
+      "question_id": "qa030",
+      "type": "an_toan",
+      "question": "Khi dùng PHÂN DƠI HỮU CƠ cần lưu ý an toàn gì?",
+      "expected_product_ids": [
+        "sp62"
+      ],
+      "expected_product_name": "PHÂN DƠI HỮU CƠ",
+      "retrieval_product_hit": true,
+      "answer_keyword_hit": true,
+      "answer_product_name_hit": true,
+      "answer": "1. Chẩn đoán khả năng  \nKhông có thông tin rõ ràng về chẩn đoán khả năng khi sử dụng PHÂN DƠI HỮU CƠ.\n\n2. Sản phẩm gợi ý  \nPHÂN DƠI HỮU CƠ\n\n3. Lý do phù hợp  \nSản phẩm này phù hợp với đất nghèo hữu cơ, rễ yếu, cây chậm ra hoa, do thiếu lân hữu cơ và vi sinh vật có lợi.\n\n4. Cách dùng tóm tắt  \nBón 0,5–2kg/gốc hoặc 20–50g/chậu tùy kích thước.\n\n5. Lưu ý an toàn  \nCần ủ hoai kỹ nếu dùng dạng thô; bảo quản khô tránh nấm mốc.",
+      "passed": true
+    }
+  ]
+}

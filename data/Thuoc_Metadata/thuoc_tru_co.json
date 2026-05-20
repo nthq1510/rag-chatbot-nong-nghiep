@@ -1,0 +1,3159 @@
+[
+  {
+    "product_id": "sp36",
+    "ten_san_pham": "GLYPHOSATE 480SL",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "glyphosate_ipa_salt": "480g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ không chọn lọc",
+      "diệt cỏ lâu năm qua lá"
+    ],
+    "trieu_chung": [
+      "Cỏ tranh, cỏ ống, cỏ lá rộng mọc dày trong vườn"
+    ],
+    "nguyen_nhan": [
+      "Cỏ cạnh tranh dinh dưỡng",
+      "ánh sáng",
+      "nước với cây trồng"
+    ],
+    "doi_tuong_cay_trong": [
+      "Vườn cây ăn trái",
+      "cao su",
+      "cà phê",
+      "đất trước gieo trồng"
+    ],
+    "thoi_diem_xu_ly": [
+      "Phun khi cỏ đang sinh trưởng mạnh",
+      "cao 15-30cm"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 80-120ml/bình 16 lít; phun ướt đều lá cỏ",
+      "lieu_luong": "120ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Tránh để thuốc dính lá, thân xanh cây trồng",
+      "không phun lúc gió mạnh"
+    ],
+    "gia": {
+      "tu": 95000,
+      "den": 140000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp36",
+    "rule_key": "thuoc_tru_co | Cỏ tranh, cỏ ống, cỏ lá rộng mọc dày trong vườn",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "GLYPHOSATE 480SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh dinh dưỡng, ánh sáng, nước với cây trồng. Nhờ đó, cây được hỗ trợ trừ cỏ không chọn lọc, diệt cỏ lâu năm qua lá, đặc biệt nên dùng ở thời điểm phun khi cỏ đang sinh trưởng mạnh, cao 15-30cm."
+  },
+  {
+    "product_id": "sp37",
+    "ten_san_pham": "PARAQUAT 276SL",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "paraquat_dichloride": "276g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ tiếp xúc",
+      "làm cháy nhanh phần xanh của cỏ"
+    ],
+    "trieu_chung": [
+      "Cỏ non, cỏ lá rộng, cỏ hòa bản mọc trên mặt đất"
+    ],
+    "nguyen_nhan": [
+      "Cỏ cạnh tranh dinh dưỡng và là nơi trú sâu bệnh"
+    ],
+    "doi_tuong_cay_trong": [
+      "Vườn cây lâu năm",
+      "bờ ruộng",
+      "đất không canh tác"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ còn non",
+      "phun tránh cây trồng"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; chỉ dùng khi sản phẩm được phép lưu hành tại địa phương"
+    },
+    "an_toan_su_dung": [
+      "Rất độc, bắt buộc đồ bảo hộ đầy đủ",
+      "không dùng sai quy định pháp luật"
+    ],
+    "gia": {
+      "tu": 100000,
+      "den": 160000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp37",
+    "rule_key": "thuoc_tru_co | Cỏ non, cỏ lá rộng, cỏ hòa bản mọc trên mặt đất",
+    "dac_tinh_benh": [
+      "Tác động tiếp xúc",
+      "Phù hợp xử lý nhóm côn trùng gây hại",
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Khi cỏ còn non",
+      "phun tránh cây trồng"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "PARAQUAT 276SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh dinh dưỡng và là nơi trú sâu bệnh. Nhờ đó, cây được hỗ trợ trừ cỏ tiếp xúc, làm cháy nhanh phần xanh của cỏ, đặc biệt nên dùng ở thời điểm khi cỏ còn non, phun tránh cây trồng."
+  },
+  {
+    "product_id": "sp38",
+    "ten_san_pham": "BUTACHLOR 600EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "butachlor": "600g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ tiền nảy mầm và hậu nảy mầm sớm trên ruộng lúa"
+    ],
+    "trieu_chung": [
+      "Cỏ lồng vực, cỏ chác, cỏ lá rộng mọc sau sạ"
+    ],
+    "nguyen_nhan": [
+      "Hạt cỏ nảy mầm cùng lúa",
+      "cạnh tranh dinh dưỡng"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ",
+      "lúa cấy"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 1-4 ngày",
+      "ruộng đủ ẩm hoặc có nước mỏng"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 40-60ml/bình 16 lít hoặc dùng 1-1,5 lít/ha tùy nhãn",
+      "lieu_luong": "60ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không dùng khi lúa yếu, ruộng khô nứt",
+      "giữ nước đúng kỹ thuật"
+    ],
+    "gia": {
+      "tu": 120000,
+      "den": 180000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp38",
+    "rule_key": "thuoc_tru_co | Cỏ lồng vực, cỏ chác, cỏ lá rộng mọc sau sạ",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 1-4 ngày",
+      "ruộng đủ ẩm hoặc có nước mỏng"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "BUTACHLOR 600EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hạt cỏ nảy mầm cùng lúa, cạnh tranh dinh dưỡng. Nhờ đó, cây được hỗ trợ trừ cỏ tiền nảy mầm và hậu nảy mầm sớm trên ruộng lúa, đặc biệt nên dùng ở thời điểm sau sạ 1-4 ngày, ruộng đủ ẩm hoặc có nước mỏng."
+  },
+  {
+    "product_id": "sp39",
+    "ten_san_pham": "PRETILACHLOR 300EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "pretilachlor": "300g/lít",
+      "chat_an_toan_cay_trong": "chất an toàn cây trồng"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ tiền nảy mầm trên lúa",
+      "an toàn khi dùng đúng liều"
+    ],
+    "trieu_chung": [
+      "Cỏ lồng vực, cỏ đuôi phụng, cỏ lá rộng mới mọc"
+    ],
+    "nguyen_nhan": [
+      "Cỏ nảy mầm trong giai đoạn đầu sau sạ"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ ướt",
+      "lúa cấy"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 1-3 ngày",
+      "trước khi cỏ mọc mạnh"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Dùng 0,8-1,2 lít/ha; phun khi ruộng đủ ẩm",
+      "lieu_luong": "1,2 lít",
+      "luong_nuoc": "0,8-1,2 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun khi mưa lớn sắp xảy ra",
+      "không để nước ngập sâu sau phun"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 190000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp39",
+    "rule_key": "thuoc_tru_co | Cỏ lồng vực, cỏ đuôi phụng, cỏ lá rộng mới mọc",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp xử lý nhóm côn trùng gây hại",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "PRETILACHLOR 300EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ nảy mầm trong giai đoạn đầu sau sạ. Nhờ đó, cây được hỗ trợ trừ cỏ tiền nảy mầm trên lúa, an toàn khi dùng đúng liều, đặc biệt nên dùng ở thời điểm sau sạ 1-3 ngày, trước khi cỏ mọc mạnh."
+  },
+  {
+    "product_id": "sp40",
+    "ten_san_pham": "2,4-D 720SL",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "24_d_dimethylamine_salt": "720g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Trừ cỏ lá rộng",
+      "cỏ chác lác trong ruộng lúa"
+    ],
+    "trieu_chung": [
+      "Cỏ lá rộng mọc chen lúa, cạnh tranh ánh sáng và dinh dưỡng"
+    ],
+    "nguyen_nhan": [
+      "Cỏ dại phát triển sau sạ",
+      "đặc biệt nơi ruộng thưa"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa",
+      "bãi cỏ theo hướng dẫn nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 15-25 ngày",
+      "khi lúa đã cứng cây"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun tránh gió tạt sang cây mẫn cảm",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun gần rau màu, bông, cây ăn trái non",
+      "dễ gây dị dạng cây mẫn cảm"
+    ],
+    "gia": {
+      "tu": 45000,
+      "den": 70000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp40",
+    "rule_key": "thuoc_tru_co | Cỏ lá rộng mọc chen lúa, cạnh tranh ánh sáng và dinh dưỡng",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 15-25 ngày",
+      "khi lúa đã cứng cây"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "2,4-D 720SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại phát triển sau sạ, đặc biệt nơi ruộng thưa. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng, cỏ chác lác trong ruộng lúa, đặc biệt nên dùng ở thời điểm sau sạ 15-25 ngày, khi lúa đã cứng cây."
+  },
+  {
+    "product_id": "sp41",
+    "ten_san_pham": "BISPYRIBAC-SODIUM 10SC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "bispyribac_sodium": "100g/lít"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Trừ cỏ hậu nảy mầm trên ruộng lúa",
+      "cỏ hòa bản và lá rộng"
+    ],
+    "trieu_chung": [
+      "Cỏ lồng vực, cỏ đuôi phụng, cỏ chác mọc lẫn lúa"
+    ],
+    "nguyen_nhan": [
+      "Cỏ đã mọc sau sạ",
+      "cạnh tranh mạnh với lúa non"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 8-18 ngày",
+      "khi cỏ 2-4 lá"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; rút cạn nước trước phun, cho nước lại sau 1-2 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun khi lúa bị ngộ độc phèn, mặn hoặc rét"
+    ],
+    "gia": {
+      "tu": 70000,
+      "den": 110000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp41",
+    "rule_key": "thuoc_tru_co | Cỏ lồng vực, cỏ đuôi phụng, cỏ chác mọc lẫn lúa",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 8-18 ngày",
+      "khi cỏ 2-4 lá"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "BISPYRIBAC-SODIUM 10SC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ đã mọc sau sạ, cạnh tranh mạnh với lúa non. Nhờ đó, cây được hỗ trợ trừ cỏ hậu nảy mầm trên ruộng lúa, cỏ hòa bản và lá rộng, đặc biệt nên dùng ở thời điểm sau sạ 8-18 ngày, khi cỏ 2-4 lá."
+  },
+  {
+    "product_id": "sp91",
+    "ten_san_pham": "GLUFOSINATE-AMMONIUM 200SL",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "glufosinate_ammonium": "200g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ không chọn lọc",
+      "tác động tiếp xúc-lưu dẫn hạn chế"
+    ],
+    "trieu_chung": [
+      "Cỏ lá rộng, cỏ hòa bản, cỏ non mọc dày trong vườn"
+    ],
+    "nguyen_nhan": [
+      "Cỏ cạnh tranh nước",
+      "phân bón và là nơi trú sâu bệnh"
+    ],
+    "doi_tuong_cay_trong": [
+      "Vườn cây ăn trái",
+      "cao su",
+      "cà phê",
+      "đất trước trồng"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ xanh tốt",
+      "cao 10-25cm",
+      "tránh để thuốc dính cây trồng"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 80-120ml/bình 16 lít; phun ướt đều lá cỏ",
+      "lieu_luong": "120ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Che chắn cây trồng non",
+      "không phun lúc gió mạnh hoặc sắp mưa"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 190000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp91",
+    "rule_key": "thuoc_tru_co | Cỏ lá rộng, cỏ hòa bản, cỏ non mọc dày trong vườn",
+    "dac_tinh_benh": [
+      "Tác động nội hấp, lưu dẫn trong cây",
+      "Tác động tiếp xúc",
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp xử lý nhóm côn trùng gây hại",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "GLUFOSINATE-AMMONIUM 200SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh nước, phân bón và là nơi trú sâu bệnh. Nhờ đó, cây được hỗ trợ trừ cỏ không chọn lọc, tác động tiếp xúc-lưu dẫn hạn chế, đặc biệt nên dùng ở thời điểm khi cỏ xanh tốt, cao 10-25cm, tránh để thuốc dính cây trồng."
+  },
+  {
+    "product_id": "sp92",
+    "ten_san_pham": "QUIZALOFOP-P-ETHYL 10EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "quizalofop_p_ethyl": "100g/lít"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Trừ cỏ hòa bản hậu nảy mầm trong cây lá rộng"
+    ],
+    "trieu_chung": [
+      "Cỏ lồng vực, cỏ tranh non, cỏ chỉ mọc lẫn trong ruộng đậu/rau"
+    ],
+    "nguyen_nhan": [
+      "Cỏ hòa bản cạnh tranh mạnh",
+      "khó nhổ hết bằng tay"
+    ],
+    "doi_tuong_cay_trong": [
+      "Đậu nành",
+      "đậu phộng",
+      "rau lá rộng",
+      "cây công nghiệp lá rộng"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ 3-5 lá",
+      "cây trồng đã bén rễ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun tránh để cỏ quá già",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không dùng trên lúa, bắp hoặc cây hòa bản",
+      "đọc kỹ nhãn trước dùng"
+    ],
+    "gia": {
+      "tu": 70000,
+      "den": 110000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp92",
+    "rule_key": "thuoc_tru_co | Cỏ lồng vực, cỏ tranh non, cỏ chỉ mọc lẫn trong ruộng đậu/rau",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "QUIZALOFOP-P-ETHYL 10EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ hòa bản cạnh tranh mạnh, khó nhổ hết bằng tay. Nhờ đó, cây được hỗ trợ trừ cỏ hòa bản hậu nảy mầm trong cây lá rộng, đặc biệt nên dùng ở thời điểm khi cỏ 3-5 lá, cây trồng đã bén rễ."
+  },
+  {
+    "product_id": "sp93",
+    "ten_san_pham": "FENOXAPROP-P-ETHYL 69EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "fenoxaprop_p_ethyl": "69g/lít",
+      "chat_an_toan_lua": "chất an toàn lúa"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Trừ cỏ hòa bản hậu nảy mầm trong ruộng lúa"
+    ],
+    "trieu_chung": [
+      "Cỏ lồng vực, cỏ đuôi phụng mọc cao hơn lúa"
+    ],
+    "nguyen_nhan": [
+      "Cỏ hòa bản phát triển sau sạ",
+      "cạnh tranh dinh dưỡng với lúa"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 10-20 ngày",
+      "khi cỏ 2-4 lá"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; rút nước trước phun, cho nước lại sau 1-2 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun khi lúa yếu do phèn, mặn, ngộ độc hữu cơ"
+    ],
+    "gia": {
+      "tu": 65000,
+      "den": 100000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp93",
+    "rule_key": "thuoc_tru_co | Cỏ lồng vực, cỏ đuôi phụng mọc cao hơn lúa",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 10-20 ngày",
+      "khi cỏ 2-4 lá"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "FENOXAPROP-P-ETHYL 69EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ hòa bản phát triển sau sạ, cạnh tranh dinh dưỡng với lúa. Nhờ đó, cây được hỗ trợ trừ cỏ hòa bản hậu nảy mầm trong ruộng lúa, đặc biệt nên dùng ở thời điểm sau sạ 10-20 ngày, khi cỏ 2-4 lá."
+  },
+  {
+    "product_id": "sp94",
+    "ten_san_pham": "PENOXSULAM 25OD",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "penoxsulam": "25g/lít"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Trừ cỏ lúa hậu nảy mầm",
+      "phổ rộng trên cỏ hòa bản",
+      "lá rộng",
+      "chác lác"
+    ],
+    "trieu_chung": [
+      "Ruộng có nhiều loại cỏ hỗn hợp, cỏ mọc sau sạ 7-15 ngày"
+    ],
+    "nguyen_nhan": [
+      "Quản lý nước không tốt hoặc đất có nguồn hạt cỏ cao"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 7-15 ngày",
+      "khi cỏ còn nhỏ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít hoặc theo liều/ha trên nhãn",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun khi ruộng khô nứt hoặc lúa đang stress",
+      "không tăng liều tùy tiện"
+    ],
+    "gia": {
+      "tu": 80000,
+      "den": 130000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp94",
+    "rule_key": "thuoc_tru_co | Ruộng có nhiều loại cỏ hỗn hợp, cỏ mọc sau sạ 7-15 ngày",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 7-15 ngày",
+      "khi cỏ còn nhỏ"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "PENOXSULAM 25OD phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Quản lý nước không tốt hoặc đất có nguồn hạt cỏ cao. Nhờ đó, cây được hỗ trợ trừ cỏ lúa hậu nảy mầm, phổ rộng trên cỏ hòa bản, lá rộng, chác lác, đặc biệt nên dùng ở thời điểm sau sạ 7-15 ngày, khi cỏ còn nhỏ."
+  },
+  {
+    "product_id": "sp95",
+    "ten_san_pham": "ATRAZINE 80WP",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "atrazine": "80% w/w"
+    },
+    "quy_cach": "Gói 500g",
+    "cong_dung": [
+      "Trừ cỏ tiền và hậu nảy mầm sớm trên bắp",
+      "mía"
+    ],
+    "trieu_chung": [
+      "Cỏ lá rộng và cỏ hòa bản non mọc dày sau gieo"
+    ],
+    "nguyen_nhan": [
+      "Hạt cỏ nảy mầm cùng cây trồng",
+      "cạnh tranh giai đoạn đầu"
+    ],
+    "doi_tuong_cay_trong": [
+      "Bắp",
+      "mía theo khuyến cáo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau gieo trước mọc hoặc khi cỏ còn nhỏ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo liều/ha trên nhãn; phun đất đủ ẩm để tăng hiệu quả"
+    },
+    "an_toan_su_dung": [
+      "Không dùng trên cây mẫn cảm",
+      "tránh thuốc trôi sang ruộng rau, đậu"
+    ],
+    "gia": {
+      "tu": 85000,
+      "den": 130000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp95",
+    "rule_key": "thuoc_tru_co | Cỏ lá rộng và cỏ hòa bản non mọc dày sau gieo",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "ATRAZINE 80WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hạt cỏ nảy mầm cùng cây trồng, cạnh tranh giai đoạn đầu. Nhờ đó, cây được hỗ trợ trừ cỏ tiền và hậu nảy mầm sớm trên bắp, mía, đặc biệt nên dùng ở thời điểm sau gieo trước mọc hoặc khi cỏ còn nhỏ."
+  },
+  {
+    "product_id": "sp161",
+    "ten_san_pham": "BENTAZONE 480SL",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "bentazone": "480g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ lá rộng và cỏ chác lác hậu nảy mầm trong lúa"
+    ],
+    "trieu_chung": [
+      "Cỏ lá rộng mọc chen, cỏ chác cạnh tranh dinh dưỡng với lúa"
+    ],
+    "nguyen_nhan": [
+      "Cỏ sau sạ phát triển do ruộng thưa hoặc quản lý nước chưa tốt"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ",
+      "lúa cấy theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 12-25 ngày",
+      "khi cỏ đang sinh trưởng mạnh"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo liều nhãn, thường 40-60ml/bình 16 lít; phun khi ruộng ráo nước",
+      "lieu_luong": "60ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun khi lúa đang yếu do phèn/mặn",
+      "tránh gió tạt sang rau màu"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 190000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp161",
+    "rule_key": "thuoc_tru_co | Cỏ lá rộng mọc chen, cỏ chác cạnh tranh dinh dưỡng với lúa",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "BENTAZONE 480SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ sau sạ phát triển do ruộng thưa hoặc quản lý nước chưa tốt. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng và cỏ chác lác hậu nảy mầm trong lúa, đặc biệt nên dùng ở thời điểm sau sạ 12-25 ngày, khi cỏ đang sinh trưởng mạnh."
+  },
+  {
+    "product_id": "sp162",
+    "ten_san_pham": "PENOXSULAM 25OD",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "penoxsulam": "25g/lít",
+      "dang_od": "dạng OD"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Trừ cỏ hậu nảy mầm trên lúa",
+      "gồm cỏ hòa bản",
+      "lá rộng và chác lác"
+    ],
+    "trieu_chung": [
+      "Cỏ lồng vực, đuôi phụng, chác lác mọc lẫn lúa non"
+    ],
+    "nguyen_nhan": [
+      "Cỏ phát triển sau sạ",
+      "cạnh tranh ánh sáng và dinh dưỡng"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 7-18 ngày",
+      "khi cỏ 2-4 lá"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; rút nước trước phun, cho nước lại sau 1-2 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun khi lúa bị ngộ độc hữu cơ hoặc thời tiết quá lạnh"
+    ],
+    "gia": {
+      "tu": 95000,
+      "den": 145000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp162",
+    "rule_key": "thuoc_tru_co | Cỏ lồng vực, đuôi phụng, chác lác mọc lẫn lúa non",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 7-18 ngày",
+      "khi cỏ 2-4 lá"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "PENOXSULAM 25OD phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ phát triển sau sạ, cạnh tranh ánh sáng và dinh dưỡng. Nhờ đó, cây được hỗ trợ trừ cỏ hậu nảy mầm trên lúa, gồm cỏ hòa bản, lá rộng và chác lác, đặc biệt nên dùng ở thời điểm sau sạ 7-18 ngày, khi cỏ 2-4 lá."
+  },
+  {
+    "product_id": "sp163",
+    "ten_san_pham": "CYHALOFOP-BUTYL 100EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "cyhalofop_butyl": "100g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Đặc trị cỏ hòa bản hậu nảy mầm trên ruộng lúa"
+    ],
+    "trieu_chung": [
+      "Cỏ lồng vực, cỏ đuôi phụng phát triển nhanh hơn lúa"
+    ],
+    "nguyen_nhan": [
+      "Hạt cỏ hòa bản nảy mầm cùng lúa",
+      "cạnh tranh mạnh giai đoạn đầu"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 10-25 ngày",
+      "khi cỏ 2-5 lá"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn, khoảng 30-50ml/bình 16 lít; phun khi cỏ đang xanh",
+      "lieu_luong": "50ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phối tùy tiện với thuốc trừ cỏ lá rộng nếu nhãn không khuyến cáo"
+    ],
+    "gia": {
+      "tu": 110000,
+      "den": 170000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp163",
+    "rule_key": "thuoc_tru_co | Cỏ lồng vực, cỏ đuôi phụng phát triển nhanh hơn lúa",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 10-25 ngày",
+      "khi cỏ 2-5 lá"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "CYHALOFOP-BUTYL 100EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hạt cỏ hòa bản nảy mầm cùng lúa, cạnh tranh mạnh giai đoạn đầu. Nhờ đó, cây được hỗ trợ đặc trị cỏ hòa bản hậu nảy mầm trên ruộng lúa, đặc biệt nên dùng ở thời điểm sau sạ 10-25 ngày, khi cỏ 2-5 lá."
+  },
+  {
+    "product_id": "sp164",
+    "ten_san_pham": "QUINCLORAC 25SC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "quinclorac": "250g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Trừ cỏ lồng vực và một số cỏ lá rộng trong ruộng lúa"
+    ],
+    "trieu_chung": [
+      "Cỏ lồng vực mọc cao, cạnh tranh mạnh, làm lúa thưa yếu"
+    ],
+    "nguyen_nhan": [
+      "Cỏ hòa bản phát triển nhanh trong ruộng sạ dày và quản lý nước kém"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ",
+      "lúa cấy theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 10-20 ngày",
+      "khi cỏ còn non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 30-50ml/bình 16 lít; phun đều trên cỏ, giữ nước theo hướng dẫn",
+      "lieu_luong": "50ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Tránh phun gần cây mẫn cảm",
+      "dùng đúng giai đoạn để an toàn cho lúa"
+    ],
+    "gia": {
+      "tu": 95000,
+      "den": 145000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp164",
+    "rule_key": "thuoc_tru_co | Cỏ lồng vực mọc cao, cạnh tranh mạnh, làm lúa thưa yếu",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Đất cần bổ sung Kali cho giai đoạn nuôi trái",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "QUINCLORAC 25SC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ hòa bản phát triển nhanh trong ruộng sạ dày và quản lý nước kém. Nhờ đó, cây được hỗ trợ trừ cỏ lồng vực và một số cỏ lá rộng trong ruộng lúa, đặc biệt nên dùng ở thời điểm sau sạ 10-20 ngày, khi cỏ còn non."
+  },
+  {
+    "product_id": "sp165",
+    "ten_san_pham": "OXADIAZON 250EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "oxadiazon": "250g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ tiền nảy mầm và hậu nảy mầm sớm trong lúa và một số cây trồng"
+    ],
+    "trieu_chung": [
+      "Cỏ non mọc đều sau sạ, nhất là cỏ hòa bản và lá rộng nhỏ"
+    ],
+    "nguyen_nhan": [
+      "Hạt cỏ nảy mầm mạnh trong đất đủ ẩm sau làm đất"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa cấy",
+      "lúa sạ",
+      "một số cây trồng theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Ngay sau sạ/cấy hoặc khi cỏ mới nhú"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Dùng theo nhãn, thường 0,8-1,5 lít/ha; phun khi mặt ruộng đủ ẩm",
+      "lieu_luong": "1,5 lít",
+      "luong_nuoc": "0,8-1,5 lít"
+    },
+    "an_toan_su_dung": [
+      "Không để nước chảy tràn sau phun",
+      "tránh dùng trên lúa quá yếu"
+    ],
+    "gia": {
+      "tu": 150000,
+      "den": 220000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp165",
+    "rule_key": "thuoc_tru_co | Cỏ non mọc đều sau sạ, nhất là cỏ hòa bản và lá rộng nhỏ",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Ngay sau sạ/cấy hoặc khi cỏ mới nhú"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "OXADIAZON 250EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hạt cỏ nảy mầm mạnh trong đất đủ ẩm sau làm đất. Nhờ đó, cây được hỗ trợ trừ cỏ tiền nảy mầm và hậu nảy mầm sớm trong lúa và một số cây trồng, đặc biệt nên dùng ở thời điểm ngay sau sạ/cấy hoặc khi cỏ mới nhú."
+  },
+  {
+    "product_id": "sp166",
+    "ten_san_pham": "ATRAZINE 80WP",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "atrazine": "80% w/w"
+    },
+    "quy_cach": "Gói 1kg",
+    "cong_dung": [
+      "Trừ cỏ lá rộng và một số cỏ hòa bản trong bắp",
+      "mía"
+    ],
+    "trieu_chung": [
+      "Cỏ mọc dày giữa hàng bắp/mía, cây trồng sinh trưởng chậm"
+    ],
+    "nguyen_nhan": [
+      "Cỏ dại cạnh tranh dinh dưỡng trong giai đoạn cây còn nhỏ"
+    ],
+    "doi_tuong_cay_trong": [
+      "Bắp",
+      "mía theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau gieo trước mọc hoặc hậu nảy mầm sớm tùy quy trình"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha và phun theo nhãn; đảm bảo đất đủ ẩm để thuốc phát huy hiệu quả"
+    },
+    "an_toan_su_dung": [
+      "Không dùng trên cây mẫn cảm",
+      "tránh rửa trôi ra nguồn nước"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 190000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp166",
+    "rule_key": "thuoc_tru_co | Cỏ mọc dày giữa hàng bắp/mía, cây trồng sinh trưởng chậm",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "ATRAZINE 80WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại cạnh tranh dinh dưỡng trong giai đoạn cây còn nhỏ. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng và một số cỏ hòa bản trong bắp, mía, đặc biệt nên dùng ở thời điểm sau gieo trước mọc hoặc hậu nảy mầm sớm tùy quy trình."
+  },
+  {
+    "product_id": "sp167",
+    "ten_san_pham": "METRIBUZIN 70WP",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "metribuzin": "70% w/w"
+    },
+    "quy_cach": "Gói 500g",
+    "cong_dung": [
+      "Trừ cỏ lá rộng và một số cỏ hòa bản trong khoai tây",
+      "cà chua",
+      "đậu nành"
+    ],
+    "trieu_chung": [
+      "Cỏ non mọc sau trồng, cạnh tranh ánh sáng với cây con"
+    ],
+    "nguyen_nhan": [
+      "Cỏ dại nảy mầm trong giai đoạn cây trồng chưa phủ luống"
+    ],
+    "doi_tuong_cay_trong": [
+      "Khoai tây",
+      "cà chua",
+      "đậu nành",
+      "mía theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau trồng trước mọc hoặc hậu nảy mầm sớm theo từng cây"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun mặt đất ẩm, tránh phun trúng cây non mẫn cảm"
+    },
+    "an_toan_su_dung": [
+      "Đọc kỹ nhãn vì mỗi cây có mức chịu thuốc khác nhau"
+    ],
+    "gia": {
+      "tu": 110000,
+      "den": 170000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp167",
+    "rule_key": "thuoc_tru_co | Cỏ non mọc sau trồng, cạnh tranh ánh sáng với cây con",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "METRIBUZIN 70WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại nảy mầm trong giai đoạn cây trồng chưa phủ luống. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng và một số cỏ hòa bản trong khoai tây, cà chua, đậu nành, đặc biệt nên dùng ở thời điểm sau trồng trước mọc hoặc hậu nảy mầm sớm theo từng cây."
+  },
+  {
+    "product_id": "sp168",
+    "ten_san_pham": "GLUFOSINATE-AMMONIUM 200SL",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "glufosinate_ammonium": "200g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ không chọn lọc",
+      "tác động tiếp xúc-lưu dẫn hạn chế"
+    ],
+    "trieu_chung": [
+      "Cỏ hỗn hợp trong vườn cây, cỏ lá rộng và cỏ hòa bản xanh tốt"
+    ],
+    "nguyen_nhan": [
+      "Cỏ cạnh tranh dinh dưỡng và là nơi trú ẩn sâu bệnh"
+    ],
+    "doi_tuong_cay_trong": [
+      "Vườn cây ăn trái",
+      "cao su",
+      "cà phê",
+      "đất không canh tác"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ đang sinh trưởng mạnh",
+      "cao 10-25cm"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 80-120ml/bình 16 lít; phun ướt đều lá cỏ, tránh cây trồng",
+      "lieu_luong": "120ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không để thuốc dính lá xanh/cành non cây trồng",
+      "phun khi ít gió"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 190000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp168",
+    "rule_key": "thuoc_tru_co | Cỏ hỗn hợp trong vườn cây, cỏ lá rộng và cỏ hòa bản xanh tốt",
+    "dac_tinh_benh": [
+      "Tác động nội hấp, lưu dẫn trong cây",
+      "Tác động tiếp xúc",
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp xử lý nhóm côn trùng gây hại",
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "GLUFOSINATE-AMMONIUM 200SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh dinh dưỡng và là nơi trú ẩn sâu bệnh. Nhờ đó, cây được hỗ trợ trừ cỏ không chọn lọc, tác động tiếp xúc-lưu dẫn hạn chế, đặc biệt nên dùng ở thời điểm khi cỏ đang sinh trưởng mạnh, cao 10-25cm."
+  },
+  {
+    "product_id": "sp169",
+    "ten_san_pham": "FLUAZIFOP-P-BUTYL 150EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "fluazifop_p_butyl": "150g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Trừ cỏ hòa bản hậu nảy mầm trong cây trồng lá rộng"
+    ],
+    "trieu_chung": [
+      "Cỏ tranh non, cỏ chỉ, cỏ lồng vực mọc xen luống rau/đậu"
+    ],
+    "nguyen_nhan": [
+      "Cỏ hòa bản phát triển nhanh",
+      "cạnh tranh nước và phân"
+    ],
+    "doi_tuong_cay_trong": [
+      "Đậu nành",
+      "lạc",
+      "rau màu lá rộng",
+      "cây ăn trái theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ 3-5 lá",
+      "đang sinh trưởng mạnh"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 30-50ml/bình 16 lít; phun tập trung lên lá cỏ",
+      "lieu_luong": "50ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không dùng trên cây họ hòa bản như lúa/bắp",
+      "tránh gió tạt"
+    ],
+    "gia": {
+      "tu": 120000,
+      "den": 180000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp169",
+    "rule_key": "thuoc_tru_co | Cỏ tranh non, cỏ chỉ, cỏ lồng vực mọc xen luống rau/đậu",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "FLUAZIFOP-P-BUTYL 150EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ hòa bản phát triển nhanh, cạnh tranh nước và phân. Nhờ đó, cây được hỗ trợ trừ cỏ hòa bản hậu nảy mầm trong cây trồng lá rộng, đặc biệt nên dùng ở thời điểm khi cỏ 3-5 lá, đang sinh trưởng mạnh."
+  },
+  {
+    "product_id": "sp170",
+    "ten_san_pham": "HALOXYFOP-R-METHYL 108EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "haloxyfop_r_methyl": "108g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Đặc trị cỏ hòa bản lâu năm và hằng năm trong cây lá rộng"
+    ],
+    "trieu_chung": [
+      "Cỏ chỉ, cỏ ống, cỏ tranh non mọc dày trong vườn/luống"
+    ],
+    "nguyen_nhan": [
+      "Thân rễ cỏ hòa bản tái sinh mạnh sau làm cỏ cơ giới"
+    ],
+    "doi_tuong_cay_trong": [
+      "Đậu",
+      "rau màu lá rộng",
+      "cây ăn trái",
+      "cao su theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ đang xanh",
+      "có đủ lá để hấp thu thuốc"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 25-40ml/bình 16 lít; phun đều lá cỏ, không xới cỏ ngay sau phun",
+      "lieu_luong": "40ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun lên lúa, bắp, mía",
+      "bảo hộ khi pha phun"
+    ],
+    "gia": {
+      "tu": 125000,
+      "den": 185000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp170",
+    "rule_key": "thuoc_tru_co | Cỏ chỉ, cỏ ống, cỏ tranh non mọc dày trong vườn/luống",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Khi cỏ đang xanh",
+      "có đủ lá để hấp thu thuốc"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "HALOXYFOP-R-METHYL 108EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thân rễ cỏ hòa bản tái sinh mạnh sau làm cỏ cơ giới. Nhờ đó, cây được hỗ trợ đặc trị cỏ hòa bản lâu năm và hằng năm trong cây lá rộng, đặc biệt nên dùng ở thời điểm khi cỏ đang xanh, có đủ lá để hấp thu thuốc."
+  },
+  {
+    "product_id": "sp199",
+    "ten_san_pham": "QUINCLORAC + BISPYRIBAC HỖN HỢP",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "quinclorac": "20%",
+      "bispyribac_sodium": "5%",
+      "dang_sc": "dạng SC"
+    },
+    "quy_cach": "Chai 250ml",
+    "cong_dung": [
+      "Trừ hỗn hợp cỏ lồng vực",
+      "cỏ đuôi phụng",
+      "cỏ chác và lá rộng trong lúa"
+    ],
+    "trieu_chung": [
+      "Ruộng lúa bị nhiều loại cỏ mọc xen, cỏ cao hơn lúa"
+    ],
+    "nguyen_nhan": [
+      "Quản lý nước kém và hạt cỏ tồn lưu nhiều trong đất"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 8-18 ngày",
+      "khi cỏ còn non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 25-40ml/bình 16 lít; rút nước trước phun, đưa nước lại sau 24-48 giờ",
+      "lieu_luong": "40ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không dùng khi lúa yếu do phèn/mặn",
+      "không tự ý tăng liều"
+    ],
+    "gia": {
+      "tu": 85000,
+      "den": 130000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp199",
+    "rule_key": "thuoc_tru_co | Ruộng lúa bị nhiều loại cỏ mọc xen, cỏ cao hơn lúa",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 8-18 ngày",
+      "khi cỏ còn non"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Đất cần bổ sung Kali cho giai đoạn nuôi trái",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "QUINCLORAC + BISPYRIBAC HỖN HỢP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Quản lý nước kém và hạt cỏ tồn lưu nhiều trong đất. Nhờ đó, cây được hỗ trợ trừ hỗn hợp cỏ lồng vực, cỏ đuôi phụng, cỏ chác và lá rộng trong lúa, đặc biệt nên dùng ở thời điểm sau sạ 8-18 ngày, khi cỏ còn non."
+  },
+  {
+    "product_id": "sp261",
+    "ten_san_pham": "PENDIMETHALIN 330EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "pendimethalin": "330g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ tiền nảy mầm",
+      "hạn chế cỏ hòa bản và lá rộng sau gieo trồng"
+    ],
+    "trieu_chung": [
+      "Cỏ non mọc dày trên luống, cây trồng bị cạnh tranh sớm"
+    ],
+    "nguyen_nhan": [
+      "Hạt cỏ trong đất nảy mầm sau làm đất và tưới ẩm"
+    ],
+    "doi_tuong_cay_trong": [
+      "Đậu phộng",
+      "đậu nành",
+      "bắp",
+      "hành",
+      "rau màu theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau gieo trước mọc hoặc trước khi cỏ mọc"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Phun theo nhãn trên mặt đất đủ ẩm; không xới đất sau phun"
+    },
+    "an_toan_su_dung": [
+      "Không phun lên cây đã mọc mẫn cảm",
+      "tránh nước rửa trôi"
+    ],
+    "gia": {
+      "tu": 160000,
+      "den": 240000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp261",
+    "rule_key": "thuoc_tru_co | Cỏ non mọc dày trên luống, cây trồng bị cạnh tranh sớm",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "PENDIMETHALIN 330EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hạt cỏ trong đất nảy mầm sau làm đất và tưới ẩm. Nhờ đó, cây được hỗ trợ trừ cỏ tiền nảy mầm, hạn chế cỏ hòa bản và lá rộng sau gieo trồng, đặc biệt nên dùng ở thời điểm sau gieo trước mọc hoặc trước khi cỏ mọc."
+  },
+  {
+    "product_id": "sp262",
+    "ten_san_pham": "OXYFLUORFEN 240EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "oxyfluorfen": "240g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Trừ cỏ tiền và hậu nảy mầm sớm trong hành",
+      "tỏi",
+      "cây lâu năm"
+    ],
+    "trieu_chung": [
+      "Cỏ lá rộng và cỏ non mọc trên luống/vườn"
+    ],
+    "nguyen_nhan": [
+      "Cỏ cạnh tranh dinh dưỡng ở giai đoạn cây trồng còn nhỏ"
+    ],
+    "doi_tuong_cay_trong": [
+      "Hành",
+      "tỏi",
+      "cây ăn trái",
+      "cao su",
+      "cà phê theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau trồng khi cây đã ổn định hoặc phun đất trước cỏ mọc"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun đều mặt đất, tránh phun trúng lá non cây trồng"
+    },
+    "an_toan_su_dung": [
+      "Dễ gây cháy lá nếu dính cây mẫn cảm",
+      "phun lúc ít gió"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 190000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp262",
+    "rule_key": "thuoc_tru_co | Cỏ lá rộng và cỏ non mọc trên luống/vườn",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "OXYFLUORFEN 240EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh dinh dưỡng ở giai đoạn cây trồng còn nhỏ. Nhờ đó, cây được hỗ trợ trừ cỏ tiền và hậu nảy mầm sớm trong hành, tỏi, cây lâu năm, đặc biệt nên dùng ở thời điểm sau trồng khi cây đã ổn định hoặc phun đất trước cỏ mọc."
+  },
+  {
+    "product_id": "sp263",
+    "ten_san_pham": "CLETHODIM 240EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "clethodim": "240g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Đặc trị cỏ hòa bản hậu nảy mầm trong cây trồng lá rộng"
+    ],
+    "trieu_chung": [
+      "Cỏ chỉ, cỏ lồng vực, cỏ đuôi phụng mọc lẫn luống rau/đậu"
+    ],
+    "nguyen_nhan": [
+      "Cỏ hòa bản phát triển nhanh và tái sinh sau làm cỏ"
+    ],
+    "doi_tuong_cay_trong": [
+      "Đậu nành",
+      "lạc",
+      "rau lá rộng",
+      "cây ăn trái theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ 3-6 lá",
+      "đang sinh trưởng mạnh"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-40ml/bình 16 lít; phun tập trung lên lá cỏ",
+      "lieu_luong": "40ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không dùng trên lúa, bắp, mía",
+      "tránh phối thuốc đối kháng nếu nhãn không cho phép"
+    ],
+    "gia": {
+      "tu": 145000,
+      "den": 210000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp263",
+    "rule_key": "thuoc_tru_co | Cỏ chỉ, cỏ lồng vực, cỏ đuôi phụng mọc lẫn luống rau/đậu",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "CLETHODIM 240EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ hòa bản phát triển nhanh và tái sinh sau làm cỏ. Nhờ đó, cây được hỗ trợ đặc trị cỏ hòa bản hậu nảy mầm trong cây trồng lá rộng, đặc biệt nên dùng ở thời điểm khi cỏ 3-6 lá, đang sinh trưởng mạnh."
+  },
+  {
+    "product_id": "sp264",
+    "ten_san_pham": "SETHOXYDIM 12.5EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "sethoxydim": "125g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Trừ cỏ hòa bản trong cây trồng lá rộng",
+      "tác động qua lá"
+    ],
+    "trieu_chung": [
+      "Cỏ hòa bản mọc cao hơn cây trồng, cạnh tranh mạnh"
+    ],
+    "nguyen_nhan": [
+      "Thân rễ và hạt cỏ hòa bản phát triển trong điều kiện đất ẩm"
+    ],
+    "doi_tuong_cay_trong": [
+      "Đậu",
+      "rau màu lá rộng",
+      "cây ăn trái",
+      "bông"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ non 3-5 lá",
+      "chưa trổ bông"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 40-60ml/bình 16 lít; phun đều lên cỏ",
+      "lieu_luong": "60ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun lên cây họ hòa bản",
+      "mang bảo hộ khi pha"
+    ],
+    "gia": {
+      "tu": 110000,
+      "den": 170000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp264",
+    "rule_key": "thuoc_tru_co | Cỏ hòa bản mọc cao hơn cây trồng, cạnh tranh mạnh",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "SETHOXYDIM 12.5EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thân rễ và hạt cỏ hòa bản phát triển trong điều kiện đất ẩm. Nhờ đó, cây được hỗ trợ trừ cỏ hòa bản trong cây trồng lá rộng, tác động qua lá, đặc biệt nên dùng ở thời điểm khi cỏ non 3-5 lá, chưa trổ bông."
+  },
+  {
+    "product_id": "sp265",
+    "ten_san_pham": "PROPANIL 36EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "propanil": "360g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ hậu nảy mầm trên ruộng lúa",
+      "nhất là cỏ non"
+    ],
+    "trieu_chung": [
+      "Cỏ lồng vực, cỏ lá rộng non mọc xen lúa"
+    ],
+    "nguyen_nhan": [
+      "Cỏ phát triển sau sạ",
+      "cạnh tranh dinh dưỡng trong giai đoạn lúa non"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 8-15 ngày",
+      "khi lúa và cỏ còn non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Dùng theo nhãn; phun khi ruộng ráo nước, cho nước lại sau phun"
+    },
+    "an_toan_su_dung": [
+      "Không pha với thuốc trừ sâu nhóm lân hữu cơ/carbamate gần thời điểm phun"
+    ],
+    "gia": {
+      "tu": 95000,
+      "den": 145000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp265",
+    "rule_key": "thuoc_tru_co | Cỏ lồng vực, cỏ lá rộng non mọc xen lúa",
+    "dac_tinh_benh": [
+      "Phù hợp xử lý nhóm côn trùng gây hại",
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 8-15 ngày",
+      "khi lúa và cỏ còn non"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "PROPANIL 36EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ phát triển sau sạ, cạnh tranh dinh dưỡng trong giai đoạn lúa non. Nhờ đó, cây được hỗ trợ trừ cỏ hậu nảy mầm trên ruộng lúa, nhất là cỏ non, đặc biệt nên dùng ở thời điểm sau sạ 8-15 ngày, khi lúa và cỏ còn non."
+  },
+  {
+    "product_id": "sp266",
+    "ten_san_pham": "METSULFURON-METHYL 20WP",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "metsulfuron_methyl": "20% w/w"
+    },
+    "quy_cach": "Gói 20g",
+    "cong_dung": [
+      "Trừ cỏ lá rộng",
+      "cỏ chác trên lúa và đất không canh tác theo nhãn"
+    ],
+    "trieu_chung": [
+      "Cỏ lá rộng/chác phát triển sau sạ, lúa bị cạnh tranh"
+    ],
+    "nguyen_nhan": [
+      "Cỏ dại tồn lưu trong đất và nảy mầm sau làm đất"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa",
+      "bờ ruộng",
+      "đất không canh tác theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ khi lúa đủ tuổi an toàn và cỏ còn nhỏ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha liều rất thấp theo nhãn; phun đều, tránh chồng lối"
+    },
+    "an_toan_su_dung": [
+      "Không tự ý tăng liều",
+      "tránh tồn dư ảnh hưởng cây trồng vụ sau"
+    ],
+    "gia": {
+      "tu": 25000,
+      "den": 45000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp266",
+    "rule_key": "thuoc_tru_co | Cỏ lá rộng/chác phát triển sau sạ, lúa bị cạnh tranh",
+    "dac_tinh_benh": [
+      "Tác động lên bệnh do nấm",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ khi lúa đủ tuổi an toàn và cỏ còn nhỏ"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "METSULFURON-METHYL 20WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại tồn lưu trong đất và nảy mầm sau làm đất. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng, cỏ chác trên lúa và đất không canh tác theo nhãn, đặc biệt nên dùng ở thời điểm sau sạ khi lúa đủ tuổi an toàn và cỏ còn nhỏ."
+  },
+  {
+    "product_id": "sp267",
+    "ten_san_pham": "ETHOXY SULFURON 15WG",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "ethoxysulfuron": "15% w/w"
+    },
+    "quy_cach": "Gói 20g",
+    "cong_dung": [
+      "Trừ cỏ chác lác và cỏ lá rộng hậu nảy mầm trong ruộng lúa"
+    ],
+    "trieu_chung": [
+      "Cỏ chác mọc thành bụi, lá hẹp, cạnh tranh với lúa"
+    ],
+    "nguyen_nhan": [
+      "Cỏ chác phát triển mạnh ở ruộng ẩm và quản lý nước chưa ổn định"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ",
+      "lúa cấy"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 10-20 ngày",
+      "khi cỏ còn non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; rút nước trước phun và giữ ẩm sau phun"
+    },
+    "an_toan_su_dung": [
+      "Không phun khi lúa yếu do phèn/mặn",
+      "tránh chồng liều"
+    ],
+    "gia": {
+      "tu": 45000,
+      "den": 75000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp267",
+    "rule_key": "thuoc_tru_co | Cỏ chác mọc thành bụi, lá hẹp, cạnh tranh với lúa",
+    "dac_tinh_benh": [
+      "Tác động lên bệnh do nấm",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 10-20 ngày",
+      "khi cỏ còn non"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "ETHOXY SULFURON 15WG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ chác phát triển mạnh ở ruộng ẩm và quản lý nước chưa ổn định. Nhờ đó, cây được hỗ trợ trừ cỏ chác lác và cỏ lá rộng hậu nảy mầm trong ruộng lúa, đặc biệt nên dùng ở thời điểm sau sạ 10-20 ngày, khi cỏ còn non."
+  },
+  {
+    "product_id": "sp268",
+    "ten_san_pham": "PYRAZOSULFURON-ETHYL 10WP",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "pyrazosulfuron_ethyl": "10% w/w"
+    },
+    "quy_cach": "Gói 20g",
+    "cong_dung": [
+      "Trừ cỏ lá rộng và chác lác tiền/hậu nảy mầm sớm trên lúa"
+    ],
+    "trieu_chung": [
+      "Cỏ chác, cỏ lá rộng mới mọc lẫn lúa non"
+    ],
+    "nguyen_nhan": [
+      "Hạt cỏ nảy mầm sau sạ/cấy trong điều kiện ruộng ẩm"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa cấy",
+      "lúa sạ theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau cấy/sạ sớm khi cỏ còn nhỏ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha đúng liều nhãn; phun ruộng đủ ẩm và quản lý nước sau phun"
+    },
+    "an_toan_su_dung": [
+      "Không tăng liều",
+      "tránh dùng trên lúa đang bị stress"
+    ],
+    "gia": {
+      "tu": 35000,
+      "den": 65000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp268",
+    "rule_key": "thuoc_tru_co | Cỏ chác, cỏ lá rộng mới mọc lẫn lúa non",
+    "dac_tinh_benh": [
+      "Tác động lên bệnh do nấm",
+      "Phù hợp quản lý cỏ dại",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau cấy/sạ sớm khi cỏ còn nhỏ"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "PYRAZOSULFURON-ETHYL 10WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hạt cỏ nảy mầm sau sạ/cấy trong điều kiện ruộng ẩm. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng và chác lác tiền/hậu nảy mầm sớm trên lúa, đặc biệt nên dùng ở thời điểm sau cấy/sạ sớm khi cỏ còn nhỏ."
+  },
+  {
+    "product_id": "sp269",
+    "ten_san_pham": "MESOTRIONE 10SC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "mesotrione": "100g/lít"
+    },
+    "quy_cach": "Chai 250ml",
+    "cong_dung": [
+      "Trừ cỏ lá rộng và một số cỏ hòa bản trong bắp"
+    ],
+    "trieu_chung": [
+      "Cỏ mọc dày giữa hàng bắp, lá cỏ bạc trắng sau xử lý"
+    ],
+    "nguyen_nhan": [
+      "Cỏ dại cạnh tranh mạnh khi bắp còn nhỏ"
+    ],
+    "doi_tuong_cay_trong": [
+      "Bắp theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau gieo",
+      "khi bắp và cỏ còn nhỏ theo giai đoạn nhãn"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo liều nhãn; phun đều trên cỏ đang sinh trưởng"
+    },
+    "an_toan_su_dung": [
+      "Không dùng trên cây mẫn cảm",
+      "tránh gió tạt sang rau màu"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 190000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp269",
+    "rule_key": "thuoc_tru_co | Cỏ mọc dày giữa hàng bắp, lá cỏ bạc trắng sau xử lý",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "MESOTRIONE 10SC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại cạnh tranh mạnh khi bắp còn nhỏ. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng và một số cỏ hòa bản trong bắp, đặc biệt nên dùng ở thời điểm sau gieo, khi bắp và cỏ còn nhỏ theo giai đoạn nhãn."
+  },
+  {
+    "product_id": "sp270",
+    "ten_san_pham": "NICOSULFURON 40OD",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "nicosulfuron": "40g/lít"
+    },
+    "quy_cach": "Chai 250ml",
+    "cong_dung": [
+      "Trừ cỏ hòa bản và một số cỏ lá rộng hậu nảy mầm trong bắp"
+    ],
+    "trieu_chung": [
+      "Cỏ lồng vực, cỏ đuôi phụng, cỏ lá rộng mọc xen hàng bắp"
+    ],
+    "nguyen_nhan": [
+      "Cỏ phát triển mạnh trong giai đoạn bắp 3-6 lá"
+    ],
+    "doi_tuong_cay_trong": [
+      "Bắp theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi bắp và cỏ ở giai đoạn an toàn ghi trên nhãn"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun đều, tránh chồng lối và phun khi cây stress"
+    },
+    "an_toan_su_dung": [
+      "Không dùng trên giống bắp mẫn cảm nếu nhãn cảnh báo",
+      "tránh thuốc lân hữu cơ gần thời điểm phun"
+    ],
+    "gia": {
+      "tu": 120000,
+      "den": 180000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp270",
+    "rule_key": "thuoc_tru_co | Cỏ lồng vực, cỏ đuôi phụng, cỏ lá rộng mọc xen hàng bắp",
+    "dac_tinh_benh": [
+      "Tác động lên bệnh do nấm",
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Khi bắp và cỏ ở giai đoạn an toàn ghi trên nhãn"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "NICOSULFURON 40OD phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ phát triển mạnh trong giai đoạn bắp 3-6 lá. Nhờ đó, cây được hỗ trợ trừ cỏ hòa bản và một số cỏ lá rộng hậu nảy mầm trong bắp, đặc biệt nên dùng ở thời điểm khi bắp và cỏ ở giai đoạn an toàn ghi trên nhãn."
+  },
+  {
+    "product_id": "sp296",
+    "ten_san_pham": "BISPYRIBAC + PENOSULAM",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "bispyribac_sodium": "8%",
+      "penoxsulam": "2%",
+      "dang_od": "dạng OD"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Trừ hỗn hợp cỏ lúa hậu nảy mầm: cỏ hòa bản",
+      "lá rộng và chác"
+    ],
+    "trieu_chung": [
+      "Cỏ mọc xen lúa, ruộng thưa yếu, cỏ cao hơn lúa"
+    ],
+    "nguyen_nhan": [
+      "Cỏ phát triển sau sạ do quản lý nước chưa tốt hoặc tồn dư hạt cỏ nhiều"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 8-18 ngày",
+      "khi cỏ 2-4 lá"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; rút nước trước phun và cho nước lại sau 1-2 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun khi lúa yếu do phèn/mặn",
+      "không chồng liều"
+    ],
+    "gia": {
+      "tu": 85000,
+      "den": 130000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp296",
+    "rule_key": "thuoc_tru_co | Cỏ mọc xen lúa, ruộng thưa yếu, cỏ cao hơn lúa",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 8-18 ngày",
+      "khi cỏ 2-4 lá"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "BISPYRIBAC + PENOSULAM phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ phát triển sau sạ do quản lý nước chưa tốt hoặc tồn dư hạt cỏ nhiều. Nhờ đó, cây được hỗ trợ trừ hỗn hợp cỏ lúa hậu nảy mầm: cỏ hòa bản, lá rộng và chác, đặc biệt nên dùng ở thời điểm sau sạ 8-18 ngày, khi cỏ 2-4 lá."
+  },
+  {
+    "product_id": "sp297",
+    "ten_san_pham": "GLYPHOSATE + 2,4-D",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "glyphosate_ipa": "360g/lít",
+      "24_d": "160g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ không chọn lọc",
+      "tăng hiệu quả với cỏ lá rộng và cỏ lâu năm"
+    ],
+    "trieu_chung": [
+      "Cỏ hỗn hợp mọc dày trong vườn, cỏ lá rộng và cỏ hòa bản cạnh tranh"
+    ],
+    "nguyen_nhan": [
+      "Cỏ phát triển lâu ngày",
+      "rễ và thân ngầm tái sinh mạnh"
+    ],
+    "doi_tuong_cay_trong": [
+      "Vườn cây lâu năm",
+      "bờ ruộng",
+      "đất trước gieo trồng theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ đang sinh trưởng mạnh",
+      "không mưa sau phun"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 80-120ml/bình 16 lít; phun tránh cây trồng chính",
+      "lieu_luong": "120ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không để dính lá/cành non cây trồng",
+      "tránh gió tạt sang rau màu"
+    ],
+    "gia": {
+      "tu": 110000,
+      "den": 170000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp297",
+    "rule_key": "thuoc_tru_co | Cỏ hỗn hợp mọc dày trong vườn, cỏ lá rộng và cỏ hòa bản cạnh tranh",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "GLYPHOSATE + 2,4-D phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ phát triển lâu ngày, rễ và thân ngầm tái sinh mạnh. Nhờ đó, cây được hỗ trợ trừ cỏ không chọn lọc, tăng hiệu quả với cỏ lá rộng và cỏ lâu năm, đặc biệt nên dùng ở thời điểm khi cỏ đang sinh trưởng mạnh, không mưa sau phun."
+  },
+  {
+    "product_id": "sp357",
+    "ten_san_pham": "PENOXSULAM + CYHALOFOP",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "penoxsulam": "15g/lít",
+      "cyhalofop_butyl": "80g/lít",
+      "dang_od": "dạng OD"
+    },
+    "quy_cach": "Chai 250ml",
+    "cong_dung": [
+      "Trừ hỗn hợp cỏ lúa",
+      "mạnh với cỏ hòa bản và một số lá rộng"
+    ],
+    "trieu_chung": [
+      "Cỏ lồng vực, đuôi phụng, lá rộng mọc xen lúa"
+    ],
+    "nguyen_nhan": [
+      "Cỏ phát triển sau sạ",
+      "quản lý nước chưa tốt"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 8-18 ngày",
+      "cỏ 2-4 lá"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 30-40ml/bình 16 lít; rút nước trước phun",
+      "lieu_luong": "40ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không dùng khi lúa bị phèn/mặn",
+      "tránh chồng liều"
+    ],
+    "gia": {
+      "tu": 120000,
+      "den": 180000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp357",
+    "rule_key": "thuoc_tru_co | Cỏ lồng vực, đuôi phụng, lá rộng mọc xen lúa",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "PENOXSULAM + CYHALOFOP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ phát triển sau sạ, quản lý nước chưa tốt. Nhờ đó, cây được hỗ trợ trừ hỗn hợp cỏ lúa, mạnh với cỏ hòa bản và một số lá rộng, đặc biệt nên dùng ở thời điểm sau sạ 8-18 ngày, cỏ 2-4 lá."
+  },
+  {
+    "product_id": "sp358",
+    "ten_san_pham": "CYHALOFOP + FENOXAPROP",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "cyhalofop_butyl": "80g/lít",
+      "fenoxaprop_p_ethyl": "40g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Đặc trị cỏ hòa bản hậu nảy mầm trong lúa"
+    ],
+    "trieu_chung": [
+      "Cỏ lồng vực, cỏ đuôi phụng cao hơn lúa"
+    ],
+    "nguyen_nhan": [
+      "Cỏ hòa bản cạnh tranh mạnh giai đoạn lúa non"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 10-20 ngày khi cỏ còn non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun khi ruộng ráo nước, giữ ẩm sau phun"
+    },
+    "an_toan_su_dung": [
+      "Không phối tùy tiện với thuốc lá rộng",
+      "không phun lúa yếu"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 190000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp358",
+    "rule_key": "thuoc_tru_co | Cỏ lồng vực, cỏ đuôi phụng cao hơn lúa",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 10-20 ngày khi cỏ còn non"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "CYHALOFOP + FENOXAPROP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ hòa bản cạnh tranh mạnh giai đoạn lúa non. Nhờ đó, cây được hỗ trợ đặc trị cỏ hòa bản hậu nảy mầm trong lúa, đặc biệt nên dùng ở thời điểm sau sạ 10-20 ngày khi cỏ còn non."
+  },
+  {
+    "product_id": "sp359",
+    "ten_san_pham": "BENTAZONE + MCPA",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "bentazone": "400g/lít",
+      "mcpa": "60g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ lá rộng và chác lác trong ruộng lúa"
+    ],
+    "trieu_chung": [
+      "Cỏ chác, rau mác, cỏ lá rộng mọc dày"
+    ],
+    "nguyen_nhan": [
+      "Cỏ dại sau sạ cạnh tranh dinh dưỡng và ánh sáng"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ",
+      "lúa cấy"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 15-25 ngày",
+      "khi lúa đã cứng cây"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun khi ruộng ráo, cỏ đang sinh trưởng"
+    },
+    "an_toan_su_dung": [
+      "Tránh gió tạt sang cây mẫn cảm",
+      "không dùng khi lúa stress"
+    ],
+    "gia": {
+      "tu": 140000,
+      "den": 210000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp359",
+    "rule_key": "thuoc_tru_co | Cỏ chác, rau mác, cỏ lá rộng mọc dày",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 15-25 ngày",
+      "khi lúa đã cứng cây"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "BENTAZONE + MCPA phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại sau sạ cạnh tranh dinh dưỡng và ánh sáng. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng và chác lác trong ruộng lúa, đặc biệt nên dùng ở thời điểm sau sạ 15-25 ngày, khi lúa đã cứng cây."
+  },
+  {
+    "product_id": "sp360",
+    "ten_san_pham": "PRETILACHLOR + PYRAZOSULFURON",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "pretilachlor": "300g/lít",
+      "pyrazosulfuron_ethyl": "10g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Trừ cỏ tiền nảy mầm và hậu nảy mầm sớm trên lúa"
+    ],
+    "trieu_chung": [
+      "Cỏ non, cỏ chác và lá rộng mới nhú sau sạ"
+    ],
+    "nguyen_nhan": [
+      "Hạt cỏ nảy mầm cùng lúa trong điều kiện ruộng đủ ẩm"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 1-5 ngày tùy nhãn"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun khi mặt ruộng ẩm, giữ nước hợp lý"
+    },
+    "an_toan_su_dung": [
+      "Không để nước ngập sâu ngay sau phun",
+      "không dùng trên lúa yếu"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 190000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp360",
+    "rule_key": "thuoc_tru_co | Cỏ non, cỏ chác và lá rộng mới nhú sau sạ",
+    "dac_tinh_benh": [
+      "Tác động lên bệnh do nấm",
+      "Phù hợp xử lý nhóm côn trùng gây hại",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ 1-5 ngày tùy nhãn"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "PRETILACHLOR + PYRAZOSULFURON phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hạt cỏ nảy mầm cùng lúa trong điều kiện ruộng đủ ẩm. Nhờ đó, cây được hỗ trợ trừ cỏ tiền nảy mầm và hậu nảy mầm sớm trên lúa, đặc biệt nên dùng ở thời điểm sau sạ 1-5 ngày tùy nhãn."
+  },
+  {
+    "product_id": "sp361",
+    "ten_san_pham": "BUTACHLOR + PROPANIL",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "butachlor": "300g/lít",
+      "propanil": "200g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ lúa giai đoạn sớm",
+      "gồm cỏ hòa bản và lá rộng non"
+    ],
+    "trieu_chung": [
+      "Cỏ non mọc đều sau sạ, lúa bị cạnh tranh"
+    ],
+    "nguyen_nhan": [
+      "Cỏ nảy mầm sau làm đất và quản lý nước chưa ổn định"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ sớm đến khi cỏ còn non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Dùng theo nhãn; phun ruộng đủ ẩm và quản lý nước sau phun"
+    },
+    "an_toan_su_dung": [
+      "Không phối gần thuốc lân hữu cơ/carbamate nếu nhãn cảnh báo"
+    ],
+    "gia": {
+      "tu": 120000,
+      "den": 180000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp361",
+    "rule_key": "thuoc_tru_co | Cỏ non mọc đều sau sạ, lúa bị cạnh tranh",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ sớm đến khi cỏ còn non"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "BUTACHLOR + PROPANIL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ nảy mầm sau làm đất và quản lý nước chưa ổn định. Nhờ đó, cây được hỗ trợ trừ cỏ lúa giai đoạn sớm, gồm cỏ hòa bản và lá rộng non, đặc biệt nên dùng ở thời điểm sau sạ sớm đến khi cỏ còn non."
+  },
+  {
+    "product_id": "sp362",
+    "ten_san_pham": "S-METOLACHLOR 960EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "s_metolachlor": "960g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ tiền nảy mầm trong bắp",
+      "đậu",
+      "mía và rau màu theo nhãn"
+    ],
+    "trieu_chung": [
+      "Cỏ non mọc dày sau gieo, cạnh tranh sớm với cây trồng"
+    ],
+    "nguyen_nhan": [
+      "Hạt cỏ nảy mầm trong lớp đất mặt sau tưới/mưa"
+    ],
+    "doi_tuong_cay_trong": [
+      "Bắp",
+      "đậu nành",
+      "mía",
+      "lạc",
+      "rau màu theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau gieo trước mọc hoặc trước khi cỏ mọc"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Phun theo nhãn trên đất đủ ẩm; không xới phá lớp thuốc"
+    },
+    "an_toan_su_dung": [
+      "Không để thuốc trôi ra nguồn nước",
+      "đọc kỹ cây trồng được phép"
+    ],
+    "gia": {
+      "tu": 180000,
+      "den": 260000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp362",
+    "rule_key": "thuoc_tru_co | Cỏ non mọc dày sau gieo, cạnh tranh sớm với cây trồng",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "S-METOLACHLOR 960EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hạt cỏ nảy mầm trong lớp đất mặt sau tưới/mưa. Nhờ đó, cây được hỗ trợ trừ cỏ tiền nảy mầm trong bắp, đậu, mía và rau màu theo nhãn, đặc biệt nên dùng ở thời điểm sau gieo trước mọc hoặc trước khi cỏ mọc."
+  },
+  {
+    "product_id": "sp363",
+    "ten_san_pham": "ACETOCHLOR 900EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "acetochlor": "900g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ tiền nảy mầm trong bắp",
+      "đậu",
+      "mía theo nhãn"
+    ],
+    "trieu_chung": [
+      "Cỏ mọc hàng loạt sau gieo, cây con bị cạnh tranh"
+    ],
+    "nguyen_nhan": [
+      "Cỏ dại nảy mầm cùng cây trồng sau mưa/tưới"
+    ],
+    "doi_tuong_cay_trong": [
+      "Bắp",
+      "đậu nành",
+      "mía",
+      "lạc theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau gieo trước mọc",
+      "đất đủ ẩm"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha và phun theo nhãn; phủ đều mặt đất"
+    },
+    "an_toan_su_dung": [
+      "Không dùng trên cây mẫn cảm",
+      "tránh phun chồng lối"
+    ],
+    "gia": {
+      "tu": 150000,
+      "den": 220000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp363",
+    "rule_key": "thuoc_tru_co | Cỏ mọc hàng loạt sau gieo, cây con bị cạnh tranh",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "ACETOCHLOR 900EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại nảy mầm cùng cây trồng sau mưa/tưới. Nhờ đó, cây được hỗ trợ trừ cỏ tiền nảy mầm trong bắp, đậu, mía theo nhãn, đặc biệt nên dùng ở thời điểm sau gieo trước mọc, đất đủ ẩm."
+  },
+  {
+    "product_id": "sp364",
+    "ten_san_pham": "AMETRYN 80WP",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "ametryn": "80% w/w"
+    },
+    "quy_cach": "Gói 1kg",
+    "cong_dung": [
+      "Trừ cỏ lá rộng và hòa bản trong mía",
+      "dứa theo nhãn"
+    ],
+    "trieu_chung": [
+      "Cỏ mọc dày giữa hàng, mía/dứa sinh trưởng chậm"
+    ],
+    "nguyen_nhan": [
+      "Cỏ cạnh tranh dinh dưỡng giai đoạn cây trồng chưa khép tán"
+    ],
+    "doi_tuong_cay_trong": [
+      "Mía",
+      "dứa theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau trồng hoặc khi cỏ còn non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun đều mặt đất/cỏ"
+    },
+    "an_toan_su_dung": [
+      "Không phun sang cây mẫn cảm",
+      "tránh rửa trôi"
+    ],
+    "gia": {
+      "tu": 120000,
+      "den": 180000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp364",
+    "rule_key": "thuoc_tru_co | Cỏ mọc dày giữa hàng, mía/dứa sinh trưởng chậm",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "AMETRYN 80WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh dinh dưỡng giai đoạn cây trồng chưa khép tán. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng và hòa bản trong mía, dứa theo nhãn, đặc biệt nên dùng ở thời điểm sau trồng hoặc khi cỏ còn non."
+  },
+  {
+    "product_id": "sp365",
+    "ten_san_pham": "DIURON 80WP",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "diuron": "80% w/w"
+    },
+    "quy_cach": "Gói 1kg",
+    "cong_dung": [
+      "Trừ cỏ tiền và hậu nảy mầm sớm trong mía",
+      "cao su",
+      "đất không canh tác theo nhãn"
+    ],
+    "trieu_chung": [
+      "Cỏ non mọc dày, cạnh tranh nước và dinh dưỡng"
+    ],
+    "nguyen_nhan": [
+      "Hạt cỏ tồn lưu trong đất nảy mầm sau mưa"
+    ],
+    "doi_tuong_cay_trong": [
+      "Mía",
+      "cao su",
+      "cây lâu năm theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước khi cỏ mọc hoặc cỏ non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun tránh lá non cây trồng"
+    },
+    "an_toan_su_dung": [
+      "Có nguy cơ tồn lưu",
+      "dùng đúng đất/cây và đúng liều"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 190000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp365",
+    "rule_key": "thuoc_tru_co | Cỏ non mọc dày, cạnh tranh nước và dinh dưỡng",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Trước khi cỏ mọc hoặc cỏ non"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "DIURON 80WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hạt cỏ tồn lưu trong đất nảy mầm sau mưa. Nhờ đó, cây được hỗ trợ trừ cỏ tiền và hậu nảy mầm sớm trong mía, cao su, đất không canh tác theo nhãn, đặc biệt nên dùng ở thời điểm trước khi cỏ mọc hoặc cỏ non."
+  },
+  {
+    "product_id": "sp366",
+    "ten_san_pham": "TRICLOPYR 480EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "triclopyr_butoxyethyl_ester": "480g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cây bụi",
+      "cỏ lá rộng thân gỗ trong vườn và đất không canh tác"
+    ],
+    "trieu_chung": [
+      "Cây bụi mọc lấn vườn, dây leo và cỏ thân gỗ tái sinh"
+    ],
+    "nguyen_nhan": [
+      "Cỏ/cây bụi thân gỗ có rễ sâu",
+      "khó diệt bằng làm cỏ thường"
+    ],
+    "doi_tuong_cay_trong": [
+      "Vườn cây lâu năm",
+      "bờ rào",
+      "đất không canh tác theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cây bụi đang sinh trưởng mạnh"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun/quét lên lá hoặc vết cắt tùy mục đích"
+    },
+    "an_toan_su_dung": [
+      "Tránh dính cây trồng chính",
+      "không phun khi gió mạnh"
+    ],
+    "gia": {
+      "tu": 170000,
+      "den": 260000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp366",
+    "rule_key": "thuoc_tru_co | Cây bụi mọc lấn vườn, dây leo và cỏ thân gỗ tái sinh",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp xử lý nhóm côn trùng gây hại",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Đất cần bổ sung Kali cho giai đoạn nuôi trái",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "TRICLOPYR 480EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ/cây bụi thân gỗ có rễ sâu, khó diệt bằng làm cỏ thường. Nhờ đó, cây được hỗ trợ trừ cây bụi, cỏ lá rộng thân gỗ trong vườn và đất không canh tác, đặc biệt nên dùng ở thời điểm khi cây bụi đang sinh trưởng mạnh."
+  },
+  {
+    "product_id": "sp447",
+    "ten_san_pham": "BISPYRIBAC + CYHALOFOP + 2,4-D",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "bispyribac_sodium": "Bispyribac-sodium",
+      "cyhalofop_butyl": "Cyhalofop-butyl",
+      "24_d_dang_hon_hop": "2,4-D dạng hỗn hợp"
+    },
+    "quy_cach": "Chai 250ml",
+    "cong_dung": [
+      "Trừ hỗn hợp cỏ lúa gồm cỏ hòa bản",
+      "lá rộng và chác"
+    ],
+    "trieu_chung": [
+      "Ruộng lúa nhiều loại cỏ, lúa bị cạnh tranh mạnh"
+    ],
+    "nguyen_nhan": [
+      "Cỏ phát triển sau sạ do hạt cỏ tồn lưu và quản lý nước chưa tốt"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 10-18 ngày",
+      "cỏ còn non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; rút nước trước phun, đưa nước lại sau 1-2 ngày"
+    },
+    "an_toan_su_dung": [
+      "Không phun lúa yếu",
+      "tránh gió tạt sang rau màu"
+    ],
+    "gia": {
+      "tu": 120000,
+      "den": 180000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp447",
+    "rule_key": "thuoc_tru_co | Ruộng lúa nhiều loại cỏ, lúa bị cạnh tranh mạnh",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "BISPYRIBAC + CYHALOFOP + 2,4-D phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ phát triển sau sạ do hạt cỏ tồn lưu và quản lý nước chưa tốt. Nhờ đó, cây được hỗ trợ trừ hỗn hợp cỏ lúa gồm cỏ hòa bản, lá rộng và chác, đặc biệt nên dùng ở thời điểm sau sạ 10-18 ngày, cỏ còn non."
+  },
+  {
+    "product_id": "sp448",
+    "ten_san_pham": "PENOXSULAM + BENTAZONE",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "penoxsulam": "20g/lít",
+      "bentazone": "400g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Trừ cỏ hậu nảy mầm trên lúa",
+      "mạnh với cỏ lá rộng và chác"
+    ],
+    "trieu_chung": [
+      "Cỏ chác, rau mác, cỏ lá rộng mọc xen lúa"
+    ],
+    "nguyen_nhan": [
+      "Cỏ dại phát triển sau sạ trong ruộng đủ ẩm"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa sạ",
+      "lúa cấy theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ 12-22 ngày"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun khi cỏ đang sinh trưởng"
+    },
+    "an_toan_su_dung": [
+      "Không dùng khi lúa stress phèn/mặn",
+      "tránh chồng liều"
+    ],
+    "gia": {
+      "tu": 140000,
+      "den": 210000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp448",
+    "rule_key": "thuoc_tru_co | Cỏ chác, rau mác, cỏ lá rộng mọc xen lúa",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "PENOXSULAM + BENTAZONE phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại phát triển sau sạ trong ruộng đủ ẩm. Nhờ đó, cây được hỗ trợ trừ cỏ hậu nảy mầm trên lúa, mạnh với cỏ lá rộng và chác, đặc biệt nên dùng ở thời điểm sau sạ 12-22 ngày."
+  },
+  {
+    "product_id": "sp449",
+    "ten_san_pham": "FLORPYRAUXIFEN-BENZYL",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "florpyrauxifen_benzyl": "25g/lít",
+      "dang_ec": "dạng EC"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Trừ cỏ lá rộng",
+      "chác lác và một số cỏ khó trị trên lúa"
+    ],
+    "trieu_chung": [
+      "Cỏ lá rộng/chác mọc dày, lúa phát triển yếu"
+    ],
+    "nguyen_nhan": [
+      "Cỏ cạnh tranh dinh dưỡng trong giai đoạn lúa non"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ/cấy khi lúa đủ tuổi và cỏ còn non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun đều và quản lý nước đúng kỹ thuật"
+    },
+    "an_toan_su_dung": [
+      "Tránh gió tạt",
+      "dùng đúng giai đoạn an toàn cho lúa"
+    ],
+    "gia": {
+      "tu": 150000,
+      "den": 230000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp449",
+    "rule_key": "thuoc_tru_co | Cỏ lá rộng/chác mọc dày, lúa phát triển yếu",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau sạ/cấy khi lúa đủ tuổi và cỏ còn non"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "FLORPYRAUXIFEN-BENZYL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh dinh dưỡng trong giai đoạn lúa non. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng, chác lác và một số cỏ khó trị trên lúa, đặc biệt nên dùng ở thời điểm sau sạ/cấy khi lúa đủ tuổi và cỏ còn non."
+  },
+  {
+    "product_id": "sp450",
+    "ten_san_pham": "QUIZALOFOP-P-ETHYL 10EC",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "quizalofop_p_ethyl": "100g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Trừ cỏ hòa bản trong cây trồng lá rộng"
+    ],
+    "trieu_chung": [
+      "Cỏ chỉ, cỏ đuôi phụng, cỏ lồng vực mọc xen luống"
+    ],
+    "nguyen_nhan": [
+      "Cỏ hòa bản phát triển nhanh và tái sinh sau làm cỏ"
+    ],
+    "doi_tuong_cay_trong": [
+      "Đậu",
+      "lạc",
+      "rau màu lá rộng",
+      "cây ăn trái theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ 3-6 lá và đang xanh tốt"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 25-40ml/bình 16 lít; phun tập trung lên lá cỏ",
+      "lieu_luong": "40ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không dùng trên lúa/bắp/mía",
+      "tránh gió tạt"
+    ],
+    "gia": {
+      "tu": 115000,
+      "den": 175000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp450",
+    "rule_key": "thuoc_tru_co | Cỏ chỉ, cỏ đuôi phụng, cỏ lồng vực mọc xen luống",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Khi cỏ 3-6 lá và đang xanh tốt"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "QUIZALOFOP-P-ETHYL 10EC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ hòa bản phát triển nhanh và tái sinh sau làm cỏ. Nhờ đó, cây được hỗ trợ trừ cỏ hòa bản trong cây trồng lá rộng, đặc biệt nên dùng ở thời điểm khi cỏ 3-6 lá và đang xanh tốt."
+  },
+  {
+    "product_id": "sp451",
+    "ten_san_pham": "FLUMIOXAZIN 51WG",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "flumioxazin": "51% w/w"
+    },
+    "quy_cach": "Gói 100g",
+    "cong_dung": [
+      "Trừ cỏ tiền nảy mầm và cỏ lá rộng trong vườn cây lâu năm"
+    ],
+    "trieu_chung": [
+      "Cỏ non mọc dày dưới tán vườn, cạnh tranh phân nước"
+    ],
+    "nguyen_nhan": [
+      "Hạt cỏ nảy mầm sau mưa",
+      "đất trống dưới tán"
+    ],
+    "doi_tuong_cay_trong": [
+      "Cây ăn trái",
+      "cao su",
+      "cà phê",
+      "đất không canh tác theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước khi cỏ mọc hoặc cỏ rất non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun đều mặt đất, tránh lá non cây trồng"
+    },
+    "an_toan_su_dung": [
+      "Không phun trúng thân xanh/lá non",
+      "tránh nước rửa trôi"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 200000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp451",
+    "rule_key": "thuoc_tru_co | Cỏ non mọc dày dưới tán vườn, cạnh tranh phân nước",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Trước khi cỏ mọc hoặc cỏ rất non"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "FLUMIOXAZIN 51WG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hạt cỏ nảy mầm sau mưa, đất trống dưới tán. Nhờ đó, cây được hỗ trợ trừ cỏ tiền nảy mầm và cỏ lá rộng trong vườn cây lâu năm, đặc biệt nên dùng ở thời điểm trước khi cỏ mọc hoặc cỏ rất non."
+  },
+  {
+    "product_id": "sp452",
+    "ten_san_pham": "CARFENTRAZONE-ETHYL 40DF",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "carfentrazone_ethyl": "40% w/w"
+    },
+    "quy_cach": "Gói 50g",
+    "cong_dung": [
+      "Trừ cỏ lá rộng tiếp xúc",
+      "làm cháy nhanh mô xanh của cỏ"
+    ],
+    "trieu_chung": [
+      "Cỏ lá rộng mọc trong vườn, cỏ non bị cháy sau phun"
+    ],
+    "nguyen_nhan": [
+      "Cỏ cạnh tranh dinh dưỡng và ánh sáng với cây trồng"
+    ],
+    "doi_tuong_cay_trong": [
+      "Vườn cây lâu năm",
+      "bờ ruộng",
+      "đất không canh tác theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ còn non và đang sinh trưởng"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun ướt đều lá cỏ, tránh cây trồng"
+    },
+    "an_toan_su_dung": [
+      "Thuốc tiếp xúc dễ gây cháy cây nếu dính lá",
+      "phun lúc ít gió"
+    ],
+    "gia": {
+      "tu": 95000,
+      "den": 150000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp452",
+    "rule_key": "thuoc_tru_co | Cỏ lá rộng mọc trong vườn, cỏ non bị cháy sau phun",
+    "dac_tinh_benh": [
+      "Tác động tiếp xúc",
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "CARFENTRAZONE-ETHYL 40DF phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh dinh dưỡng và ánh sáng với cây trồng. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng tiếp xúc, làm cháy nhanh mô xanh của cỏ, đặc biệt nên dùng ở thời điểm khi cỏ còn non và đang sinh trưởng."
+  },
+  {
+    "product_id": "sp453",
+    "ten_san_pham": "SAFLUFENACIL 70WG",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "saflufenacil": "70% w/w"
+    },
+    "quy_cach": "Gói 50g",
+    "cong_dung": [
+      "Trừ cỏ lá rộng khó trị",
+      "tác động tiếp xúc nhanh"
+    ],
+    "trieu_chung": [
+      "Cỏ lá rộng già, dây leo nhỏ, cỏ cháy nhanh sau phun"
+    ],
+    "nguyen_nhan": [
+      "Cỏ dại cạnh tranh mạnh ở đất trống/vườn lâu năm"
+    ],
+    "doi_tuong_cay_trong": [
+      "Cây lâu năm",
+      "đất không canh tác theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ đang sinh trưởng mạnh"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Dùng đúng liều nhãn; phun tránh cây trồng chính"
+    },
+    "an_toan_su_dung": [
+      "Không để dính lá/cành non",
+      "đọc kỹ nhãn về cây kế tiếp"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 200000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp453",
+    "rule_key": "thuoc_tru_co | Cỏ lá rộng già, dây leo nhỏ, cỏ cháy nhanh sau phun",
+    "dac_tinh_benh": [
+      "Tác động tiếp xúc",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "SAFLUFENACIL 70WG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại cạnh tranh mạnh ở đất trống/vườn lâu năm. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng khó trị, tác động tiếp xúc nhanh, đặc biệt nên dùng ở thời điểm khi cỏ đang sinh trưởng mạnh."
+  },
+  {
+    "product_id": "sp454",
+    "ten_san_pham": "GLYPHOSATE + GLUFOSINATE",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "glyphosate": "240g/lít",
+      "glufosinate_ammonium": "120g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ cỏ không chọn lọc",
+      "vừa cháy nhanh vừa tác động hệ thống"
+    ],
+    "trieu_chung": [
+      "Cỏ hỗn hợp mọc dày trong vườn, cỏ lâu năm khó trị"
+    ],
+    "nguyen_nhan": [
+      "Cỏ cạnh tranh nước và phân",
+      "có thân ngầm tái sinh"
+    ],
+    "doi_tuong_cay_trong": [
+      "Vườn cây lâu năm",
+      "đất trước gieo trồng theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ xanh tốt",
+      "không mưa sau phun"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 80-120ml/bình 16 lít; phun tránh cây trồng chính",
+      "lieu_luong": "120ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không để thuốc dính lá/cành xanh",
+      "bảo hộ đầy đủ"
+    ],
+    "gia": {
+      "tu": 145000,
+      "den": 220000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp454",
+    "rule_key": "thuoc_tru_co | Cỏ hỗn hợp mọc dày trong vườn, cỏ lâu năm khó trị",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Khi cỏ xanh tốt",
+      "không mưa sau phun"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "GLYPHOSATE + GLUFOSINATE phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ cạnh tranh nước và phân, có thân ngầm tái sinh. Nhờ đó, cây được hỗ trợ trừ cỏ không chọn lọc, vừa cháy nhanh vừa tác động hệ thống, đặc biệt nên dùng ở thời điểm khi cỏ xanh tốt, không mưa sau phun."
+  },
+  {
+    "product_id": "sp455",
+    "ten_san_pham": "MSMA 720SL",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "msma": "720g/lít"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Trừ một số cỏ hòa bản và cỏ lá rộng trong cây trồng theo nhãn"
+    ],
+    "trieu_chung": [
+      "Cỏ mọc xen luống, cạnh tranh dinh dưỡng"
+    ],
+    "nguyen_nhan": [
+      "Cỏ dại phát triển mạnh trong điều kiện đất ẩm"
+    ],
+    "doi_tuong_cay_trong": [
+      "Mía",
+      "bông",
+      "cỏ sân và đất không canh tác theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ còn non và cây trồng ở giai đoạn cho phép"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun tránh cây mẫn cảm"
+    },
+    "an_toan_su_dung": [
+      "Hoạt chất cần dùng đúng quy định",
+      "tránh ô nhiễm nguồn nước"
+    ],
+    "gia": {
+      "tu": 150000,
+      "den": 230000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp455",
+    "rule_key": "thuoc_tru_co | Cỏ mọc xen luống, cạnh tranh dinh dưỡng",
+    "dac_tinh_benh": [
+      "Phù hợp quản lý cỏ dại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Khi cỏ còn non và cây trồng ở giai đoạn cho phép"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "MSMA 720SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ dại phát triển mạnh trong điều kiện đất ẩm. Nhờ đó, cây được hỗ trợ trừ một số cỏ hòa bản và cỏ lá rộng trong cây trồng theo nhãn, đặc biệt nên dùng ở thời điểm khi cỏ còn non và cây trồng ở giai đoạn cho phép."
+  },
+  {
+    "product_id": "sp456",
+    "ten_san_pham": "DICAMBA 480SL",
+    "loai": "thuoc_tru_co",
+    "thanh_phan": {
+      "dicamba_dimethylamine_salt": "480g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Trừ cỏ lá rộng trong một số cây trồng và đất không canh tác theo nhãn"
+    ],
+    "trieu_chung": [
+      "Cỏ lá rộng mọc xen, cạnh tranh mạnh với cây trồng"
+    ],
+    "nguyen_nhan": [
+      "Cỏ lá rộng tái sinh và phát triển nhanh sau mưa"
+    ],
+    "doi_tuong_cay_trong": [
+      "Bắp",
+      "mía",
+      "đồng cỏ",
+      "đất không canh tác theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cỏ đang sinh trưởng mạnh"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Dùng đúng liều nhãn; phun khi ít gió để tránh bay hơi/tạt thuốc"
+    },
+    "an_toan_su_dung": [
+      "Rất dễ gây hại cây lá rộng mẫn cảm",
+      "tránh phun gần rau/cây ăn trái non"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 190000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp456",
+    "rule_key": "thuoc_tru_co | Cỏ lá rộng mọc xen, cạnh tranh mạnh với cây trồng",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Phù hợp quản lý cỏ dại"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Ruộng hoặc vườn có áp lực cỏ dại"
+    ],
+    "goi_y_phoi_hop": [
+      "Chất bám dính",
+      "Phân hữu cơ phục hồi đất sau xử lý cỏ"
+    ],
+    "ly_do_chuyen_gia": "DICAMBA 480SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cỏ lá rộng tái sinh và phát triển nhanh sau mưa. Nhờ đó, cây được hỗ trợ trừ cỏ lá rộng trong một số cây trồng và đất không canh tác theo nhãn, đặc biệt nên dùng ở thời điểm khi cỏ đang sinh trưởng mạnh."
+  }
+]

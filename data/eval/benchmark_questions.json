@@ -1,0 +1,110 @@
+[
+  {
+    "id": "q001",
+    "question": "Lúa bị rầy nâu, lá vàng từng chòm thì dùng thuốc gì?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q002",
+    "question": "Ruộng lúa bị đạo ôn, trên lá có vết cháy hình thoi nên xử lý bằng thuốc nào?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q003",
+    "question": "Lúa bị sâu cuốn lá làm lá bị cuộn lại và khô đầu lá thì nên phun thuốc gì?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q004",
+    "question": "Cây ăn trái bị vàng lá, rễ yếu sau mưa nhiều thì nên dùng sản phẩm nào để phục hồi?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q005",
+    "question": "Lúa bị lem lép hạt, hạt bị đen và chất lượng gạo kém thì dùng thuốc trừ bệnh nào?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q006",
+    "question": "Vườn có nhiều cỏ dại cạnh tranh dinh dưỡng với cây trồng thì nên dùng thuốc trừ cỏ gì?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q007",
+    "question": "Cây con bị thối rễ, chết rạp và đất có mùi yếm khí thì xử lý bằng sản phẩm nào?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q008",
+    "question": "Cây mới trồng cần kích rễ, phục hồi bộ rễ và bật chồi nhanh thì dùng phân bón nào?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q009",
+    "question": "Cây ra hoa kém, rụng hoa và rụng trái non thì nên bổ sung phân bón gì?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q010",
+    "question": "Cà chua bị thối đáy trái, ớt rụng hoa và trái dễ nứt thì dùng sản phẩm gì?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q011",
+    "question": "Rau màu bị bọ trĩ làm lá xoăn, bạc màu và đọt non biến dạng thì dùng thuốc nào?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q012",
+    "question": "Cây bị nấm bệnh sau mưa, vết bệnh lan nhanh trên lá và trái thì nên chọn thuốc trừ bệnh nào?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q013",
+    "question": "Đất bị chai cứng, rễ ít và cây hấp thu phân kém thì nên dùng phân cải tạo đất nào?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q014",
+    "question": "Lúa bị cỏ lồng vực và cỏ hòa bản trong ruộng thì dùng thuốc trừ cỏ nào phù hợp?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q015",
+    "question": "Cây bị stress sau hạn mặn hoặc sau khi phun thuốc quá liều thì nên dùng gì để phục hồi?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q016",
+    "question": "Trái cây đang nuôi trái nhưng trái nhạt, mềm và chất lượng thấp thì nên bổ sung phân gì?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q017",
+    "question": "Lúa bị bệnh bạc lá, cháy bìa lá và lan nhanh sau mưa thì dùng thuốc nào?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  },
+  {
+    "id": "q018",
+    "question": "Cây bị rệp sáp hoặc rệp mềm bám đọt non, lá xoăn và có mật ngọt thì nên dùng thuốc gì?",
+    "expected_keywords": [],
+    "expected_product_ids": []
+  }
+]

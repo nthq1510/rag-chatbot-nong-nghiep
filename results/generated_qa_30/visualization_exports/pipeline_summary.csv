@@ -1,0 +1,9 @@
+llm,embedding,pipeline,eval_file,total,passed,pass_rate,retrieval_hit_rate,answer_keyword_hit_rate,answer_product_name_hit_rate,pass_rate_pct,retrieval_hit_rate_pct,answer_keyword_hit_rate_pct,answer_product_name_hit_rate_pct
+qwen3_4b,bge_m3,qwen3_4b + bge_m3,eval_qwen3_4b__bge_m3.json,30,28,0.9333,0.9333,0.9667,0.9333,93.33,93.33,96.67,93.33
+qwen25_3b,bge_m3,qwen25_3b + bge_m3,eval_qwen25_3b__bge_m3.json,30,26,0.8667,0.9333,0.9,0.8667,86.67,93.33,90.0,86.67
+qwen3_4b,multilingual_e5_base,qwen3_4b + multilingual_e5_base,eval_qwen3_4b__multilingual_e5_base.json,30,22,0.7333,0.7333,0.9333,0.8333,73.33,73.33,93.33,83.33
+qwen25_3b,multilingual_e5_base,qwen25_3b + multilingual_e5_base,eval_qwen25_3b__multilingual_e5_base.json,30,20,0.6667,0.7333,0.8333,0.7333,66.67,73.33,83.33,73.33
+qwen3_4b,vietnamese_bi_encoder,qwen3_4b + vietnamese_bi_encoder,eval_qwen3_4b__vietnamese_bi_encoder.json,30,12,0.4,0.4,0.8,0.7667,40.0,40.0,80.0,76.67
+qwen25_3b,vietnamese_bi_encoder,qwen25_3b + vietnamese_bi_encoder,eval_qwen25_3b__vietnamese_bi_encoder.json,30,11,0.3667,0.4,0.8,0.7,36.67,40.0,80.0,70.0
+qwen25_3b,sup_simcse,qwen25_3b + sup_simcse,eval_qwen25_3b__sup_simcse.json,30,4,0.1333,0.1333,0.8667,0.7333,13.33,13.33,86.67,73.33
+qwen3_4b,sup_simcse,qwen3_4b + sup_simcse,eval_qwen3_4b__sup_simcse.json,30,4,0.1333,0.1333,0.8333,0.7667,13.33,13.33,83.33,76.67

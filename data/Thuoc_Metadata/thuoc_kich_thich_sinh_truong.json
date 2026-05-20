@@ -1,0 +1,3255 @@
+[
+  {
+    "product_id": "sp42",
+    "ten_san_pham": "GA3 10SP",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "gibberellic_acid_ga3": "10% w/w"
+    },
+    "quy_cach": "Gói 10g",
+    "cong_dung": [
+      "Kích thích kéo dài tế bào",
+      "tăng sinh trưởng",
+      "hỗ trợ ra hoa đậu trái tùy cây"
+    ],
+    "trieu_chung": [
+      "Cây chậm lớn, chồi ngắn, hoa nở không đồng đều"
+    ],
+    "nguyen_nhan": [
+      "Thiếu cân bằng hormone sinh trưởng hoặc điều kiện thời tiết bất lợi"
+    ],
+    "doi_tuong_cay_trong": [
+      "Nho",
+      "lúa giống",
+      "rau",
+      "hoa",
+      "cây ăn trái theo khuyến cáo"
+    ],
+    "thoi_diem_xu_ly": [
+      "Giai đoạn cần kích chồi",
+      "kéo gié",
+      "xử lý ra hoa tùy cây"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 1-2g/100 lít nước tùy mục đích; cần theo đúng khuyến cáo từng cây",
+      "lieu_luong": "2g/100 lít",
+      "luong_nuoc": "100 lít"
+    },
+    "an_toan_su_dung": [
+      "Dùng quá liều dễ làm cây vống, yếu",
+      "không pha tùy tiện"
+    ],
+    "gia": {
+      "tu": 25000,
+      "den": 45000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp42",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây chậm lớn, chồi ngắn, hoa nở không đồng đều",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Giai đoạn sinh trưởng mạnh",
+      "Trước ra hoa",
+      "Sau đậu trái"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "GA3 10SP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu cân bằng hormone sinh trưởng hoặc điều kiện thời tiết bất lợi. Nhờ đó, cây được hỗ trợ kích thích kéo dài tế bào, tăng sinh trưởng, hỗ trợ ra hoa đậu trái tùy cây, đặc biệt nên dùng ở thời điểm giai đoạn cần kích chồi, kéo gié, xử lý ra hoa tùy cây."
+  },
+  {
+    "product_id": "sp43",
+    "ten_san_pham": "NAA 1.8SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "alpha_naphthalene_acetic_acid_naa": "18g/lít"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Hạn chế rụng trái non",
+      "kích thích ra rễ",
+      "tăng đậu trái"
+    ],
+    "trieu_chung": [
+      "Trái non rụng nhiều, cành giâm khó ra rễ"
+    ],
+    "nguyen_nhan": [
+      "Mất cân bằng auxin",
+      "cây bị sốc sau đậu trái hoặc cành giâm chưa hình thành rễ"
+    ],
+    "doi_tuong_cay_trong": [
+      "Cây ăn trái",
+      "hoa kiểng",
+      "rau màu",
+      "cây giâm cành"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau đậu trái",
+      "khi giâm hom",
+      "giai đoạn cây cần phục hồi rễ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 5-10ml/bình 16 lít cho phun; xử lý hom theo nhãn",
+      "lieu_luong": "10ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Dùng sai liều có thể gây rụng lá, dị dạng trái",
+      "đọc kỹ hướng dẫn"
+    ],
+    "gia": {
+      "tu": 45000,
+      "den": 75000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp43",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Trái non rụng nhiều, cành giâm khó ra rễ",
+    "dac_tinh_benh": [
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau đậu trái",
+      "Sau thu hoạch, phục hồi cây",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện canh tác thông thường"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "NAA 1.8SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Mất cân bằng auxin, cây bị sốc sau đậu trái hoặc cành giâm chưa hình thành rễ. Nhờ đó, cây được hỗ trợ hạn chế rụng trái non, kích thích ra rễ, tăng đậu trái, đặc biệt nên dùng ở thời điểm sau đậu trái, khi giâm hom, giai đoạn cây cần phục hồi rễ."
+  },
+  {
+    "product_id": "sp44",
+    "ten_san_pham": "ATONIK 1.8SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "sodium_nitrophenolate_hon_hop": "1.8%"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Kích thích sinh trưởng",
+      "tăng trao đổi chất",
+      "phục hồi cây sau stress"
+    ],
+    "trieu_chung": [
+      "Cây chậm hồi phục, lá nhỏ, ra hoa kém đồng loạt"
+    ],
+    "nguyen_nhan": [
+      "Cây bị stress do thời tiết",
+      "sâu bệnh",
+      "ngộ độc hoặc thiếu dinh dưỡng"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa",
+      "rau màu",
+      "cây ăn trái",
+      "hoa",
+      "cây công nghiệp"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau cấy",
+      "sau trồng",
+      "trước ra hoa",
+      "sau khi cây bị stress"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 6-10ml/bình 16 lít; phun 1-2 lần cách 7 ngày",
+      "lieu_luong": "10ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không thay thế phân bón",
+      "không dùng quá liều vì dễ rối loạn sinh trưởng"
+    ],
+    "gia": {
+      "tu": 55000,
+      "den": 85000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp44",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây chậm hồi phục, lá nhỏ, ra hoa kém đồng loạt",
+    "dac_tinh_benh": [
+      "Phù hợp xử lý nhóm côn trùng gây hại",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh",
+      "Trước ra hoa",
+      "Sau thu hoạch, phục hồi cây"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "ATONIK 1.8SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây bị stress do thời tiết, sâu bệnh, ngộ độc hoặc thiếu dinh dưỡng. Nhờ đó, cây được hỗ trợ kích thích sinh trưởng, tăng trao đổi chất, phục hồi cây sau stress, đặc biệt nên dùng ở thời điểm sau cấy, sau trồng, trước ra hoa, sau khi cây bị stress."
+  },
+  {
+    "product_id": "sp45",
+    "ten_san_pham": "PACLOBUTRAZOL 15WP",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "paclobutrazol": "15% w/w"
+    },
+    "quy_cach": "Gói 100g",
+    "cong_dung": [
+      "Ức chế sinh trưởng thân lá",
+      "hỗ trợ phân hóa mầm hoa"
+    ],
+    "trieu_chung": [
+      "Cây quá tốt lá, khó ra hoa, ra đọt liên tục"
+    ],
+    "nguyen_nhan": [
+      "Dư đạm",
+      "cây sinh trưởng sinh dưỡng mạnh",
+      "chưa chuyển sang sinh sản"
+    ],
+    "doi_tuong_cay_trong": [
+      "Xoài",
+      "sầu riêng",
+      "nhãn",
+      "cây ăn trái theo kỹ thuật xử lý"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước giai đoạn xử lý ra hoa",
+      "khi cây đã đủ sức"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Liều phụ thuộc tuổi cây và đường kính tán; thường tưới quanh vùng rễ theo nhãn"
+    },
+    "an_toan_su_dung": [
+      "Không dùng cho cây yếu",
+      "dư liều gây suy cây kéo dài nhiều vụ"
+    ],
+    "gia": {
+      "tu": 70000,
+      "den": 120000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp45",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây quá tốt lá, khó ra hoa, ra đọt liên tục",
+    "dac_tinh_benh": [
+      "Có khả năng phòng ngừa và ức chế phát triển",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Giai đoạn sinh trưởng mạnh",
+      "Trước ra hoa"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất cần bổ sung Kali cho giai đoạn nuôi trái"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "PACLOBUTRAZOL 15WP phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Dư đạm, cây sinh trưởng sinh dưỡng mạnh, chưa chuyển sang sinh sản. Nhờ đó, cây được hỗ trợ ức chế sinh trưởng thân lá, hỗ trợ phân hóa mầm hoa, đặc biệt nên dùng ở thời điểm trước giai đoạn xử lý ra hoa, khi cây đã đủ sức."
+  },
+  {
+    "product_id": "sp46",
+    "ten_san_pham": "CYTOKININ 6-BA 2SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "6_benzylaminopurine_6_ba": "20g/lít"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Kích thích phân chia tế bào",
+      "bật chồi",
+      "tăng kích thước trái non"
+    ],
+    "trieu_chung": [
+      "Chồi ngủ khó bật, trái phát triển không đều, cành ít nhánh"
+    ],
+    "nguyen_nhan": [
+      "Thiếu cân bằng cytokinin hoặc cây suy sau thu hoạch"
+    ],
+    "doi_tuong_cay_trong": [
+      "Hoa kiểng",
+      "cây ăn trái",
+      "rau màu",
+      "vườn ươm"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau cắt tỉa",
+      "giai đoạn nuôi trái non",
+      "kích chồi"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 5-10ml/bình 16 lít; phun theo tán hoặc xử lý điểm",
+      "lieu_luong": "10ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Dùng đúng liều",
+      "không phun khi cây thiếu nước nặng"
+    ],
+    "gia": {
+      "tu": 80000,
+      "den": 130000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp46",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Chồi ngủ khó bật, trái phát triển không đều, cành ít nhánh",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Nuôi trái, củ hoặc hạt"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện canh tác thông thường"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "CYTOKININ 6-BA 2SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu cân bằng cytokinin hoặc cây suy sau thu hoạch. Nhờ đó, cây được hỗ trợ kích thích phân chia tế bào, bật chồi, tăng kích thước trái non, đặc biệt nên dùng ở thời điểm sau cắt tỉa, giai đoạn nuôi trái non, kích chồi."
+  },
+  {
+    "product_id": "sp47",
+    "ten_san_pham": "ETHREL 480SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "ethephon": "480g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Thúc chín đồng loạt",
+      "xử lý ra hoa một số cây",
+      "điều hòa sinh trưởng"
+    ],
+    "trieu_chung": [
+      "Trái chín không đều, ra hoa lệch vụ khó kiểm soát"
+    ],
+    "nguyen_nhan": [
+      "Cần điều chỉnh ethylene nội sinh để thúc đẩy quá trình chín/ra hoa"
+    ],
+    "doi_tuong_cay_trong": [
+      "Dứa",
+      "cao su",
+      "cà phê",
+      "một số cây ăn trái theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Giai đoạn xử lý chín hoặc xử lý ra hoa theo quy trình kỹ thuật"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn từng cây; không dùng tùy tiện vì liều rất nhạy"
+    },
+    "an_toan_su_dung": [
+      "Có tính acid",
+      "tránh dính da mắt",
+      "không pha với thuốc kiềm mạnh"
+    ],
+    "gia": {
+      "tu": 90000,
+      "den": 150000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp47",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Trái chín không đều, ra hoa lệch vụ khó kiểm soát",
+    "dac_tinh_benh": [
+      "Cần điều chỉnh ethylene nội sinh để thúc đẩy quá trình chín/ra hoa"
+    ],
+    "giai_doan_phu_hop": [
+      "Giai đoạn sinh trưởng mạnh",
+      "Trước ra hoa"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện canh tác thông thường"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "ETHREL 480SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cần điều chỉnh ethylene nội sinh để thúc đẩy quá trình chín/ra hoa. Nhờ đó, cây được hỗ trợ thúc chín đồng loạt, xử lý ra hoa một số cây, điều hòa sinh trưởng, đặc biệt nên dùng ở thời điểm giai đoạn xử lý chín hoặc xử lý ra hoa theo quy trình kỹ thuật."
+  },
+  {
+    "product_id": "sp96",
+    "ten_san_pham": "IBA KÍCH RỄ 98%",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "indole_3_butyric_acid_iba": "98%",
+      "dang_bot_ky_thuat_pha_loang": "dạng bột kỹ thuật pha loãng"
+    },
+    "quy_cach": "Gói 10g",
+    "cong_dung": [
+      "Kích thích ra rễ cho hom giâm",
+      "cây chiết",
+      "cây cấy mô"
+    ],
+    "trieu_chung": [
+      "Hom lâu ra rễ, tỷ lệ sống thấp, rễ ít và ngắn"
+    ],
+    "nguyen_nhan": [
+      "Thiếu auxin kích rễ hoặc điều kiện giâm chưa phù hợp"
+    ],
+    "doi_tuong_cay_trong": [
+      "Hoa kiểng",
+      "cây ăn trái",
+      "cây lâm nghiệp",
+      "vườn ươm"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước khi giâm hom",
+      "chiết cành hoặc phục hồi cây con"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha nồng độ thấp theo từng loại hom; nhúng nhanh gốc hom hoặc quét vào vết chiết"
+    },
+    "an_toan_su_dung": [
+      "Hoạt chất rất mạnh, phải cân đúng liều",
+      "tránh tiếp xúc trực tiếp da mắt"
+    ],
+    "gia": {
+      "tu": 45000,
+      "den": 80000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp96",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Hom lâu ra rễ, tỷ lệ sống thấp, rễ ít và ngắn",
+    "dac_tinh_benh": [
+      "Tác động tiếp xúc",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Sau thu hoạch, phục hồi cây"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện canh tác thông thường"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "IBA KÍCH RỄ 98% phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu auxin kích rễ hoặc điều kiện giâm chưa phù hợp. Nhờ đó, cây được hỗ trợ kích thích ra rễ cho hom giâm, cây chiết, cây cấy mô, đặc biệt nên dùng ở thời điểm trước khi giâm hom, chiết cành hoặc phục hồi cây con."
+  },
+  {
+    "product_id": "sp97",
+    "ten_san_pham": "BRASSINOLIDE 0.01SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "brassinolide": "0,01% w/v"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Tăng sức chống chịu",
+      "hỗ trợ quang hợp",
+      "cải thiện đậu trái và phục hồi stress"
+    ],
+    "trieu_chung": [
+      "Cây chậm lớn, lá nhỏ, hoa dễ rụng khi thời tiết bất lợi"
+    ],
+    "nguyen_nhan": [
+      "Cây bị stress nhiệt",
+      "hạn",
+      "mặn hoặc rối loạn hormone sinh trưởng"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa",
+      "rau màu",
+      "cây ăn trái",
+      "hoa",
+      "cây công nghiệp"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước ra hoa",
+      "sau đậu trái",
+      "sau stress thời tiết"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 5-8ml/bình 16 lít; phun 1-2 lần cách nhau 7-10 ngày",
+      "lieu_luong": "8ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không dùng quá liều",
+      "không thay thế phân bón và quản lý nước"
+    ],
+    "gia": {
+      "tu": 60000,
+      "den": 95000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp97",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây chậm lớn, lá nhỏ, hoa dễ rụng khi thời tiết bất lợi",
+    "dac_tinh_benh": [
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Trước ra hoa",
+      "Sau đậu trái",
+      "Sau thu hoạch, phục hồi cây",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "BRASSINOLIDE 0.01SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây bị stress nhiệt, hạn, mặn hoặc rối loạn hormone sinh trưởng. Nhờ đó, cây được hỗ trợ tăng sức chống chịu, hỗ trợ quang hợp, cải thiện đậu trái và phục hồi stress, đặc biệt nên dùng ở thời điểm trước ra hoa, sau đậu trái, sau stress thời tiết."
+  },
+  {
+    "product_id": "sp98",
+    "ten_san_pham": "CHITOSAN OLIGO 5SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "chitosan_oligosaccharide": "5%",
+      "acid_huu_co_sinh_hoc": "acid hữu cơ sinh học"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Kích kháng tự nhiên",
+      "tăng đề kháng nấm khuẩn",
+      "hỗ trợ phục hồi mô cây"
+    ],
+    "trieu_chung": [
+      "Cây dễ nhiễm bệnh sau mưa, vết thương lâu lành, lá yếu"
+    ],
+    "nguyen_nhan": [
+      "Sức đề kháng cây thấp",
+      "mô cây mềm",
+      "áp lực nấm khuẩn cao"
+    ],
+    "doi_tuong_cay_trong": [
+      "Rau màu",
+      "cây ăn trái",
+      "lúa",
+      "hoa",
+      "hồ tiêu"
+    ],
+    "thoi_diem_xu_ly": [
+      "Phun phòng trước mùa bệnh",
+      "sau mưa",
+      "sau cắt tỉa"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun đều tán cây",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không xem là thuốc trị bệnh nặng",
+      "phối hợp vệ sinh vườn và dinh dưỡng cân đối"
+    ],
+    "gia": {
+      "tu": 80000,
+      "den": 130000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp98",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây dễ nhiễm bệnh sau mưa, vết thương lâu lành, lá yếu",
+    "dac_tinh_benh": [
+      "Có khả năng phòng ngừa và ức chế phát triển",
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Tác động lên bệnh do nấm",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau thu hoạch, phục hồi cây",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ",
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Môi trường ẩm cao, dễ phát sinh nấm bệnh"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "CHITOSAN OLIGO 5SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Sức đề kháng cây thấp, mô cây mềm, áp lực nấm khuẩn cao. Nhờ đó, cây được hỗ trợ kích kháng tự nhiên, tăng đề kháng nấm khuẩn, hỗ trợ phục hồi mô cây, đặc biệt nên dùng ở thời điểm phun phòng trước mùa bệnh, sau mưa, sau cắt tỉa."
+  },
+  {
+    "product_id": "sp171",
+    "ten_san_pham": "GA4+7 1.8SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "gibberellin_ga47": "18g/lít"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Hỗ trợ tăng kích thước trái",
+      "kéo dài cuống",
+      "cải thiện mẫu mã một số cây"
+    ],
+    "trieu_chung": [
+      "Trái phát triển chậm, cuống ngắn, mẫu mã chưa đồng đều"
+    ],
+    "nguyen_nhan": [
+      "Thiếu cân bằng gibberellin trong giai đoạn phân chia và giãn tế bào"
+    ],
+    "doi_tuong_cay_trong": [
+      "Táo",
+      "lê",
+      "nho",
+      "cây ăn trái và hoa theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau đậu trái non hoặc giai đoạn cần tăng kích thước mô"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha nồng độ theo nhãn từng cây; thường dùng liều rất thấp, phun sương đều"
+    },
+    "an_toan_su_dung": [
+      "Dùng quá liều có thể làm dị dạng, vỏ dày hoặc chậm chín",
+      "thử diện nhỏ trước"
+    ],
+    "gia": {
+      "tu": 90000,
+      "den": 150000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp171",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Trái phát triển chậm, cuống ngắn, mẫu mã chưa đồng đều",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau đậu trái"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "GA4+7 1.8SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu cân bằng gibberellin trong giai đoạn phân chia và giãn tế bào. Nhờ đó, cây được hỗ trợ hỗ trợ tăng kích thước trái, kéo dài cuống, cải thiện mẫu mã một số cây, đặc biệt nên dùng ở thời điểm sau đậu trái non hoặc giai đoạn cần tăng kích thước mô."
+  },
+  {
+    "product_id": "sp172",
+    "ten_san_pham": "BRASSINOLIDE 0.01SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "brassinolide": "0,01%",
+      "phu_gia_sinh_hoc": "phụ gia sinh học"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Tăng sức chống chịu",
+      "hỗ trợ sinh trưởng và phục hồi sau stress"
+    ],
+    "trieu_chung": [
+      "Cây chậm lớn, lá mỏng, phục hồi kém sau rét/nắng/ngộ độc nhẹ"
+    ],
+    "nguyen_nhan": [
+      "Stress sinh lý làm giảm trao đổi chất và hoạt động quang hợp"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa",
+      "rau màu",
+      "cây ăn trái",
+      "hoa",
+      "cây công nghiệp"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau cấy",
+      "trước ra hoa",
+      "sau điều kiện bất lợi"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 5-10ml/bình 16 lít; phun 1-2 lần cách 7-10 ngày",
+      "lieu_luong": "10ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không xem là phân bón chính",
+      "không dùng quá liều khuyến cáo"
+    ],
+    "gia": {
+      "tu": 45000,
+      "den": 80000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp172",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây chậm lớn, lá mỏng, phục hồi kém sau rét/nắng/ngộ độc nhẹ",
+    "dac_tinh_benh": [
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Giai đoạn sinh trưởng mạnh",
+      "Trước ra hoa",
+      "Sau thu hoạch, phục hồi cây"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "BRASSINOLIDE 0.01SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Stress sinh lý làm giảm trao đổi chất và hoạt động quang hợp. Nhờ đó, cây được hỗ trợ tăng sức chống chịu, hỗ trợ sinh trưởng và phục hồi sau stress, đặc biệt nên dùng ở thời điểm sau cấy, trước ra hoa, sau điều kiện bất lợi."
+  },
+  {
+    "product_id": "sp173",
+    "ten_san_pham": "TRIACONTANOL 0.1SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "triacontanol": "0,1%",
+      "dung_moi_sinh_hoc": "dung môi sinh học"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Kích thích quang hợp",
+      "tăng sinh trưởng",
+      "hỗ trợ tăng năng suất"
+    ],
+    "trieu_chung": [
+      "Cây kém xanh, sinh trưởng chậm, ra hoa hoặc đẻ nhánh kém"
+    ],
+    "nguyen_nhan": [
+      "Hoạt động quang hợp thấp do thời tiết xấu hoặc cây thiếu sức"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa",
+      "rau màu",
+      "cây ăn trái",
+      "hoa",
+      "chè"
+    ],
+    "thoi_diem_xu_ly": [
+      "Giai đoạn sinh trưởng mạnh",
+      "trước ra hoa",
+      "sau khi cây phục hồi"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 5-8ml/bình 16 lít; phun vào sáng sớm hoặc chiều mát",
+      "lieu_luong": "8ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không pha với thuốc kiềm mạnh",
+      "tránh lạm dụng gây rối loạn sinh trưởng"
+    ],
+    "gia": {
+      "tu": 40000,
+      "den": 70000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp173",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây kém xanh, sinh trưởng chậm, ra hoa hoặc đẻ nhánh kém",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh",
+      "Trước ra hoa",
+      "Sau thu hoạch, phục hồi cây"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện canh tác thông thường"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "TRIACONTANOL 0.1SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hoạt động quang hợp thấp do thời tiết xấu hoặc cây thiếu sức. Nhờ đó, cây được hỗ trợ kích thích quang hợp, tăng sinh trưởng, hỗ trợ tăng năng suất, đặc biệt nên dùng ở thời điểm giai đoạn sinh trưởng mạnh, trước ra hoa, sau khi cây phục hồi."
+  },
+  {
+    "product_id": "sp174",
+    "ten_san_pham": "CHITOSAN OLIGO 3SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "chitosan_oligosaccharide": "30g/lít",
+      "acid_huu_co": "acid hữu cơ"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Kích hoạt đề kháng tự nhiên",
+      "tăng rễ và giảm stress"
+    ],
+    "trieu_chung": [
+      "Cây dễ nhiễm bệnh, rễ yếu, lá mỏng, phục hồi chậm"
+    ],
+    "nguyen_nhan": [
+      "Cây thiếu sức đề kháng hoặc chịu áp lực bệnh trong mùa mưa"
+    ],
+    "doi_tuong_cay_trong": [
+      "Rau màu",
+      "cây ăn trái",
+      "lúa",
+      "hoa",
+      "cây công nghiệp"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước mùa bệnh",
+      "sau trồng",
+      "sau mưa dầm"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun hoặc tưới gốc định kỳ 7-10 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không pha với chất oxy hóa mạnh",
+      "bảo quản tránh ánh nắng trực tiếp"
+    ],
+    "gia": {
+      "tu": 95000,
+      "den": 145000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp174",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây dễ nhiễm bệnh, rễ yếu, lá mỏng, phục hồi chậm",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Sau thu hoạch, phục hồi cây",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "CHITOSAN OLIGO 3SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây thiếu sức đề kháng hoặc chịu áp lực bệnh trong mùa mưa. Nhờ đó, cây được hỗ trợ kích hoạt đề kháng tự nhiên, tăng rễ và giảm stress, đặc biệt nên dùng ở thời điểm trước mùa bệnh, sau trồng, sau mưa dầm."
+  },
+  {
+    "product_id": "sp175",
+    "ten_san_pham": "AUXIN IBA KÍCH RỄ",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "indole_3_butyric_acid_iba": "0,4%",
+      "phu_gia_tham": "phụ gia thấm"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Kích thích ra rễ hom",
+      "rễ tơ",
+      "tăng tỷ lệ sống cây giống"
+    ],
+    "trieu_chung": [
+      "Cành giâm lâu ra rễ, cây mới trồng héo, rễ ít"
+    ],
+    "nguyen_nhan": [
+      "Mô cây thiếu auxin tại vị trí hình thành rễ hoặc môi trường giâm chưa phù hợp"
+    ],
+    "doi_tuong_cay_trong": [
+      "Hoa kiểng",
+      "cây ăn trái giâm cành",
+      "vườn ươm",
+      "cây giống"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước khi giâm hom",
+      "sau sang chậu",
+      "sau trồng"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Nhúng hom theo nồng độ nhãn; tưới gốc 5-10ml/bình 16 lít khi cần",
+      "lieu_luong": "10ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Dùng đúng nồng độ",
+      "quá liều có thể làm chai mô, thối hom"
+    ],
+    "gia": {
+      "tu": 55000,
+      "den": 90000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp175",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cành giâm lâu ra rễ, cây mới trồng héo, rễ ít",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện canh tác thông thường"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "AUXIN IBA KÍCH RỄ phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Mô cây thiếu auxin tại vị trí hình thành rễ hoặc môi trường giâm chưa phù hợp. Nhờ đó, cây được hỗ trợ kích thích ra rễ hom, rễ tơ, tăng tỷ lệ sống cây giống, đặc biệt nên dùng ở thời điểm trước khi giâm hom, sau sang chậu, sau trồng."
+  },
+  {
+    "product_id": "sp176",
+    "ten_san_pham": "PHÂN BÓN LÁ KÍCH MẦM HOA",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "paclobutrazol_thap_lieu": "Paclobutrazol thấp liều",
+      "p2o5": "20%",
+      "k2o": "20%",
+      "bo_zn": "Bo, Zn"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Hỗ trợ cây chuyển sang pha sinh sản",
+      "kích phân hóa mầm hoa"
+    ],
+    "trieu_chung": [
+      "Cây ra đọt liên tục, ít nụ, ra hoa không đồng loạt"
+    ],
+    "nguyen_nhan": [
+      "Sinh trưởng thân lá quá mạnh hoặc tỷ lệ C/N chưa phù hợp"
+    ],
+    "doi_tuong_cay_trong": [
+      "Xoài",
+      "nhãn",
+      "cây ăn trái theo quy trình kỹ thuật"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi cây đã đủ tuổi lá",
+      "trước xử lý ra hoa"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha và dùng theo nhãn từng cây; thường kết hợp xiết nước/bón phân phù hợp"
+    },
+    "an_toan_su_dung": [
+      "Không dùng cho cây suy",
+      "hoạt chất điều hòa sinh trưởng cần kiểm soát liều chặt"
+    ],
+    "gia": {
+      "tu": 95000,
+      "den": 150000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp176",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây ra đọt liên tục, ít nụ, ra hoa không đồng loạt",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Trước ra hoa"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Đất cần bổ sung Kali cho giai đoạn nuôi trái"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "PHÂN BÓN LÁ KÍCH MẦM HOA phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Sinh trưởng thân lá quá mạnh hoặc tỷ lệ C/N chưa phù hợp. Nhờ đó, cây được hỗ trợ hỗ trợ cây chuyển sang pha sinh sản, kích phân hóa mầm hoa, đặc biệt nên dùng ở thời điểm khi cây đã đủ tuổi lá, trước xử lý ra hoa."
+  },
+  {
+    "product_id": "sp177",
+    "ten_san_pham": "ANTI-STRESS SEAWEED PLUS",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "chiet_xuat_rong_bien": "25%",
+      "betaine": "3%",
+      "amino_acid": "8%",
+      "k2o": "5%"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Giảm rụng hoa trái do sốc thời tiết",
+      "tăng sức chống chịu"
+    ],
+    "trieu_chung": [
+      "Hoa dễ rụng sau mưa nắng thất thường, lá héo nhẹ, cây mất sức"
+    ],
+    "nguyen_nhan": [
+      "Stress nhiệt",
+      "thiếu nước tạm thời hoặc sốc sau phun thuốc"
+    ],
+    "doi_tuong_cay_trong": [
+      "Cây ăn trái",
+      "rau màu",
+      "hoa",
+      "lúa",
+      "cà phê"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước/sau đợt nắng nóng",
+      "mưa dầm",
+      "trước ra hoa"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun 2 lần cách 5-7 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun giữa trưa",
+      "không phối với thuốc có tính kiềm mạnh"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 190000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp177",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Hoa dễ rụng sau mưa nắng thất thường, lá héo nhẹ, cây mất sức",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Trước ra hoa",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ",
+      "Đất cần bổ sung Kali cho giai đoạn nuôi trái",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "ANTI-STRESS SEAWEED PLUS phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Stress nhiệt, thiếu nước tạm thời hoặc sốc sau phun thuốc. Nhờ đó, cây được hỗ trợ giảm rụng hoa trái do sốc thời tiết, tăng sức chống chịu, đặc biệt nên dùng ở thời điểm trước/sau đợt nắng nóng, mưa dầm, trước ra hoa."
+  },
+  {
+    "product_id": "sp178",
+    "ten_san_pham": "KÍCH CHỒI CYTOKININ AMINO",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "cytokinin_tu_nhien": "Cytokinin tự nhiên",
+      "amino_acid": "10%",
+      "rong_bien": "rong biển",
+      "vitamin_b1": "vitamin B1"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Kích bật chồi",
+      "phục hồi tán",
+      "tăng số cành hữu hiệu"
+    ],
+    "trieu_chung": [
+      "Cây ít chồi, đọt ngủ không bật, tán thưa sau thu hoạch"
+    ],
+    "nguyen_nhan": [
+      "Cây thiếu hormone kích chồi hoặc suy sau giai đoạn mang trái"
+    ],
+    "doi_tuong_cay_trong": [
+      "Sầu riêng",
+      "xoài",
+      "cà phê",
+      "hồ tiêu",
+      "hoa kiểng"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau thu hoạch",
+      "sau cắt tỉa",
+      "khi cần ra đọt đồng loạt"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun 2 lần cách 7 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Cần kết hợp dinh dưỡng gốc",
+      "không kích chồi khi cây đang suy kiệt nặng"
+    ],
+    "gia": {
+      "tu": 85000,
+      "den": 130000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp178",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây ít chồi, đọt ngủ không bật, tán thưa sau thu hoạch",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau thu hoạch, phục hồi cây"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ",
+      "Đất thiếu vi lượng"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "KÍCH CHỒI CYTOKININ AMINO phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây thiếu hormone kích chồi hoặc suy sau giai đoạn mang trái. Nhờ đó, cây được hỗ trợ kích bật chồi, phục hồi tán, tăng số cành hữu hiệu, đặc biệt nên dùng ở thời điểm sau thu hoạch, sau cắt tỉa, khi cần ra đọt đồng loạt."
+  },
+  {
+    "product_id": "sp179",
+    "ten_san_pham": "CHỐNG RỤNG HOA TRÁI NAA + BO",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "naa": "1%",
+      "bo": "3%",
+      "zn": "2%",
+      "amino_acid": "amino acid"
+    },
+    "quy_cach": "Chai 250ml",
+    "cong_dung": [
+      "Giảm rụng sinh lý",
+      "tăng đậu trái và giữ cuống trái"
+    ],
+    "trieu_chung": [
+      "Hoa và trái non rụng nhiều, cuống trái vàng, trái non yếu"
+    ],
+    "nguyen_nhan": [
+      "Mất cân bằng auxin",
+      "thiếu Bo-Kẽm hoặc cây bị stress sau đậu trái"
+    ],
+    "doi_tuong_cay_trong": [
+      "Xoài",
+      "nhãn",
+      "vải",
+      "cam quýt",
+      "cà phê",
+      "rau ăn trái"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước hoa nở",
+      "sau đậu trái 7-10 ngày"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 10-15ml/bình 16 lít; phun sương đều lên tán và chùm hoa/trái",
+      "lieu_luong": "15ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun quá liều vì auxin có thể gây phản tác dụng",
+      "tránh nắng gắt"
+    ],
+    "gia": {
+      "tu": 65000,
+      "den": 105000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp179",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Hoa và trái non rụng nhiều, cuống trái vàng, trái non yếu",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau đậu trái"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "CHỐNG RỤNG HOA TRÁI NAA + BO phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Mất cân bằng auxin, thiếu Bo-Kẽm hoặc cây bị stress sau đậu trái. Nhờ đó, cây được hỗ trợ giảm rụng sinh lý, tăng đậu trái và giữ cuống trái, đặc biệt nên dùng ở thời điểm trước hoa nở, sau đậu trái 7-10 ngày."
+  },
+  {
+    "product_id": "sp180",
+    "ten_san_pham": "KÍCH THÍCH RA RỄ B1 + HUMIC",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "vitamin_b1": "0,5%",
+      "humic": "5%",
+      "naa_thap_lieu": "NAA thấp liều",
+      "amino_acid": "amino acid"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Kích rễ",
+      "giảm sốc sau trồng",
+      "tăng khả năng hấp thu dinh dưỡng"
+    ],
+    "trieu_chung": [
+      "Cây mới trồng héo, chậm ra rễ, lá vàng nhẹ"
+    ],
+    "nguyen_nhan": [
+      "Rễ bị tổn thương khi bứng trồng hoặc đất chưa tơi xốp"
+    ],
+    "doi_tuong_cay_trong": [
+      "Cây giống",
+      "rau màu",
+      "hoa",
+      "cây ăn trái",
+      "cây cảnh"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau trồng",
+      "sau thay chậu",
+      "sau úng nước hoặc sau cắt rễ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 30-50ml/bình 16 lít tưới gốc; lặp lại sau 7 ngày",
+      "lieu_luong": "50ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không tưới quá đậm vào rễ non",
+      "giữ ẩm vừa phải, tránh úng"
+    ],
+    "gia": {
+      "tu": 90000,
+      "den": 140000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp180",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây mới trồng héo, chậm ra rễ, lá vàng nhẹ",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "KÍCH THÍCH RA RỄ B1 + HUMIC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rễ bị tổn thương khi bứng trồng hoặc đất chưa tơi xốp. Nhờ đó, cây được hỗ trợ kích rễ, giảm sốc sau trồng, tăng khả năng hấp thu dinh dưỡng, đặc biệt nên dùng ở thời điểm sau trồng, sau thay chậu, sau úng nước hoặc sau cắt rễ."
+  },
+  {
+    "product_id": "sp271",
+    "ten_san_pham": "GA3 20TB",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "gibberellic_acid_ga3": "20%",
+      "dang_vien_bot_tan": "dạng viên/bột tan"
+    },
+    "quy_cach": "Gói 10g",
+    "cong_dung": [
+      "Kích thích kéo dài tế bào",
+      "hỗ trợ vươn chồi",
+      "kéo gié hoặc tăng kích thước tùy cây"
+    ],
+    "trieu_chung": [
+      "Chồi ngắn, gié/bông phát triển kém, sinh trưởng chậm"
+    ],
+    "nguyen_nhan": [
+      "Thiếu cân bằng gibberellin hoặc điều kiện thời tiết hạn chế sinh trưởng"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa giống",
+      "nho",
+      "rau",
+      "hoa",
+      "cây ăn trái theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Giai đoạn cần kéo dài mô hoặc xử lý chuyên biệt theo quy trình"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha nồng độ rất thấp theo nhãn từng cây; phun sương đều"
+    },
+    "an_toan_su_dung": [
+      "Quá liều dễ làm cây vống yếu, dị dạng",
+      "không dùng tùy tiện"
+    ],
+    "gia": {
+      "tu": 35000,
+      "den": 60000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp271",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Chồi ngắn, gié/bông phát triển kém, sinh trưởng chậm",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "GA3 20TB phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu cân bằng gibberellin hoặc điều kiện thời tiết hạn chế sinh trưởng. Nhờ đó, cây được hỗ trợ kích thích kéo dài tế bào, hỗ trợ vươn chồi, kéo gié hoặc tăng kích thước tùy cây, đặc biệt nên dùng ở thời điểm giai đoạn cần kéo dài mô hoặc xử lý chuyên biệt theo quy trình."
+  },
+  {
+    "product_id": "sp272",
+    "ten_san_pham": "NAA 4.5SL CHỐNG RỤNG",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "alpha_naphthalene_acetic_acid_naa": "45g/lít"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Hạn chế rụng sinh lý",
+      "hỗ trợ giữ trái non và kích thích ra rễ ở liều phù hợp"
+    ],
+    "trieu_chung": [
+      "Trái non rụng nhiều, cuống vàng, cành giâm khó ra rễ"
+    ],
+    "nguyen_nhan": [
+      "Mất cân bằng auxin",
+      "cây sốc sau đậu trái hoặc mô giâm chưa hình thành rễ"
+    ],
+    "doi_tuong_cay_trong": [
+      "Xoài",
+      "cam quýt",
+      "nhãn",
+      "hoa kiểng",
+      "cây giống"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau đậu trái non hoặc khi xử lý hom giống"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; thường dùng liều thấp, phun sương đều hoặc nhúng hom"
+    },
+    "an_toan_su_dung": [
+      "NAA rất nhạy liều",
+      "dùng quá liều có thể gây rụng lá/trái"
+    ],
+    "gia": {
+      "tu": 55000,
+      "den": 90000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp272",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Trái non rụng nhiều, cuống vàng, cành giâm khó ra rễ",
+    "dac_tinh_benh": [
+      "Mất cân bằng auxin",
+      "cây sốc sau đậu trái hoặc mô giâm chưa hình thành rễ"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau đậu trái",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "NAA 4.5SL CHỐNG RỤNG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Mất cân bằng auxin, cây sốc sau đậu trái hoặc mô giâm chưa hình thành rễ. Nhờ đó, cây được hỗ trợ hạn chế rụng sinh lý, hỗ trợ giữ trái non và kích thích ra rễ ở liều phù hợp, đặc biệt nên dùng ở thời điểm sau đậu trái non hoặc khi xử lý hom giống."
+  },
+  {
+    "product_id": "sp273",
+    "ten_san_pham": "IBA + NAA ROOTING GEL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "iba": "0,3%",
+      "naa": "0,1%",
+      "nen_gel_bam_dinh": "nền gel bám dính"
+    },
+    "quy_cach": "Hũ 100g",
+    "cong_dung": [
+      "Kích thích ra rễ hom giâm",
+      "tăng tỷ lệ sống cây giống"
+    ],
+    "trieu_chung": [
+      "Hom lâu ra rễ, gốc hom bị chai, cây giống yếu"
+    ],
+    "nguyen_nhan": [
+      "Thiếu hormone tạo rễ tại vết cắt hoặc điều kiện giâm chưa tối ưu"
+    ],
+    "doi_tuong_cay_trong": [
+      "Hoa kiểng",
+      "cây ăn trái nhân giống",
+      "cây cảnh",
+      "vườn ươm"
+    ],
+    "thoi_diem_xu_ly": [
+      "Ngay trước khi giâm hom hoặc sau cắt cành giống"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Nhúng gốc hom vào gel 1-2cm rồi cắm vào giá thể sạch ẩm"
+    },
+    "an_toan_su_dung": [
+      "Không bôi quá nhiều gây thối hom",
+      "giữ giá thể thoáng và sạch bệnh"
+    ],
+    "gia": {
+      "tu": 80000,
+      "den": 130000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp273",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Hom lâu ra rễ, gốc hom bị chai, cây giống yếu",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Ngay trước khi giâm hom hoặc sau cắt cành giống"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "IBA + NAA ROOTING GEL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu hormone tạo rễ tại vết cắt hoặc điều kiện giâm chưa tối ưu. Nhờ đó, cây được hỗ trợ kích thích ra rễ hom giâm, tăng tỷ lệ sống cây giống, đặc biệt nên dùng ở thời điểm ngay trước khi giâm hom hoặc sau cắt cành giống."
+  },
+  {
+    "product_id": "sp274",
+    "ten_san_pham": "6-BA KÍCH CHỒI 5SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "6_benzylaminopurine_6_ba": "50g/lít"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Kích thích bật chồi",
+      "tăng phân cành và hỗ trợ phát triển trái non"
+    ],
+    "trieu_chung": [
+      "Mắt ngủ khó bật, tán thưa, chồi non phát triển kém"
+    ],
+    "nguyen_nhan": [
+      "Thiếu cytokinin hoặc cây suy sau thu hoạch/cắt tỉa"
+    ],
+    "doi_tuong_cay_trong": [
+      "Hoa lan",
+      "cây cảnh",
+      "cây ăn trái",
+      "vườn ươm"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau cắt tỉa",
+      "sau thu hoạch hoặc xử lý bật chồi"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun hoặc quét điểm ở vị trí cần bật chồi"
+    },
+    "an_toan_su_dung": [
+      "Dùng quá liều có thể làm chồi dị dạng",
+      "thử trên diện nhỏ trước"
+    ],
+    "gia": {
+      "tu": 110000,
+      "den": 170000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp274",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Mắt ngủ khó bật, tán thưa, chồi non phát triển kém",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau thu hoạch, phục hồi cây"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện canh tác thông thường"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "6-BA KÍCH CHỒI 5SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu cytokinin hoặc cây suy sau thu hoạch/cắt tỉa. Nhờ đó, cây được hỗ trợ kích thích bật chồi, tăng phân cành và hỗ trợ phát triển trái non, đặc biệt nên dùng ở thời điểm sau cắt tỉa, sau thu hoạch hoặc xử lý bật chồi."
+  },
+  {
+    "product_id": "sp275",
+    "ten_san_pham": "FORCHLORFENURON CPPU 1SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "forchlorfenuron_cppu": "10g/lít"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Hỗ trợ tăng kích thước trái ở một số cây khi dùng đúng kỹ thuật"
+    ],
+    "trieu_chung": [
+      "Trái nhỏ, kích thước không đồng đều, tỷ lệ trái loại 1 thấp"
+    ],
+    "nguyen_nhan": [
+      "Giai đoạn phân chia tế bào trái chưa tối ưu hoặc cây thiếu sức nuôi trái"
+    ],
+    "doi_tuong_cay_trong": [
+      "Nho",
+      "kiwi",
+      "dưa",
+      "cây ăn trái theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Ngay sau đậu trái non theo quy trình từng cây"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha nồng độ rất thấp theo nhãn; xử lý chùm/trái đúng thời điểm"
+    },
+    "an_toan_su_dung": [
+      "Rất nhạy liều",
+      "quá liều có thể làm dị dạng, giảm phẩm chất trái"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 210000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp275",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Trái nhỏ, kích thước không đồng đều, tỷ lệ trái loại 1 thấp",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau đậu trái"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "FORCHLORFENURON CPPU 1SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Giai đoạn phân chia tế bào trái chưa tối ưu hoặc cây thiếu sức nuôi trái. Nhờ đó, cây được hỗ trợ hỗ trợ tăng kích thước trái ở một số cây khi dùng đúng kỹ thuật, đặc biệt nên dùng ở thời điểm ngay sau đậu trái non theo quy trình từng cây."
+  },
+  {
+    "product_id": "sp276",
+    "ten_san_pham": "PACLOBUTRAZOL 25SC",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "paclobutrazol": "250g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Ức chế sinh trưởng thân lá",
+      "hỗ trợ phân hóa mầm hoa cho cây ăn trái"
+    ],
+    "trieu_chung": [
+      "Cây ra đọt liên tục, khó ra hoa, tán quá sung"
+    ],
+    "nguyen_nhan": [
+      "Dư đạm",
+      "cây sinh trưởng sinh dưỡng mạnh và chưa chuyển sang pha sinh sản"
+    ],
+    "doi_tuong_cay_trong": [
+      "Xoài",
+      "nhãn",
+      "sầu riêng theo quy trình kỹ thuật"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi lá đã già",
+      "cây đủ sức và chuẩn bị xử lý ra hoa"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Tưới quanh vùng rễ theo đường kính tán và hướng dẫn nhãn"
+    },
+    "an_toan_su_dung": [
+      "Không dùng cho cây suy",
+      "dư liều gây chậm sinh trưởng nhiều vụ"
+    ],
+    "gia": {
+      "tu": 150000,
+      "den": 240000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp276",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây ra đọt liên tục, khó ra hoa, tán quá sung",
+    "dac_tinh_benh": [
+      "Có khả năng phòng ngừa và ức chế phát triển",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Giai đoạn sinh trưởng mạnh",
+      "Trước ra hoa"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất cần bổ sung Kali cho giai đoạn nuôi trái"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "PACLOBUTRAZOL 25SC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Dư đạm, cây sinh trưởng sinh dưỡng mạnh và chưa chuyển sang pha sinh sản. Nhờ đó, cây được hỗ trợ ức chế sinh trưởng thân lá, hỗ trợ phân hóa mầm hoa cho cây ăn trái, đặc biệt nên dùng ở thời điểm khi lá đã già, cây đủ sức và chuẩn bị xử lý ra hoa."
+  },
+  {
+    "product_id": "sp277",
+    "ten_san_pham": "MEPIQUAT CHLORIDE 25SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "mepiquat_chloride": "250g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Hạn chế vươn thân",
+      "giúp cây cân đối sinh trưởng và tập trung sinh sản"
+    ],
+    "trieu_chung": [
+      "Cây vống cao, thân mềm, ít hoa/quả hữu hiệu"
+    ],
+    "nguyen_nhan": [
+      "Dư đạm hoặc mật độ dày làm cây phát triển thân lá quá mạnh"
+    ],
+    "doi_tuong_cay_trong": [
+      "Bông",
+      "lạc",
+      "đậu",
+      "một số rau màu theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Giai đoạn sinh trưởng mạnh trước ra hoa/quả"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn từng cây; phun đều tán khi cây đang phát triển mạnh"
+    },
+    "an_toan_su_dung": [
+      "Không dùng khi cây suy hoặc thiếu nước",
+      "quá liều làm cây lùn quá mức"
+    ],
+    "gia": {
+      "tu": 95000,
+      "den": 150000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp277",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây vống cao, thân mềm, ít hoa/quả hữu hiệu",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh",
+      "Trước ra hoa",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "MEPIQUAT CHLORIDE 25SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Dư đạm hoặc mật độ dày làm cây phát triển thân lá quá mạnh. Nhờ đó, cây được hỗ trợ hạn chế vươn thân, giúp cây cân đối sinh trưởng và tập trung sinh sản, đặc biệt nên dùng ở thời điểm giai đoạn sinh trưởng mạnh trước ra hoa/quả."
+  },
+  {
+    "product_id": "sp278",
+    "ten_san_pham": "CHLORMEQUAT CHLORIDE 60SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "chlormequat_chloride": "600g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Điều hòa sinh trưởng",
+      "hạn chế vươn lóng",
+      "tăng độ cứng cây"
+    ],
+    "trieu_chung": [
+      "Cây cao vống, thân yếu, dễ đổ ngã"
+    ],
+    "nguyen_nhan": [
+      "Sinh trưởng thân lá quá mạnh do thừa đạm hoặc thiếu ánh sáng"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa",
+      "hoa",
+      "cây cảnh",
+      "một số cây trồng theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Giai đoạn cây sinh trưởng mạnh nhưng chưa ra hoa rộ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn; phun đều, tránh chồng lối"
+    },
+    "an_toan_su_dung": [
+      "Không dùng quá liều",
+      "không phun khi cây đang stress hạn/nóng"
+    ],
+    "gia": {
+      "tu": 85000,
+      "den": 135000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp278",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây cao vống, thân yếu, dễ đổ ngã",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh",
+      "Trước ra hoa",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "CHLORMEQUAT CHLORIDE 60SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Sinh trưởng thân lá quá mạnh do thừa đạm hoặc thiếu ánh sáng. Nhờ đó, cây được hỗ trợ điều hòa sinh trưởng, hạn chế vươn lóng, tăng độ cứng cây, đặc biệt nên dùng ở thời điểm giai đoạn cây sinh trưởng mạnh nhưng chưa ra hoa rộ."
+  },
+  {
+    "product_id": "sp279",
+    "ten_san_pham": "SALICYLIC ACID ĐỀ KHÁNG",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "salicylic_acid": "2%",
+      "amino_acid": "5%",
+      "vi_luong": "vi lượng"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Kích hoạt đề kháng",
+      "giúp cây chống chịu stress và áp lực bệnh"
+    ],
+    "trieu_chung": [
+      "Cây dễ nhiễm bệnh, lá mỏng, phục hồi kém sau mưa"
+    ],
+    "nguyen_nhan": [
+      "Cây giảm sức đề kháng do stress",
+      "thiếu dinh dưỡng hoặc thời tiết bất lợi"
+    ],
+    "doi_tuong_cay_trong": [
+      "Rau màu",
+      "cây ăn trái",
+      "lúa",
+      "hoa",
+      "cà phê"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước mùa bệnh",
+      "sau mưa",
+      "sau phun thuốc"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun định kỳ 7-10 ngày/lần",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không thay thuốc đặc trị khi bệnh nặng",
+      "tránh pha chất kiềm mạnh"
+    ],
+    "gia": {
+      "tu": 90000,
+      "den": 140000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp279",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây dễ nhiễm bệnh, lá mỏng, phục hồi kém sau mưa",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau thu hoạch, phục hồi cây",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "SALICYLIC ACID ĐỀ KHÁNG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây giảm sức đề kháng do stress, thiếu dinh dưỡng hoặc thời tiết bất lợi. Nhờ đó, cây được hỗ trợ kích hoạt đề kháng, giúp cây chống chịu stress và áp lực bệnh, đặc biệt nên dùng ở thời điểm trước mùa bệnh, sau mưa, sau phun thuốc."
+  },
+  {
+    "product_id": "sp280",
+    "ten_san_pham": "KELP EXTRACT KÍCH RỄ CHỒI",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "chiet_xuat_rong_bien_kelp": "30%",
+      "cytokinin_tu_nhien": "cytokinin tự nhiên",
+      "k2o": "6%"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Kích rễ",
+      "bật chồi",
+      "tăng sức chống chịu và giảm sốc sinh lý"
+    ],
+    "trieu_chung": [
+      "Cây đứng đọt, rễ yếu, lá non ra chậm"
+    ],
+    "nguyen_nhan": [
+      "Stress sau trồng",
+      "thiếu hormone tự nhiên hoặc rễ hoạt động kém"
+    ],
+    "doi_tuong_cay_trong": [
+      "Rau màu",
+      "cây ăn trái",
+      "hoa",
+      "cây giống",
+      "thủy canh"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau trồng",
+      "sau thu hoạch",
+      "sau thời tiết bất lợi"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-40ml/bình 16 lít; tưới gốc 100ml/phuy 200 lít",
+      "lieu_luong": "40ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không pha với sản phẩm oxy hóa mạnh",
+      "bảo quản tránh nắng"
+    ],
+    "gia": {
+      "tu": 150000,
+      "den": 230000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp280",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây đứng đọt, rễ yếu, lá non ra chậm",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Sau thu hoạch, phục hồi cây",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ",
+      "Đất thiếu vi lượng",
+      "Đất cần bổ sung Kali cho giai đoạn nuôi trái",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "KELP EXTRACT KÍCH RỄ CHỒI phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Stress sau trồng, thiếu hormone tự nhiên hoặc rễ hoạt động kém. Nhờ đó, cây được hỗ trợ kích rễ, bật chồi, tăng sức chống chịu và giảm sốc sinh lý, đặc biệt nên dùng ở thời điểm sau trồng, sau thu hoạch, sau thời tiết bất lợi."
+  },
+  {
+    "product_id": "sp298",
+    "ten_san_pham": "BRASSINOLIDE + AMINO SEAWEED",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "brassinolide": "0,01%",
+      "amino_acid": "8%",
+      "rong_bien": "12%"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Giảm sốc",
+      "phục hồi cây nhanh",
+      "tăng sức chống chịu thời tiết bất lợi"
+    ],
+    "trieu_chung": [
+      "Cây đứng đọt, lá rũ nhẹ, chậm phục hồi sau phun thuốc/mưa nắng"
+    ],
+    "nguyen_nhan": [
+      "Stress sinh lý làm giảm trao đổi chất và hấp thu dinh dưỡng"
+    ],
+    "doi_tuong_cay_trong": [
+      "Rau màu",
+      "lúa",
+      "cây ăn trái",
+      "hoa",
+      "cà phê"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau stress thời tiết",
+      "sau phun thuốc",
+      "trước ra hoa"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun 1-2 lần cách 5-7 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không lạm dụng chất điều hòa",
+      "tránh phun giữa trưa nắng"
+    ],
+    "gia": {
+      "tu": 100000,
+      "den": 155000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp298",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây đứng đọt, lá rũ nhẹ, chậm phục hồi sau phun thuốc/mưa nắng",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Trước ra hoa",
+      "Sau thu hoạch, phục hồi cây",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "BRASSINOLIDE + AMINO SEAWEED phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Stress sinh lý làm giảm trao đổi chất và hấp thu dinh dưỡng. Nhờ đó, cây được hỗ trợ giảm sốc, phục hồi cây nhanh, tăng sức chống chịu thời tiết bất lợi, đặc biệt nên dùng ở thời điểm sau stress thời tiết, sau phun thuốc, trước ra hoa."
+  },
+  {
+    "product_id": "sp299",
+    "ten_san_pham": "COMBO KÍCH RỄ PHỤC HỒI",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "naa_thap_lieu": "NAA thấp liều",
+      "vitamin_b1": "Vitamin B1",
+      "humic": "5%",
+      "amino_acid": "10%",
+      "zn": "Zn"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Kích rễ trắng",
+      "phục hồi cây sau úng",
+      "sau thay chậu hoặc sau trồng"
+    ],
+    "trieu_chung": [
+      "Rễ nâu ít lông hút, cây héo nhẹ, lá vàng sau mưa/ngập"
+    ],
+    "nguyen_nhan": [
+      "Rễ bị tổn thương do thiếu oxy",
+      "nấm đất nhẹ hoặc sốc sau trồng"
+    ],
+    "doi_tuong_cay_trong": [
+      "Cây giống",
+      "rau màu",
+      "cây ăn trái",
+      "hoa kiểng"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau trồng",
+      "sau ngập úng",
+      "sau xử lý nấm rễ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 40-60ml/bình 16 lít tưới gốc; lặp lại sau 7 ngày",
+      "lieu_luong": "60ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Cần kết hợp thoát nước và xử lý nấm nếu rễ thối nặng"
+    ],
+    "gia": {
+      "tu": 110000,
+      "den": 170000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp299",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Rễ nâu ít lông hút, cây héo nhẹ, lá vàng sau mưa/ngập",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Tác động lên bệnh do nấm",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Sau thu hoạch, phục hồi cây",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ",
+      "Đất thiếu vi lượng",
+      "Môi trường ẩm cao, dễ phát sinh nấm bệnh"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "COMBO KÍCH RỄ PHỤC HỒI phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rễ bị tổn thương do thiếu oxy, nấm đất nhẹ hoặc sốc sau trồng. Nhờ đó, cây được hỗ trợ kích rễ trắng, phục hồi cây sau úng, sau thay chậu hoặc sau trồng, đặc biệt nên dùng ở thời điểm sau trồng, sau ngập úng, sau xử lý nấm rễ."
+  },
+  {
+    "product_id": "sp367",
+    "ten_san_pham": "ETHREL 240SL",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "ethephon": "240g/lít"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Điều hòa chín",
+      "hỗ trợ xử lý ra hoa/chín đồng loạt theo cây trồng"
+    ],
+    "trieu_chung": [
+      "Trái chín không đều, ra hoa lệch, khó thu hoạch tập trung"
+    ],
+    "nguyen_nhan": [
+      "Cần điều chỉnh ethylene nội sinh để thúc đẩy quá trình sinh lý"
+    ],
+    "doi_tuong_cay_trong": [
+      "Dứa",
+      "cà phê",
+      "cao su",
+      "một số cây ăn trái theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Giai đoạn xử lý ra hoa hoặc thúc chín theo quy trình"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha theo nhãn từng cây; dùng liều rất thận trọng"
+    },
+    "an_toan_su_dung": [
+      "Có tính acid",
+      "không pha thuốc kiềm",
+      "bảo hộ mắt da"
+    ],
+    "gia": {
+      "tu": 80000,
+      "den": 130000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp367",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Trái chín không đều, ra hoa lệch, khó thu hoạch tập trung",
+    "dac_tinh_benh": [
+      "Cần điều chỉnh ethylene nội sinh để thúc đẩy quá trình sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Trước ra hoa"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện canh tác thông thường"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "ETHREL 240SL phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cần điều chỉnh ethylene nội sinh để thúc đẩy quá trình sinh lý. Nhờ đó, cây được hỗ trợ điều hòa chín, hỗ trợ xử lý ra hoa/chín đồng loạt theo cây trồng, đặc biệt nên dùng ở thời điểm giai đoạn xử lý ra hoa hoặc thúc chín theo quy trình."
+  },
+  {
+    "product_id": "sp368",
+    "ten_san_pham": "CPPU + GA4/7 TĂNG SIZE TRÁI",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "cppu": "5g/lít",
+      "ga47": "10g/lít",
+      "phu_gia_tham": "phụ gia thấm"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Hỗ trợ tăng kích thước và độ đồng đều trái khi dùng đúng quy trình"
+    ],
+    "trieu_chung": [
+      "Trái nhỏ, kích cỡ không đồng đều, tỷ lệ loại 1 thấp"
+    ],
+    "nguyen_nhan": [
+      "Giai đoạn phân chia/giãn tế bào trái chưa tối ưu"
+    ],
+    "doi_tuong_cay_trong": [
+      "Nho",
+      "dưa",
+      "táo",
+      "cây ăn trái theo nhãn"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau đậu trái non theo thời điểm khuyến cáo từng cây"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha nồng độ thấp theo nhãn; xử lý trái/chùm, không phun tràn lan"
+    },
+    "an_toan_su_dung": [
+      "Rất nhạy liều",
+      "quá liều gây dị dạng, giảm phẩm chất"
+    ],
+    "gia": {
+      "tu": 160000,
+      "den": 250000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp368",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Trái nhỏ, kích cỡ không đồng đều, tỷ lệ loại 1 thấp",
+    "dac_tinh_benh": [
+      "Giai đoạn phân chia/giãn tế bào trái chưa tối ưu"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau đậu trái"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện canh tác thông thường"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "CPPU + GA4/7 TĂNG SIZE TRÁI phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Giai đoạn phân chia/giãn tế bào trái chưa tối ưu. Nhờ đó, cây được hỗ trợ hỗ trợ tăng kích thước và độ đồng đều trái khi dùng đúng quy trình, đặc biệt nên dùng ở thời điểm sau đậu trái non theo thời điểm khuyến cáo từng cây."
+  },
+  {
+    "product_id": "sp369",
+    "ten_san_pham": "AUXIN RA RỄ IBA 1%",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "indole_3_butyric_acid_iba": "1%",
+      "bot_bam_goc_hom": "bột bám gốc hom"
+    },
+    "quy_cach": "Hũ 100g",
+    "cong_dung": [
+      "Kích ra rễ hom giâm",
+      "tăng tỷ lệ sống cây giống"
+    ],
+    "trieu_chung": [
+      "Hom giâm lâu ra rễ, gốc hom khô/chai"
+    ],
+    "nguyen_nhan": [
+      "Thiếu auxin tại vết cắt hoặc giá thể giâm chưa tối ưu"
+    ],
+    "doi_tuong_cay_trong": [
+      "Hoa kiểng",
+      "cây cảnh",
+      "cây ăn trái nhân giống"
+    ],
+    "thoi_diem_xu_ly": [
+      "Ngay trước khi cắm hom"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Chấm nhẹ gốc hom vào bột rồi cắm vào giá thể ẩm sạch"
+    },
+    "an_toan_su_dung": [
+      "Không dùng quá nhiều gây thối hom",
+      "đeo găng khi thao tác"
+    ],
+    "gia": {
+      "tu": 70000,
+      "den": 120000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp369",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Hom giâm lâu ra rễ, gốc hom khô/chai",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Ngay trước khi cắm hom"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện canh tác thông thường"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "AUXIN RA RỄ IBA 1% phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu auxin tại vết cắt hoặc giá thể giâm chưa tối ưu. Nhờ đó, cây được hỗ trợ kích ra rễ hom giâm, tăng tỷ lệ sống cây giống, đặc biệt nên dùng ở thời điểm ngay trước khi cắm hom."
+  },
+  {
+    "product_id": "sp370",
+    "ten_san_pham": "KÍCH HOA LAN CYTOKININ PASTE",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "6_ba_cytokinin": "6-BA cytokinin",
+      "lanolin_nen_sap": "lanolin nền sáp",
+      "vitamin_ho_tro": "vitamin hỗ trợ"
+    },
+    "quy_cach": "Hũ 10g",
+    "cong_dung": [
+      "Kích mắt ngủ",
+      "tạo chồi/keiki trên lan và cây cảnh"
+    ],
+    "trieu_chung": [
+      "Mắt ngủ không bật, cây ít chồi, nhân giống chậm"
+    ],
+    "nguyen_nhan": [
+      "Mắt ngủ thiếu kích thích cytokinin hoặc cây chưa đủ tín hiệu bật chồi"
+    ],
+    "doi_tuong_cay_trong": [
+      "Hoa lan",
+      "cây cảnh",
+      "cây thân giả hành"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau khi cây khỏe",
+      "có mắt ngủ rõ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Bôi lượng nhỏ lên mắt ngủ đã làm sạch vảy che"
+    },
+    "an_toan_su_dung": [
+      "Không bôi quá nhiều",
+      "chỉ dùng trên cây khỏe, tránh mưa/nước trực tiếp"
+    ],
+    "gia": {
+      "tu": 90000,
+      "den": 150000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp370",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Mắt ngủ không bật, cây ít chồi, nhân giống chậm",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau khi cây khỏe",
+      "có mắt ngủ rõ"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện canh tác thông thường"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "KÍCH HOA LAN CYTOKININ PASTE phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Mắt ngủ thiếu kích thích cytokinin hoặc cây chưa đủ tín hiệu bật chồi. Nhờ đó, cây được hỗ trợ kích mắt ngủ, tạo chồi/keiki trên lan và cây cảnh, đặc biệt nên dùng ở thời điểm sau khi cây khỏe, có mắt ngủ rõ."
+  },
+  {
+    "product_id": "sp371",
+    "ten_san_pham": "SEAWEED ROOT BOOST",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "rong_bien": "20%",
+      "iaa_tu_nhien": "IAA tự nhiên",
+      "amino_acid": "8%",
+      "vitamin_b1": "Vitamin B1"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Kích rễ",
+      "giảm sốc sau trồng và tăng phục hồi cây con"
+    ],
+    "trieu_chung": [
+      "Cây con héo nhẹ, chậm bén rễ, lá vàng sau trồng"
+    ],
+    "nguyen_nhan": [
+      "Rễ tổn thương khi bứng trồng hoặc môi trường mới chưa ổn định"
+    ],
+    "doi_tuong_cay_trong": [
+      "Rau màu",
+      "hoa",
+      "cây giống",
+      "cây ăn trái"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau trồng",
+      "sau thay chậu",
+      "sau ngập úng nhẹ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 30ml/bình 16 lít tưới gốc; lặp lại sau 7 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không tưới khi đất quá úng",
+      "kết hợp thoát nước tốt"
+    ],
+    "gia": {
+      "tu": 85000,
+      "den": 130000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp371",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây con héo nhẹ, chậm bén rễ, lá vàng sau trồng",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Sau thu hoạch, phục hồi cây",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "SEAWEED ROOT BOOST phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rễ tổn thương khi bứng trồng hoặc môi trường mới chưa ổn định. Nhờ đó, cây được hỗ trợ kích rễ, giảm sốc sau trồng và tăng phục hồi cây con, đặc biệt nên dùng ở thời điểm sau trồng, sau thay chậu, sau ngập úng nhẹ."
+  },
+  {
+    "product_id": "sp372",
+    "ten_san_pham": "ANTI DROP FLOWER FRUIT",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "naa_thap_lieu": "NAA thấp liều",
+      "bo": "2%",
+      "zn": "2%",
+      "amino_acid": "6%"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Hạn chế rụng hoa/trái non",
+      "hỗ trợ thụ phấn và giữ cuống"
+    ],
+    "trieu_chung": [
+      "Hoa rụng hàng loạt, trái non vàng cuống"
+    ],
+    "nguyen_nhan": [
+      "Thiếu Bo-Kẽm",
+      "mất cân bằng auxin hoặc stress thời tiết"
+    ],
+    "doi_tuong_cay_trong": [
+      "Xoài",
+      "nhãn",
+      "cam quýt",
+      "cà phê",
+      "rau ăn trái"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước nở hoa và sau đậu trái non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun sương đều tán",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun quá liều",
+      "tránh phun khi hoa đang ướt mưa"
+    ],
+    "gia": {
+      "tu": 90000,
+      "den": 140000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp372",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Hoa rụng hàng loạt, trái non vàng cuống",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau đậu trái",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "ANTI DROP FLOWER FRUIT phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu Bo-Kẽm, mất cân bằng auxin hoặc stress thời tiết. Nhờ đó, cây được hỗ trợ hạn chế rụng hoa/trái non, hỗ trợ thụ phấn và giữ cuống, đặc biệt nên dùng ở thời điểm trước nở hoa và sau đậu trái non."
+  },
+  {
+    "product_id": "sp373",
+    "ten_san_pham": "BRASSINOLIDE + SALICYLIC ACID",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "brassinolide": "0,01%",
+      "salicylic_acid": "1%",
+      "amino_acid": "amino acid"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Tăng chống chịu stress và kích hoạt đề kháng tự nhiên"
+    ],
+    "trieu_chung": [
+      "Cây chậm phục hồi, dễ nhiễm bệnh, lá mỏng"
+    ],
+    "nguyen_nhan": [
+      "Stress sinh lý làm giảm miễn dịch và quang hợp"
+    ],
+    "doi_tuong_cay_trong": [
+      "Rau màu",
+      "cây ăn trái",
+      "lúa",
+      "hoa",
+      "cà phê"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước/sau thời tiết bất lợi",
+      "trước mùa bệnh"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun 7-10 ngày/lần",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không thay thế thuốc đặc trị bệnh",
+      "tránh phối kiềm mạnh"
+    ],
+    "gia": {
+      "tu": 110000,
+      "den": 165000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp373",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây chậm phục hồi, dễ nhiễm bệnh, lá mỏng",
+    "dac_tinh_benh": [
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau thu hoạch, phục hồi cây",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "BRASSINOLIDE + SALICYLIC ACID phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Stress sinh lý làm giảm miễn dịch và quang hợp. Nhờ đó, cây được hỗ trợ tăng chống chịu stress và kích hoạt đề kháng tự nhiên, đặc biệt nên dùng ở thời điểm trước/sau thời tiết bất lợi, trước mùa bệnh."
+  },
+  {
+    "product_id": "sp374",
+    "ten_san_pham": "TRIACONTANOL + AMINO",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "triacontanol": "0,05%",
+      "amino_acid": "10%",
+      "vi_luong": "vi lượng"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Tăng quang hợp",
+      "kích sinh trưởng và phục hồi lá"
+    ],
+    "trieu_chung": [
+      "Lá nhạt, cây chậm lớn, sinh trưởng không đồng đều"
+    ],
+    "nguyen_nhan": [
+      "Hoạt động quang hợp thấp do thời tiết hoặc thiếu dinh dưỡng dễ hấp thu"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa",
+      "rau màu",
+      "cây ăn trái",
+      "chè",
+      "hoa"
+    ],
+    "thoi_diem_xu_ly": [
+      "Giai đoạn sinh trưởng mạnh",
+      "sau trồng",
+      "sau thu hoạch"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-25ml/bình 16 lít; phun sáng sớm",
+      "lieu_luong": "25ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không dùng quá liều",
+      "không phun cây thiếu nước"
+    ],
+    "gia": {
+      "tu": 75000,
+      "den": 115000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp374",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Lá nhạt, cây chậm lớn, sinh trưởng không đồng đều",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Giai đoạn sinh trưởng mạnh",
+      "Sau thu hoạch, phục hồi cây"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "TRIACONTANOL + AMINO phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Hoạt động quang hợp thấp do thời tiết hoặc thiếu dinh dưỡng dễ hấp thu. Nhờ đó, cây được hỗ trợ tăng quang hợp, kích sinh trưởng và phục hồi lá, đặc biệt nên dùng ở thời điểm giai đoạn sinh trưởng mạnh, sau trồng, sau thu hoạch."
+  },
+  {
+    "product_id": "sp375",
+    "ten_san_pham": "KÍCH MẦM HOA LÂN KALI HORMONE",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "p2o5": "25%",
+      "k2o": "25%",
+      "bo_zn": "Bo, Zn",
+      "chat_dieu_hoa_sinh_truong_ham_luong_thap": "chất điều hòa sinh trưởng hàm lượng thấp"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Hỗ trợ phân hóa mầm hoa",
+      "giúp hoa ra đồng loạt"
+    ],
+    "trieu_chung": [
+      "Cây tốt lá nhưng ít hoa, ra hoa không đều"
+    ],
+    "nguyen_nhan": [
+      "Dư đạm",
+      "thiếu Lân-Kali hoặc chưa đủ tín hiệu sinh sản"
+    ],
+    "doi_tuong_cay_trong": [
+      "Xoài",
+      "nhãn",
+      "sầu riêng",
+      "thanh long",
+      "hoa"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi lá đã già",
+      "trước thời điểm xử lý ra hoa"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun 2 lần cách 7 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không dùng cho cây suy",
+      "cần kết hợp nước và dinh dưỡng hợp lý"
+    ],
+    "gia": {
+      "tu": 95000,
+      "den": 150000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp375",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây tốt lá nhưng ít hoa, ra hoa không đều",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Trước ra hoa"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất phèn hoặc đất chua",
+      "Đất thiếu vi lượng",
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Đất cần bổ sung Kali cho giai đoạn nuôi trái"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "KÍCH MẦM HOA LÂN KALI HORMONE phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Dư đạm, thiếu Lân-Kali hoặc chưa đủ tín hiệu sinh sản. Nhờ đó, cây được hỗ trợ hỗ trợ phân hóa mầm hoa, giúp hoa ra đồng loạt, đặc biệt nên dùng ở thời điểm khi lá đã già, trước thời điểm xử lý ra hoa."
+  },
+  {
+    "product_id": "sp376",
+    "ten_san_pham": "PHỤC HỒI CÂY SAU NGỘ ĐỘC",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "amino_acid": "12%",
+      "fulvic": "10%",
+      "rong_bien": "rong biển",
+      "vitamin_b1": "vitamin B1",
+      "vi_luong_chelate": "vi lượng chelate"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Giải stress sinh lý",
+      "hỗ trợ cây hồi phục sau ngộ độc thuốc/phèn/mặn nhẹ"
+    ],
+    "trieu_chung": [
+      "Lá cháy mép nhẹ, cây đứng đọt, rễ hấp thu kém"
+    ],
+    "nguyen_nhan": [
+      "Cây bị sốc do thuốc",
+      "phèn/mặn nhẹ hoặc thời tiết cực đoan"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa",
+      "rau màu",
+      "cây ăn trái",
+      "hoa"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau khi phát hiện triệu chứng stress nhẹ và đã ngưng nguyên nhân gây hại"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 30-50ml/bình 16 lít phun; tưới gốc 100ml/phuy 200 lít",
+      "lieu_luong": "50ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không thay biện pháp rửa phèn/mặn",
+      "không phối thêm thuốc mạnh"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 200000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp376",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Lá cháy mép nhẹ, cây đứng đọt, rễ hấp thu kém",
+    "dac_tinh_benh": [
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ",
+      "Đất thiếu vi lượng",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "PHỤC HỒI CÂY SAU NGỘ ĐỘC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây bị sốc do thuốc, phèn/mặn nhẹ hoặc thời tiết cực đoan. Nhờ đó, cây được hỗ trợ giải stress sinh lý, hỗ trợ cây hồi phục sau ngộ độc thuốc/phèn/mặn nhẹ, đặc biệt nên dùng ở thời điểm sau khi phát hiện triệu chứng stress nhẹ và đã ngưng nguyên nhân gây hại."
+  },
+  {
+    "product_id": "sp457",
+    "ten_san_pham": "GA3 + BO KẼM RA HOA",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "ga3_ham_luong_thap": "GA3 hàm lượng thấp",
+      "b": "2%",
+      "zn": "2%",
+      "amino_acid": "5%"
+    },
+    "quy_cach": "Chai 250ml",
+    "cong_dung": [
+      "Hỗ trợ ra hoa đồng loạt",
+      "tăng sức sống hạt phấn"
+    ],
+    "trieu_chung": [
+      "Hoa ra không đều, rụng nụ, đậu trái kém"
+    ],
+    "nguyen_nhan": [
+      "Mất cân bằng hormone và thiếu Bo-Kẽm trước thụ phấn"
+    ],
+    "doi_tuong_cay_trong": [
+      "Cà phê",
+      "xoài",
+      "nhãn",
+      "rau ăn trái"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước ra hoa và khi nụ phát triển"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 10-20ml/bình 16 lít; phun sương đều",
+      "lieu_luong": "20ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không dùng quá liều GA",
+      "tránh phun khi cây thiếu nước"
+    ],
+    "gia": {
+      "tu": 75000,
+      "den": 115000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp457",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Hoa ra không đều, rụng nụ, đậu trái kém",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Trước ra hoa",
+      "Sau đậu trái"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "GA3 + BO KẼM RA HOA phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Mất cân bằng hormone và thiếu Bo-Kẽm trước thụ phấn. Nhờ đó, cây được hỗ trợ hỗ trợ ra hoa đồng loạt, tăng sức sống hạt phấn, đặc biệt nên dùng ở thời điểm trước ra hoa và khi nụ phát triển."
+  },
+  {
+    "product_id": "sp458",
+    "ten_san_pham": "AUXIN CHỐNG RỤNG TRÁI NON",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "naa": "0,5%",
+      "amino_acid": "8%",
+      "bo": "1%",
+      "cao": "5%"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Giảm rụng trái non sinh lý",
+      "giúp cuống trái chắc hơn"
+    ],
+    "trieu_chung": [
+      "Trái non vàng cuống, rụng sau mưa/nắng thất thường"
+    ],
+    "nguyen_nhan": [
+      "Mất cân bằng auxin",
+      "thiếu Canxi-Bo hoặc cây stress"
+    ],
+    "doi_tuong_cay_trong": [
+      "Cam quýt",
+      "xoài",
+      "nhãn",
+      "cà phê",
+      "rau ăn trái"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau đậu trái 7-15 ngày"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun 1-2 lần cách 7 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không dùng quá liều",
+      "không phun lúc hoa đang ướt"
+    ],
+    "gia": {
+      "tu": 90000,
+      "den": 140000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp458",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Trái non vàng cuống, rụng sau mưa/nắng thất thường",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau đậu trái",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng",
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "AUXIN CHỐNG RỤNG TRÁI NON phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Mất cân bằng auxin, thiếu Canxi-Bo hoặc cây stress. Nhờ đó, cây được hỗ trợ giảm rụng trái non sinh lý, giúp cuống trái chắc hơn, đặc biệt nên dùng ở thời điểm sau đậu trái 7-15 ngày."
+  },
+  {
+    "product_id": "sp459",
+    "ten_san_pham": "CYTOKININ KÍCH MẮT NGỦ",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "6_ba": "2%",
+      "rong_bien": "rong biển",
+      "vitamin_b1": "vitamin B1"
+    },
+    "quy_cach": "Chai 100ml",
+    "cong_dung": [
+      "Kích bật mắt ngủ",
+      "ra chồi mới và phục hồi tán"
+    ],
+    "trieu_chung": [
+      "Mắt ngủ không bật, tán thưa, cây ít cành hữu hiệu"
+    ],
+    "nguyen_nhan": [
+      "Thiếu cytokinin hoặc cây suy sau thu hoạch/cắt tỉa"
+    ],
+    "doi_tuong_cay_trong": [
+      "Cây ăn trái",
+      "hoa kiểng",
+      "cây cảnh",
+      "vườn ươm"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau cắt tỉa",
+      "sau thu hoạch",
+      "khi cây đủ sức"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 5-10ml/bình 16 lít hoặc quét điểm theo nhãn",
+      "lieu_luong": "10ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Chỉ dùng trên cây khỏe",
+      "quá liều có thể làm chồi dị dạng"
+    ],
+    "gia": {
+      "tu": 85000,
+      "den": 135000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp459",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Mắt ngủ không bật, tán thưa, cây ít cành hữu hiệu",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau thu hoạch, phục hồi cây"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "CYTOKININ KÍCH MẮT NGỦ phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu cytokinin hoặc cây suy sau thu hoạch/cắt tỉa. Nhờ đó, cây được hỗ trợ kích bật mắt ngủ, ra chồi mới và phục hồi tán, đặc biệt nên dùng ở thời điểm sau cắt tỉa, sau thu hoạch, khi cây đủ sức."
+  },
+  {
+    "product_id": "sp460",
+    "ten_san_pham": "SEAWEED BRASSINOLIDE CHỐNG SỐC",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "rong_bien": "20%",
+      "brassinolide": "0,01%",
+      "betaine": "betaine",
+      "amino_acid": "amino acid"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Giảm sốc nhiệt",
+      "hạn",
+      "mặn",
+      "phục hồi cây sau phun thuốc"
+    ],
+    "trieu_chung": [
+      "Lá đứng, cây chậm lớn, đọt ngừng phát triển"
+    ],
+    "nguyen_nhan": [
+      "Stress sinh lý do thời tiết hoặc ngộ độc nhẹ"
+    ],
+    "doi_tuong_cay_trong": [
+      "Rau màu",
+      "lúa",
+      "cây ăn trái",
+      "hoa",
+      "cà phê"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước/sau thời tiết bất lợi",
+      "sau phun thuốc"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun 1-2 lần cách 5-7 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không pha với chất oxy hóa mạnh",
+      "không thay thuốc trị bệnh"
+    ],
+    "gia": {
+      "tu": 130000,
+      "den": 200000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp460",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Lá đứng, cây chậm lớn, đọt ngừng phát triển",
+    "dac_tinh_benh": [
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau thu hoạch, phục hồi cây",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "SEAWEED BRASSINOLIDE CHỐNG SỐC phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Stress sinh lý do thời tiết hoặc ngộ độc nhẹ. Nhờ đó, cây được hỗ trợ giảm sốc nhiệt, hạn, mặn; phục hồi cây sau phun thuốc, đặc biệt nên dùng ở thời điểm trước/sau thời tiết bất lợi, sau phun thuốc."
+  },
+  {
+    "product_id": "sp461",
+    "ten_san_pham": "CHITOSAN + AMINO ĐỀ KHÁNG",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "chitosan_oligosaccharide": "3%",
+      "amino_acid": "10%",
+      "vi_luong": "vi lượng"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Kích hoạt đề kháng tự nhiên",
+      "phục hồi cây và tăng rễ"
+    ],
+    "trieu_chung": [
+      "Cây yếu, dễ bệnh, lá mỏng, rễ kém"
+    ],
+    "nguyen_nhan": [
+      "Cây bị stress",
+      "thiếu dinh dưỡng hữu cơ và sức đề kháng thấp"
+    ],
+    "doi_tuong_cay_trong": [
+      "Rau màu",
+      "cây ăn trái",
+      "lúa",
+      "hoa"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước mùa bệnh",
+      "sau mưa",
+      "sau trồng"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun/tưới định kỳ 7-10 ngày",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không thay thế thuốc đặc trị khi bệnh nặng",
+      "tránh pha oxy hóa mạnh"
+    ],
+    "gia": {
+      "tu": 95000,
+      "den": 145000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp461",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây yếu, dễ bệnh, lá mỏng, rễ kém",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con",
+      "Sau thu hoạch, phục hồi cây",
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ",
+      "Đất thiếu vi lượng",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "CHITOSAN + AMINO ĐỀ KHÁNG phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Cây bị stress, thiếu dinh dưỡng hữu cơ và sức đề kháng thấp. Nhờ đó, cây được hỗ trợ kích hoạt đề kháng tự nhiên, phục hồi cây và tăng rễ, đặc biệt nên dùng ở thời điểm trước mùa bệnh, sau mưa, sau trồng."
+  },
+  {
+    "product_id": "sp462",
+    "ten_san_pham": "BETAINE CHỐNG HẠN MẶN",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "glycine_betaine": "10%",
+      "amino_acid": "8%",
+      "kali_huu_co": "Kali hữu cơ"
+    },
+    "quy_cach": "Chai 1 lít",
+    "cong_dung": [
+      "Giúp cây chống chịu hạn",
+      "mặn và sốc nhiệt tốt hơn"
+    ],
+    "trieu_chung": [
+      "Lá cuốn, héo nhẹ, mép lá cháy do nắng/mặn"
+    ],
+    "nguyen_nhan": [
+      "Mất nước tế bào",
+      "áp suất thẩm thấu cao do hạn hoặc mặn"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa",
+      "rau màu",
+      "cây ăn trái",
+      "hoa"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước đợt nắng nóng/mặn hoặc ngay sau khi bị stress nhẹ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 30-40ml/bình 16 lít; phun sáng sớm/chiều mát",
+      "lieu_luong": "40ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không thay biện pháp tưới rửa mặn",
+      "kết hợp quản lý nước"
+    ],
+    "gia": {
+      "tu": 140000,
+      "den": 210000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp462",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Lá cuốn, héo nhẹ, mép lá cháy do nắng/mặn",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Sau điều kiện thời tiết bất lợi"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ",
+      "Đất thiếu vi lượng",
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Đất cần bổ sung Kali cho giai đoạn nuôi trái",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "BETAINE CHỐNG HẠN MẶN phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Mất nước tế bào, áp suất thẩm thấu cao do hạn hoặc mặn. Nhờ đó, cây được hỗ trợ giúp cây chống chịu hạn, mặn và sốc nhiệt tốt hơn, đặc biệt nên dùng ở thời điểm trước đợt nắng nóng/mặn hoặc ngay sau khi bị stress nhẹ."
+  },
+  {
+    "product_id": "sp463",
+    "ten_san_pham": "VITAMIN B1 KÍCH RỄ",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "vitamin_b1": "1%",
+      "naa_thap_lieu": "NAA thấp liều",
+      "humic": "humic",
+      "amino_acid": "amino acid"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Kích rễ",
+      "giảm sốc sau thay chậu",
+      "bứng trồng"
+    ],
+    "trieu_chung": [
+      "Cây mới trồng héo, rễ ít, lá vàng nhẹ"
+    ],
+    "nguyen_nhan": [
+      "Rễ bị tổn thương cơ học hoặc môi trường mới chưa ổn định"
+    ],
+    "doi_tuong_cay_trong": [
+      "Hoa kiểng",
+      "cây cảnh",
+      "cây giống",
+      "cây ăn trái"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau trồng",
+      "sau thay chậu",
+      "sau cắt rễ"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-40ml/bình 16 lít tưới gốc; lặp lại sau 7 ngày",
+      "lieu_luong": "40ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không tưới khi đất quá úng",
+      "giữ ẩm vừa phải"
+    ],
+    "gia": {
+      "tu": 70000,
+      "den": 110000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp463",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây mới trồng héo, rễ ít, lá vàng nhẹ",
+    "dac_tinh_benh": [
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Cây con"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "VITAMIN B1 KÍCH RỄ phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Rễ bị tổn thương cơ học hoặc môi trường mới chưa ổn định. Nhờ đó, cây được hỗ trợ kích rễ, giảm sốc sau thay chậu, bứng trồng, đặc biệt nên dùng ở thời điểm sau trồng, sau thay chậu, sau cắt rễ."
+  },
+  {
+    "product_id": "sp464",
+    "ten_san_pham": "SEAWEED FLOWER SET",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "rong_bien": "15%",
+      "amino_acid": "8%",
+      "b": "2%",
+      "zn": "2%",
+      "k2o": "5%"
+    },
+    "quy_cach": "Chai 500ml",
+    "cong_dung": [
+      "Tăng đậu trái",
+      "giảm rụng hoa và hỗ trợ cây qua giai đoạn ra hoa"
+    ],
+    "trieu_chung": [
+      "Hoa rụng, nụ yếu, trái non ít"
+    ],
+    "nguyen_nhan": [
+      "Stress thời tiết và thiếu Bo-Kẽm lúc thụ phấn"
+    ],
+    "doi_tuong_cay_trong": [
+      "Xoài",
+      "nhãn",
+      "cà phê",
+      "hồ tiêu",
+      "rau ăn trái"
+    ],
+    "thoi_diem_xu_ly": [
+      "Trước hoa nở và sau đậu trái non"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 20-30ml/bình 16 lít; phun sáng sớm",
+      "lieu_luong": "30ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không phun khi hoa đang ướt mưa",
+      "tránh phối thuốc mạnh"
+    ],
+    "gia": {
+      "tu": 90000,
+      "den": 140000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp464",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Hoa rụng, nụ yếu, trái non ít",
+    "dac_tinh_benh": [
+      "Có nguy cơ lây lan nhanh qua gió hoặc nước mưa",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Trước ra hoa",
+      "Sau đậu trái"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất nghèo hữu cơ",
+      "Đất thiếu vi lượng",
+      "Đất canh tác lâu năm, dễ thiếu Canxi-Bo",
+      "Đất cần bổ sung Kali cho giai đoạn nuôi trái",
+      "Điều kiện hạn, mặn hoặc sốc thời tiết"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "SEAWEED FLOWER SET phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Stress thời tiết và thiếu Bo-Kẽm lúc thụ phấn. Nhờ đó, cây được hỗ trợ tăng đậu trái, giảm rụng hoa và hỗ trợ cây qua giai đoạn ra hoa, đặc biệt nên dùng ở thời điểm trước hoa nở và sau đậu trái non."
+  },
+  {
+    "product_id": "sp465",
+    "ten_san_pham": "TRIACONTANOL LÚA ĐẺ NHÁNH",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "triacontanol": "0,1%",
+      "zn": "1%",
+      "amino_acid": "5%"
+    },
+    "quy_cach": "Chai 250ml",
+    "cong_dung": [
+      "Hỗ trợ lúa đẻ nhánh",
+      "xanh lá và tăng quang hợp"
+    ],
+    "trieu_chung": [
+      "Lúa đẻ nhánh kém, lá nhạt, ruộng thưa"
+    ],
+    "nguyen_nhan": [
+      "Thiếu dinh dưỡng",
+      "thời tiết bất lợi hoặc cây sinh trưởng chậm"
+    ],
+    "doi_tuong_cay_trong": [
+      "Lúa"
+    ],
+    "thoi_diem_xu_ly": [
+      "Sau sạ/cấy",
+      "giai đoạn đẻ nhánh"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Pha 15-20ml/bình 16 lít; phun đều ruộng",
+      "lieu_luong": "20ml",
+      "luong_nuoc": "16 lít"
+    },
+    "an_toan_su_dung": [
+      "Không thay thế bón phân gốc",
+      "tránh phun lúc nắng gắt"
+    ],
+    "gia": {
+      "tu": 55000,
+      "den": 85000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp465",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Lúa đẻ nhánh kém, lá nhạt, ruộng thưa",
+    "dac_tinh_benh": [
+      "Bổ sung dinh dưỡng thiếu hụt cho cây",
+      "Giúp cây phục hồi sau stress sinh lý"
+    ],
+    "giai_doan_phu_hop": [
+      "Giai đoạn sinh trưởng mạnh"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất thiếu vi lượng"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "TRIACONTANOL LÚA ĐẺ NHÁNH phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Thiếu dinh dưỡng, thời tiết bất lợi hoặc cây sinh trưởng chậm. Nhờ đó, cây được hỗ trợ hỗ trợ lúa đẻ nhánh, xanh lá và tăng quang hợp, đặc biệt nên dùng ở thời điểm sau sạ/cấy, giai đoạn đẻ nhánh."
+  },
+  {
+    "product_id": "sp466",
+    "ten_san_pham": "PACLOBUTRAZOL DẠNG HẠT",
+    "loai": "thuoc_kich_thich_sinh_truong",
+    "thanh_phan": {
+      "paclobutrazol": "10%",
+      "chat_mang_hat": "chất mang hạt"
+    },
+    "quy_cach": "Gói 1kg",
+    "cong_dung": [
+      "Ức chế sinh trưởng thân lá",
+      "hỗ trợ xử lý ra hoa cây ăn trái"
+    ],
+    "trieu_chung": [
+      "Cây quá sung, ra đọt liên tục, khó ra hoa"
+    ],
+    "nguyen_nhan": [
+      "Dư đạm và cây chưa chuyển sang pha sinh sản"
+    ],
+    "doi_tuong_cay_trong": [
+      "Xoài",
+      "nhãn",
+      "cây ăn trái theo quy trình"
+    ],
+    "thoi_diem_xu_ly": [
+      "Khi lá đã già và cây đủ sức xử lý ra hoa"
+    ],
+    "huong_dan_su_dung": {
+      "cach_dung": "Rải/tưới quanh vùng rễ theo liều nhãn và tuổi cây"
+    },
+    "an_toan_su_dung": [
+      "Không dùng cây suy",
+      "dư liều ảnh hưởng nhiều vụ sau"
+    ],
+    "gia": {
+      "tu": 180000,
+      "den": 280000,
+      "don_vi": "VND"
+    },
+    "url_img": "IMG/sp466",
+    "rule_key": "thuoc_kich_thich_sinh_truong | Cây quá sung, ra đọt liên tục, khó ra hoa",
+    "dac_tinh_benh": [
+      "Có khả năng phòng ngừa và ức chế phát triển",
+      "Bổ sung dinh dưỡng thiếu hụt cho cây"
+    ],
+    "giai_doan_phu_hop": [
+      "Giai đoạn sinh trưởng mạnh",
+      "Trước ra hoa"
+    ],
+    "loai_dat_moi_truong": [
+      "Đất cần bổ sung Kali cho giai đoạn nuôi trái"
+    ],
+    "goi_y_phoi_hop": [
+      "Phân bón lá vi lượng",
+      "Amino Acid hoặc rong biển"
+    ],
+    "ly_do_chuyen_gia": "PACLOBUTRAZOL DẠNG HẠT phù hợp vì sản phẩm tập trung xử lý nguyên nhân: Dư đạm và cây chưa chuyển sang pha sinh sản. Nhờ đó, cây được hỗ trợ ức chế sinh trưởng thân lá, hỗ trợ xử lý ra hoa cây ăn trái, đặc biệt nên dùng ở thời điểm khi lá đã già và cây đủ sức xử lý ra hoa."
+  }
+]

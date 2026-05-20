@@ -1,0 +1,11 @@
+{
+  "source": "data/dataset/data_enriched.json",
+  "total_records": 500,
+  "groups": {
+    "phan_bon": 167,
+    "thuoc_kich_thich_sinh_truong": 51,
+    "thuoc_tru_benh": 117,
+    "thuoc_tru_co": 54,
+    "thuoc_tru_sau": 111
+  }
+}
